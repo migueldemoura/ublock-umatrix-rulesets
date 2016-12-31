@@ -1,0 +1,196 @@
+###
+### Author: Miguel de Moura
+### Git: https://github.com/migueldemoura/ublock-lists
+### License: https://github.com/migueldemoura/ublock-lists/blob/master/README.md
+###
+#-----------------------------------------------------------
+#---------#### General Ads, Analytics & Tracking ####-------
+#-----------------------------------------------------------
+### Mailtrack Gmail
+||googleusercontent.com/proxy/*mailtrack.io
+#
+# CPanel Ads
+###Attracta_SEO-group
+###soft_div-group
+#
+||gravatar.com^$third-party
+||mobilenations.com^
+||quantummetric.com^
+||beacons*.gvt*.com/domainreliability
+||www.amazon.com/ah/ajax/record-impressions
+#-----------------------------------------------------------
+#-----------------------------------------------------------
+#-----------------------------------------------------------
+#-----------------#### Fixes/Workarounds ####---------------
+#-----------------------------------------------------------
+@@||googleusercontent.com/proxy/*/linkedin.png^
+#-----------------------------------------------------------
+#-----------------------------------------------------------
+#-----------------------------------------------------------
+#---------------------#### Services ####--------------------
+#-----------------------------------------------------------
+#-----------------------------------------------------------
+#----------------------### Facebook ###---------------------
+#-----------------------------------------------------------
+#----------## Tracking ##-----------
+#-----------------------------------
+# Breaks search preview
+||www.facebook.com/ajax/bz
+#
+# Breaks mentions
+||www.facebook.com/typeahead/
+#
+# Block videos
+||video.flis*.fna.fbcdn.net
+||www.facebook.com/ajax/photos/snowlift
+||www.facebook.com/mercury/attachments/video
+||www.facebook.com/video/autoplay
+#
+# Block typing inline alerts in posts
+||www.facebook.com/ufi/typing
+#
+# Prevent opening group posts so as not to trigger the server-side "seen" status.
+# Please, manually open the group page instead.
+||www.facebook.com/groups/*/*/$document
+||www.facebook.com/groups/*/permalink/$document
+#
+||*-edge-chat.facebook.com/active_ping
+||*-edge-chat.facebook.com/probe
+||*-edge-chat.facebook.com/sub
+||www.facebook.com/ajax/browse/null_state
+||www.facebook.com/ajax/bz$important
+||www.facebook.com/ajax/litestand/newsfeed_count$important
+||www.facebook.com/ajax/mercury/change_read_status
+||www.facebook.com/ajax/mercury/delivery_receipts
+||www.facebook.com/ajax/mercury/unread_threads
+||www.facebook.com/ajax/messaging/typ
+||www.facebook.com/ajax/notifications/mark_read$important
+||www.facebook.com/ajax/notifications/mark_seen
+||www.facebook.com/ajax/ssinfeed
+||www.facebook.com/ajax/typeahead$important
+||www.facebook.com/api/graphqlbatch
+||www.facebook.com/groupcall/nux
+||www.facebook.com/mercury/unseen_thread_ids
+||www.facebook.com/p2p
+||www.facebook.com/pages/show_live_insights
+||www.facebook.com/privacy/promotion_triggers
+||www.facebook.com/react_composer/logging
+#-----------------------------------
+#----------## Cosmetic ##-----------
+#-----------------------------------
+# Block "Add Friends to See More Stories" Feed Message
+www.facebook.com##div[id^=more_pager_pagelet] div[id^=more_pager_pagelet]
+#
+# Blocks "Get Messenger on Your Phone" Sidebar Message
+www.facebook.com##._1wcc
+#
+# Collapse all visible sideNavs and hide the corresponding "See More..." links
+www.facebook.com##.droppableNav > .sideNavItem:style(display: block !important)
+#
+www.facebook.com##.droppableNav > li > a[role=button]
+www.facebook.com###appsNav
+www.facebook.com###createNav
+www.facebook.com###events_suggestion_pagelet
+www.facebook.com###eventsNav
+www.facebook.com###feedx_sprouts_container
+www.facebook.com###fundraisersNav
+www.facebook.com###globalContainer:style(min-height: 0 !important)
+www.facebook.com###GroupsRHCSuggestionSection
+www.facebook.com###groupsTagBox
+www.facebook.com###interestsNav
+www.facebook.com###listsNav
+www.facebook.com###pagelet_advertiser_panel
+www.facebook.com###pagelet_ego_pane
+www.facebook.com###pagelet_rhc_footer
+www.facebook.com###pagelet_suggested_events
+www.facebook.com###pagesNav
+www.facebook.com###substream_1
+www.facebook.com###suggestedNav
+www.facebook.com##.fbReminders
+www.facebook.com##.fbRemindersThickline
+www.facebook.com##.home_right_column:style(min-height: 0 !important)
+www.facebook.com##.rhcFooter
+#-----------------------------------------------------------
+#-----------------------------------------------------------
+#-----------------------------------------------------------
+#----------------------### Feedly ###-----------------------
+#-----------------------------------
+#----------## Cosmetic ##-----------
+#-----------------------------------
+# Removes the extra tabs from the sidebar.
+# The second line is a hacky solution to the margin problem
+feedly.com###feedlyTabs > div:has(#moreTabs)
+feedly.com###tagList:style(height: 14px)
+#
+feedly.com###proAdModule_part
+feedly.com###savedtab
+feedly.com###searchBarFX
+feedly.com##.header.row > h1:style(margin-top: 0)
+feedly.com##.secondary.fx-button:style(padding: 10px !important)
+feedly.com##.small.primary.fx-button
+feedly.com##.widget-related-feeds
+feedly.com##button.save-for-later
+feedly.com##div.hint
+#-----------------------------------------------------------
+#-----------------------------------------------------------
+#-----------------------------------------------------------
+#----------------------### Linkedin ###---------------------
+#-----------------------------------------------------------
+#----------## Tracking ##-----------
+#-----------------------------------
+# Breaks feed
+||www.linkedin.com/hp/modules/ozfeed/fetchNewUpdates
+||www.linkedin.com/hp/modules/ozfeed/page
+||www.linkedin.com/hp/modules/ozfeed/pollNewUpdates
+#
+||slidesharecdn.com^
+||www.linkedin.com/fetch/impressionSubmit
+||www.linkedin.com/fizzy/admin
+||www.linkedin.com/hp/activity-tracking$document
+||www.linkedin.com/hp/activity-tracking$important
+||www.linkedin.com/hp/influencer-entitlement
+||www.linkedin.com/hp/trk/failure
+||www.linkedin.com/li/track
+||www.linkedin.com/lite/contentsecurity
+||www.linkedin.com/lite/lego-impression-tracking
+||www.linkedin.com/lite/rum-track
+||www.linkedin.com/lite/secure-web-action-track
+||www.linkedin.com/lite/ua/error
+||www.linkedin.com/messaging/beacon
+||www.linkedin.com/mob/tracking
+||www.linkedin.com/profile/suggested-endorsements-impression
+||www.linkedin.com/psettings/tracking
+||www.linkedin.com/wvmx/profile/tracking
+||www.linkedin.com/you/guidededit
+#-----------------------------------
+#----------## Cosmetic ##-----------
+#-----------------------------------
+www.linkedin.com###course-recommendations
+www.linkedin.com###endorsements-connections
+www.linkedin.com###filters
+www.linkedin.com###nav-link-interests
+www.linkedin.com###ozfeed-container
+www.linkedin.com###sidebar-footer
+www.linkedin.com###siteflow-widget-next
+www.linkedin.com##.nav-bar.main-nav.nav > .nav-item:nth-of-type(1) > .nav-link
+www.linkedin.com##.nav-bar.main-nav.nav > .nav-item:nth-of-type(4) > .nav-link
+www.linkedin.com##.nav-bar.premium-nav.nav
+www.linkedin.com##.nav-item:nth-of-type(1) > .no-link.nav-link
+www.linkedin.com##.nav-item:nth-of-type(5) > .nav-link
+www.linkedin.com##.wvmp-upsell
+#-----------------------------------------------------------
+#-----------------------------------------------------------
+#-----------------------------------------------------------
+#----------------------### Youtube ###----------------------
+#-----------------------------------------------------------
+#----------## Cosmetic ##-----------
+#-----------------------------------
+www.youtube.com###appbar-guide-button
+www.youtube.com###appbar-guide-menu
+www.youtube.com###appbar-nav
+www.youtube.com###feed
+www.youtube.com###search-secondary-col-contents
+www.youtube.com###watch-discussion
+www.youtube.com###watch7-sidebar
+#-----------------------------------------------------------
+#-----------------------------------------------------------

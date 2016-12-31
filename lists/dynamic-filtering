@@ -1,0 +1,15 @@
+###
+### Author: Miguel de Moura
+### Git: https://github.com/migueldemoura/ublock-lists
+### License: https://github.com/migueldemoura/ublock-lists/blob/master/README.md
+###
+* facebook.com * block
+* facebook.net * block
+* googletagservices.com * block
+* twitter.com * block
+facebook.com facebook.com * noop
+facebook.com facebook.net * noop
+twitter.com twitter.com * noop
+# Block Admiral Message
+www.windowscentral.com * inline-script block
+#
