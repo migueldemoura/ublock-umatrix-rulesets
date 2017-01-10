@@ -34,10 +34,11 @@
 ###Attracta_SEO-group
 ###soft_div-group
 
+||beacons*.gvt*.com/domainreliability
 ||gravatar.com^$third-party
 ||mobilenations.com^
 ||quantummetric.com^
-||beacons*.gvt*.com/domainreliability
+||servebom.com^$important
 ||www.amazon.com/ah/ajax/record-impressions
 
 
@@ -129,6 +130,7 @@ www.facebook.com###pagesNav
 www.facebook.com###substream_1
 www.facebook.com###suggestedNav
 www.facebook.com##.droppableNav > li > a[role=button]
+www.facebook.com##.fbReminders:style(padding: 0)
 www.facebook.com##.fbRemindersThickline
 www.facebook.com##.home_right_column:style(min-height: 0 !important)
 www.facebook.com##.rhcFooter
