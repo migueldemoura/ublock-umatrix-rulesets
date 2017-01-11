@@ -39,10 +39,11 @@
 ||mobilenations.com^
 ||quantummetric.com^
 ||servebom.com^$important
+||stackcommerce.com^
+||stacksocial.com^
 ||www.amazon.com/ah/ajax/record-impressions
 
-thehackernews.com##.clear.deal-store
-thehackernews.com##.stackcommerce-widget
+thehackernews.com##.deal-store
 thehackernews.com##a[onclick^=_gaq]
 
 
