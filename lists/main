@@ -116,6 +116,9 @@ www.facebook.com##.droppableNav > .sideNavItem:style(display: block !important)
 ! Remove "Good %Time of the Day%, %Name%!" Feed Message
 www.facebook.com###u_0_z
 
+! Remove "%Friend% Birthday is %Date%!" Event Message 
+www.facebook.com###u_0_1h
+
 www.facebook.com###appsNav
 www.facebook.com###createNav
 www.facebook.com###events_suggestion_pagelet
