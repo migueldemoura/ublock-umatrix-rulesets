@@ -77,10 +77,6 @@ thehackernews.com##a[onclick^=_gaq]
 ||www.facebook.com/groups/*/*/$document
 ||www.facebook.com/groups/*/permalink/$document
 
-! Removes all cards and slideshow from the Discover tab at /groups
-www.facebook.com##[id^=group-discover-lading-]
-www.facebook.com##._27i-
-
 ||*-edge-chat.facebook.com/active_ping
 ||*-edge-chat.facebook.com/probe
 ||*-edge-chat.facebook.com/sub
@@ -104,6 +100,10 @@ www.facebook.com##._27i-
 ||www.facebook.com/privacy/promotion_triggers
 ||www.facebook.com/react_composer/logging
 
+! Removes all cards and slideshow from the Discover tab at /groups
+www.facebook.com##[id^=group-discover-lading-]
+www.facebook.com##._27i-
+
 ! Block "Add Friends to See More Stories" Feed Message - TODO: BROKEN WHEN ONLY ONE POST IS SHOWN ON FEED
 www.facebook.com##div[id^=more_pager_pagelet] div[id^=more_pager_pagelet]
 
@@ -118,6 +118,9 @@ www.facebook.com###u_0_z
 
 ! Remove "%Friend% Birthday is %Date%!" Event Message 
 www.facebook.com###u_0_1h
+
+! Remove New Feed Post
+www.facebook.com###pagelet_composer
 
 www.facebook.com###appsNav
 www.facebook.com###createNav
