@@ -35,6 +35,9 @@
 ###soft_div-group
 
 ||beacons*.gvt*.com/domainreliability
+||clientmetrics-pa.googleapis.com^
+||google.com/*/logImpressions
+||google.com/*/viewerimpressions
 ||gravatar.com^$third-party
 ||mobilenations.com^
 ||quantummetric.com^
@@ -104,7 +107,7 @@ thehackernews.com##a[onclick^=_gaq]
 www.facebook.com##[id^=group-discover-lading-]
 www.facebook.com##._27i-
 
-! Block "Add Friends to See More Stories" Feed Message - TODO: BROKEN WHEN ONLY ONE POST IS SHOWN ON FEED
+! Block "Add Friends to See More Stories" Feed Message - TODO: Broken when only one post is shown on feed
 www.facebook.com##div[id^=more_pager_pagelet] div[id^=more_pager_pagelet]
 
 ! Blocks "Get Messenger on Your Phone" Sidebar Message
