@@ -24,9 +24,6 @@
 !-----------------------------------------------------------
 !------------ General Ads, Analytics & Tracking ------------
 !-----------------------------------------------------------
-! Block Admiral Message
-||www.windowscentral.com^$inline-script
-
 ! Mailtrack Gmail
 ||googleusercontent.com/proxy/*mailtrack.io
 
@@ -107,7 +104,8 @@ thehackernews.com##a[onclick^=_gaq]
 www.facebook.com##[id^=group-discover-lading-]
 www.facebook.com##._27i-
 
-! Block "Add Friends to See More Stories" Feed Message - TODO: Broken when only one post is shown on feed
+! Block "Add Friends to See More Stories" Feed Message
+! TODO: Broken when only one post is shown on feed
 www.facebook.com##div[id^=more_pager_pagelet] div[id^=more_pager_pagelet]
 
 ! Blocks "Get Messenger on Your Phone" Sidebar Message
@@ -177,10 +175,26 @@ feedly.com##div.hint
 !-----------------------------------------------------------
 
 ! Breaks feed
-||www.linkedin.com/hp/modules/ozfeed/fetchNewUpdates
-||www.linkedin.com/hp/modules/ozfeed/page
-||www.linkedin.com/hp/modules/ozfeed/pollNewUpdates
+||www.linkedin.com/voyager/api/feed
+||www.linkedin.com/voyager/api/identity/cards
 
+||www.linkedin.com/csp/sct
+||www.linkedin.com/li/track
+||www.linkedin.com/lite/contentsecurity
+||www.linkedin.com/lite/ua/error
+||www.linkedin.com/mob/tracking
+||www.linkedin.com/psettings/tracking
+||www.linkedin.com/voyager/api/legoWidgetActionEvents
+||www.linkedin.com/voyager/api/legoWidgetImpressionEvents
+
+! Feed
+www.linkedin.com##.core-rail article
+
+www.linkedin.com##.me-wvmp-premium-upsell
+www.linkedin.com##.nav-item--spotlight-one
+
+! Old system filters
+! TODO: Some may still be useful, though some tracking is now a lot more ingenious
 ||slidesharecdn.com^
 ||www.linkedin.com/fetch/impressionSubmit
 ||www.linkedin.com/fizzy/admin
@@ -188,32 +202,13 @@ feedly.com##div.hint
 ||www.linkedin.com/hp/activity-tracking$important
 ||www.linkedin.com/hp/influencer-entitlement
 ||www.linkedin.com/hp/trk/failure
-||www.linkedin.com/li/track
-||www.linkedin.com/lite/contentsecurity
 ||www.linkedin.com/lite/lego-impression-tracking
 ||www.linkedin.com/lite/rum-track
 ||www.linkedin.com/lite/secure-web-action-track
-||www.linkedin.com/lite/ua/error
 ||www.linkedin.com/messaging/beacon
-||www.linkedin.com/mob/tracking
 ||www.linkedin.com/profile/suggested-endorsements-impression
-||www.linkedin.com/psettings/tracking
 ||www.linkedin.com/wvmx/profile/tracking
 ||www.linkedin.com/you/guidededit
-
-www.linkedin.com###course-recommendations
-www.linkedin.com###endorsements-connections
-www.linkedin.com###filters
-www.linkedin.com###nav-link-interests
-www.linkedin.com###ozfeed-container
-www.linkedin.com###sidebar-footer
-www.linkedin.com###siteflow-widget-next
-www.linkedin.com##.nav-bar.main-nav.nav > .nav-item:nth-of-type(1) > .nav-link
-www.linkedin.com##.nav-bar.main-nav.nav > .nav-item:nth-of-type(4) > .nav-link
-www.linkedin.com##.nav-bar.premium-nav.nav
-www.linkedin.com##.nav-item:nth-of-type(1) > .no-link.nav-link
-www.linkedin.com##.nav-item:nth-of-type(5) > .nav-link
-www.linkedin.com##.wvmp-upsell
 
 
 !-----------------------------------------------------------
