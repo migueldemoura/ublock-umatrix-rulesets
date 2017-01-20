@@ -100,27 +100,27 @@ thehackernews.com##a[onclick^=_gaq]
 ||www.facebook.com/privacy/promotion_triggers
 ||www.facebook.com/react_composer/logging
 
-! Removes all cards and slideshow from the Discover tab at /groups
+! Cards and slideshow from the Discover tab at /groups
 www.facebook.com##[id^=group-discover-lading-]
 www.facebook.com##._27i-
 
-! Block "Add Friends to See More Stories" Feed Message
+! "Add Friends to See More Stories" Feed Message
 ! TODO: Broken when only one post is shown on feed
 www.facebook.com##div[id^=more_pager_pagelet] div[id^=more_pager_pagelet]
 
-! Blocks "Get Messenger on Your Phone" Sidebar Message
+! "Get Messenger on Your Phone" Sidebar Message
 www.facebook.com##._1wcc
 
 ! Collapse all visible sideNavs and hide the corresponding "See More..." links
 www.facebook.com##.droppableNav > .sideNavItem:style(display: block !important)
 
-! Remove "Good %Time of the Day%, %Name%!" Feed Message
+! "Good %Time of the Day%, %Name%!" Feed Message
 www.facebook.com###u_0_z
 
-! Remove "%Friend% Birthday is %Date%!" Event Message 
+! "%Friend% Birthday is %Date%!" Event Message 
 www.facebook.com###u_0_1h
 
-! Remove New Feed Post
+! New Feed Post
 www.facebook.com###pagelet_composer
 
 www.facebook.com###appsNav
@@ -174,13 +174,10 @@ feedly.com##div.hint
 !------------------------ Linkedin -------------------------
 !-----------------------------------------------------------
 
-! Breaks feed
-||www.linkedin.com/voyager/api/feed
-||www.linkedin.com/voyager/api/identity/cards
-
 ||www.linkedin.com/csp/sct
 ||www.linkedin.com/li/track
 ||www.linkedin.com/lite/contentsecurity
+||www.linkedin.com/lite/rum-track
 ||www.linkedin.com/lite/ua/error
 ||www.linkedin.com/mob/tracking
 ||www.linkedin.com/psettings/tracking
@@ -191,6 +188,7 @@ feedly.com##div.hint
 www.linkedin.com##.core-rail article
 
 www.linkedin.com##.me-wvmp-premium-upsell
+www.linkedin.com##.nav-footer:style(border: none; margin-top: 0)
 www.linkedin.com##.nav-item--spotlight-one
 
 ! Old system filters
@@ -198,12 +196,10 @@ www.linkedin.com##.nav-item--spotlight-one
 ||slidesharecdn.com^
 ||www.linkedin.com/fetch/impressionSubmit
 ||www.linkedin.com/fizzy/admin
-||www.linkedin.com/hp/activity-tracking$document
-||www.linkedin.com/hp/activity-tracking$important
+||www.linkedin.com/hp/activity-tracking$document,important
 ||www.linkedin.com/hp/influencer-entitlement
 ||www.linkedin.com/hp/trk/failure
 ||www.linkedin.com/lite/lego-impression-tracking
-||www.linkedin.com/lite/rum-track
 ||www.linkedin.com/lite/secure-web-action-track
 ||www.linkedin.com/messaging/beacon
 ||www.linkedin.com/profile/suggested-endorsements-impression
