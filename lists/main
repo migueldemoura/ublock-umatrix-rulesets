@@ -63,6 +63,11 @@ thehackernews.com##a[onclick^=_gaq]
 ! Block typing inline alerts in posts
 ||www.facebook.com/ufi/typing
 
+! Breaks search suggestions
+||www.facebook.com/search/browse/warm/requestargs
+||www.facebook.com/ajax/typeahead/search/facebar$important
+||www.facebook.com/typeahead/search/facebar/query$important
+
 ! Prevent opening group posts so as not to trigger the server-side "seen" status.
 ! Please, manually open the group page instead.
 ||www.facebook.com/groups/*/*/$document
@@ -71,7 +76,7 @@ thehackernews.com##a[onclick^=_gaq]
 ||*-edge-chat.facebook.com/active_ping
 ||*-edge-chat.facebook.com/probe
 ||*-edge-chat.facebook.com/sub
-||www.facebook.com/ajax/browse/null_state
+||www.facebook.com/ajax/browse/null_state$important
 ||www.facebook.com/ajax/groups/mall/mall_post_menu
 ||www.facebook.com/ajax/litestand/newsfeed_count$important
 ||www.facebook.com/ajax/mercury/change_read_status
@@ -80,7 +85,6 @@ thehackernews.com##a[onclick^=_gaq]
 ||www.facebook.com/ajax/messaging/typ
 ||www.facebook.com/ajax/notifications/mark_read$important
 ||www.facebook.com/ajax/notifications/mark_seen
-||www.facebook.com/ajax/photos/snowlift
 ||www.facebook.com/ajax/ssinfeed
 ||www.facebook.com/ajax/typeahead/record_basic_metrics
 ||www.facebook.com/api/graphqlbatch
