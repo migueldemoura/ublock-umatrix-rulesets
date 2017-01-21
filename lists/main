@@ -71,6 +71,7 @@ thehackernews.com##a[onclick^=_gaq]
 ! Prevent opening group posts so as not to trigger the server-side "seen" status.
 ! Please, manually open the group page instead.
 ||www.facebook.com/groups/*/*/$document
+||www.facebook.com/groups/*/?multi_permalinks=*$document
 ||www.facebook.com/groups/*/permalink/$document
 
 ||*-edge-chat.facebook.com/active_ping
