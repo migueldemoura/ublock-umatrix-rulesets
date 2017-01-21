@@ -81,12 +81,17 @@ thehackernews.com##a[onclick^=_gaq]
 ||www.facebook.com/ajax/litestand/newsfeed_count$important
 ||www.facebook.com/ajax/mercury/change_read_status
 ||www.facebook.com/ajax/mercury/delivery_receipts
+||www.facebook.com/ajax/mercury/threadlist_info
 ||www.facebook.com/ajax/mercury/unread_threads
 ||www.facebook.com/ajax/messaging/typ
 ||www.facebook.com/ajax/notifications/mark_read$important
 ||www.facebook.com/ajax/notifications/mark_seen
+||www.facebook.com/ajax/photos/logging$important
 ||www.facebook.com/ajax/ssinfeed
+||www.facebook.com/ajax/typeahead/groups/mentions_bootstrap$important
+||www.facebook.com/ajax/typeahead/groups/photo_mentions_bootstrap$important
 ||www.facebook.com/ajax/typeahead/record_basic_metrics
+||www.facebook.com/ajax/typeahead/record_basic_metrics$important
 ||www.facebook.com/api/graphqlbatch
 ||www.facebook.com/data/manifest
 ||www.facebook.com/groupcall/nux
@@ -96,6 +101,7 @@ thehackernews.com##a[onclick^=_gaq]
 ||www.facebook.com/pages/show_live_insights
 ||www.facebook.com/privacy/promotion_triggers
 ||www.facebook.com/react_composer/logging
+||www.facebook.com/typeahead/search/facebar/bootload
 ||www.facebook.com/ufi/reaction/tooltip
 ||www.facebook.com/video/autoplay
 
