@@ -185,7 +185,7 @@ feedly.com##div.hint
 ||www.linkedin.com/voyager/api/legoWidgetImpressionEvents
 
 ! Feed
-www.linkedin.com##.core-rail article
+www.linkedin.com##div.feed-outlet article
 
 www.linkedin.com##.me-wvmp-premium-upsell
 www.linkedin.com##.nav-footer:style(border: none; margin-top: 0)
