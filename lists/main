@@ -126,6 +126,9 @@ www.facebook.com###u_0_z
 ! "%Friend% Birthday is %Date%!" Event Message 
 www.facebook.com###u_0_1h
 
+! Keep the conversation going from your phone Message at /messages
+www.facebook.com##._s15
+
 ! New Feed Post
 www.facebook.com###pagelet_composer
 
