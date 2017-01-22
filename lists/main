@@ -42,6 +42,7 @@
 ||stackcommerce.com^
 ||stacksocial.com^
 ||www.amazon.com/ah/ajax/record-impressions
+||www.instagram.com/ajax/bz
 
 thehackernews.com##.deal-store
 thehackernews.com##a[onclick^=_gaq]
