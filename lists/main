@@ -71,9 +71,12 @@ thehackernews.com##a[onclick^=_gaq]
 
 ! Prevent opening group posts so as not to trigger the server-side "seen" status.
 ! Please, manually open the group page instead.
-||www.facebook.com/groups/*/*/$document
-||www.facebook.com/groups/*/?multi_permalinks=*$document
-||www.facebook.com/groups/*/permalink/$document
+||www.facebook.com/groups/*/permalink/*/$document,subdocument
+||www.facebook.com/groups/*/?multi_permalinks=*$document,subdocument
+! Bottom left notification tooltips
+||www.facebook.com/ajax/home/generic.php?*notif_t=group_activity$subdocument
+! Breaks mark as read in notifications
+||www.facebook.com/ajax/notifications/mark_read.php$important
 
 ||*-edge-chat.facebook.com/active_ping
 ||*-edge-chat.facebook.com/probe
@@ -104,7 +107,6 @@ thehackernews.com##a[onclick^=_gaq]
 ||www.facebook.com/privacy/promotion_triggers
 ||www.facebook.com/react_composer/logging
 ||www.facebook.com/typeahead/search/facebar/bootload
-||www.facebook.com/ufi/reaction/tooltip
 ||www.facebook.com/video/autoplay
 
 ! Cards and slideshow from the Discover tab at /groups
