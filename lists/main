@@ -108,11 +108,8 @@ thehackernews.com##a[onclick^=_gaq]
 ||www.facebook.com/video/autoplay
 
 ! Cards and slideshow from the Discover tab at /groups
-www.facebook.com##[id^=group-discover-lading-]
 www.facebook.com##._27i-
-
-! Collapse all visible sideNavs and hide the corresponding "See More..." links
-www.facebook.com##.droppableNav > .sideNavItem:style(display: block !important)
+www.facebook.com##[id^=group-discover-lading-]
 
 ! "Add Friends to See More Stories" Feed Message
 ! TODO: Broken when only one post is shown on feed
@@ -155,7 +152,6 @@ www.facebook.com###pagelet_suggested_events
 www.facebook.com###pagesNav
 www.facebook.com###substream_1
 www.facebook.com###suggestedNav
-www.facebook.com##.droppableNav > li > a[role=button]
 www.facebook.com##.fbReminders:style(padding: 0)
 www.facebook.com##.fbRemindersThickline
 www.facebook.com##.home_right_column:style(min-height: 0 !important)
