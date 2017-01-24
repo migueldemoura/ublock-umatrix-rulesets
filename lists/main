@@ -111,6 +111,9 @@ thehackernews.com##a[onclick^=_gaq]
 www.facebook.com##[id^=group-discover-lading-]
 www.facebook.com##._27i-
 
+! Collapse all visible sideNavs and hide the corresponding "See More..." links
+www.facebook.com##.droppableNav > .sideNavItem:style(display: block !important)
+
 ! "Add Friends to See More Stories" Feed Message
 ! TODO: Broken when only one post is shown on feed
 www.facebook.com##div[id^=more_pager_pagelet] div[id^=more_pager_pagelet]
