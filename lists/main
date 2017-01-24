@@ -57,10 +57,6 @@ thehackernews.com##a[onclick^=_gaq]
 !-----------------------------------------------------------
 !------------------------ Facebook -------------------------
 !-----------------------------------------------------------
-
-! Breaks search preview
-||www.facebook.com/ajax/bz$important
-
 ! Breaks search suggestions
 ||www.facebook.com/ajax/typeahead/search/facebar$important
 ||www.facebook.com/search/browse/warm/requestargs
@@ -122,16 +118,16 @@ www.facebook.com##div[id^=more_pager_pagelet] div[id^=more_pager_pagelet]
 ! "Get Messenger on Your Phone" Sidebar Message
 www.facebook.com##._1wcc
 
-! Collapse all visible sideNavs and hide the corresponding "See More..." links
-www.facebook.com##.droppableNav > .sideNavItem:style(display: block !important)
-
 ! "Good %Time of the Day%, %Name%!" Feed Message
 www.facebook.com###u_0_z
+
+! Games Card at /apps/feed
+www.facebook.com###u_0_0
 
 ! "%Friend% Birthday is %Date%!" Event Message 
 www.facebook.com###u_0_1h
 
-! Keep the conversation going from your phone Message at /messages
+! "Keep the conversation going from your phone" Message at /messages
 www.facebook.com##._s15
 
 ! New Feed Post
@@ -166,7 +162,6 @@ www.facebook.com##.rhcFooter
 !-----------------------------------------------------------
 !------------------------- Feedly --------------------------
 !-----------------------------------------------------------
-
 ! Removes the extra tabs from the sidebar.
 ! The second line is a hacky solution to the margin problem
 feedly.com###feedlyTabs > div:has(#moreTabs)
@@ -187,7 +182,6 @@ feedly.com##div.hint
 !-----------------------------------------------------------
 !------------------------ Linkedin -------------------------
 !-----------------------------------------------------------
-
 ||www.linkedin.com/csp/sct
 ||www.linkedin.com/li/track
 ||www.linkedin.com/lite/contentsecurity
@@ -224,7 +218,6 @@ www.linkedin.com##.nav-item--spotlight-one
 !-----------------------------------------------------------
 !------------------------- Youtube -------------------------
 !-----------------------------------------------------------
-
 ||www.youtube.com/get_endscreen
 ||www.youtube.com/get_midroll_info
 
