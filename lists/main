@@ -61,41 +61,43 @@ thehackernews.com##a[onclick^=_gaq]
 ! Breaks search preview
 ||www.facebook.com/ajax/bz$important
 
-! Block typing inline alerts in posts
-||www.facebook.com/ufi/typing
-
 ! Breaks search suggestions
-||www.facebook.com/search/browse/warm/requestargs
 ||www.facebook.com/ajax/typeahead/search/facebar$important
+||www.facebook.com/search/browse/warm/requestargs
 ||www.facebook.com/typeahead/search/facebar/query$important
 
-! Prevent opening group posts so as not to trigger the server-side "seen" status.
-! Please, manually open the group page instead.
-||www.facebook.com/groups/*/permalink/*/$document,subdocument
-||www.facebook.com/groups/*/?multi_permalinks=*$document,subdocument
-! Bottom left notification tooltips
-||www.facebook.com/ajax/home/generic.php?*notif_t=group_activity$subdocument
-! Breaks mark as read in notifications
-||www.facebook.com/ajax/notifications/mark_read.php$important
+! Prevent 'seen' status in Messenger
+||www.facebook.com/ajax/mercury/change_read_status
+
+! Prevent 'seen' status in Group Posts
+||www.facebook.com/*notif_t=group_$document,subdocument,important
+||www.facebook.com/ajax/bz$important
+||www.facebook.com/ajax/notifications/mark_read$important
+
+! Prevent 'seen' status in Events
+! Extreme, blocks all event pageloads
+!||www.facebook.com/events/*$document,subdocument,important
+! Notification-based, seen status can still be triggered by clicking on a link to the event
+||www.facebook.com/events/*notif_t=plan_user_invited$document,subdocument,important
+
+! Prevent 'is typing' status
+! Posts
+||www.facebook.com/ufi/typing
+! Messenger
+||www.facebook.com/ajax/messaging/typ
 
 ||*-edge-chat.facebook.com/active_ping
 ||*-edge-chat.facebook.com/probe
 ||*-edge-chat.facebook.com/sub
 ||www.facebook.com/ajax/browse/null_state$important
-||www.facebook.com/ajax/groups/mall/mall_post_menu
 ||www.facebook.com/ajax/litestand/newsfeed_count$important
-||www.facebook.com/ajax/mercury/change_read_status
 ||www.facebook.com/ajax/mercury/delivery_receipts
-||www.facebook.com/ajax/mercury/threadlist_info
 ||www.facebook.com/ajax/mercury/unread_threads
-||www.facebook.com/ajax/messaging/typ
-||www.facebook.com/ajax/notifications/mark_read$important
 ||www.facebook.com/ajax/notifications/mark_seen
 ||www.facebook.com/ajax/photos/logging$important
 ||www.facebook.com/ajax/ssinfeed
 ||www.facebook.com/ajax/typeahead/groups/mentions_bootstrap$important
 ||www.facebook.com/ajax/typeahead/groups/photo_mentions_bootstrap$important
-||www.facebook.com/ajax/typeahead/record_basic_metrics
 ||www.facebook.com/ajax/typeahead/record_basic_metrics$important
 ||www.facebook.com/api/graphqlbatch
 ||www.facebook.com/data/manifest
