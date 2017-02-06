@@ -72,7 +72,7 @@ thehackernews.com##a[onclick^=_gaq]
 
 ! Prevent 'seen' status in Events
 ! Extreme, blocks all event pageloads
-!||www.facebook.com/events/*$document,subdocument,important
+!||www.facebook.com/events/$document,subdocument,important
 ! Notification-based, seen status can still be triggered by clicking on a link to the event
 ||www.facebook.com/events/*notif_t=plan_user_invited$document,subdocument,important
 
@@ -118,15 +118,6 @@ www.facebook.com##div[id^=more_pager_pagelet] div[id^=more_pager_pagelet]
 ! "Get Messenger on Your Phone" Sidebar Message
 www.facebook.com##._1wcc
 
-! "Good %Time of the Day%, %Name%!" Feed Message
-www.facebook.com###u_0_z
-
-! Games Card at /apps/feed
-www.facebook.com###u_0_0
-
-! "%Friend% Birthday is %Date%!" Event Message 
-www.facebook.com###u_0_1h
-
 ! "Keep the conversation going from your phone" Message at /messages
 www.facebook.com##._s15
 
@@ -171,6 +162,7 @@ feedly.com###savedtab
 feedly.com###searchBarFX
 feedly.com###sideArea
 feedly.com##.header.row > h1:style(margin-top: 0)
+feedly.com##.relatedArticles
 feedly.com##.secondary.fx-button:style(padding: 10px !important)
 feedly.com##.small.primary.fx-button
 feedly.com##.widget-related-feeds
@@ -225,13 +217,10 @@ www.linkedin.com##.nav-item--spotlight-one
 www.youtube.com###related
 ! Bottom right buttons - feedback and go back to old style
 www.youtube.com###extra-buttons
-! Comments
-www.youtube.com###comments
 
 www.youtube.com###appbar-guide-button
 www.youtube.com###appbar-guide-menu
 www.youtube.com###appbar-nav
 www.youtube.com###feed
 www.youtube.com###search-secondary-col-contents
-www.youtube.com###watch-discussion
 www.youtube.com###watch7-sidebar
