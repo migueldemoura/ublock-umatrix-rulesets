@@ -1,6 +1,6 @@
 !
 ! uBlock Lists
-! Copyright (C) 2016 Miguel de Moura
+! Copyright (C) 2017 Miguel de Moura
 !
 ! This program is free software: you can redistribute it and/or modify
 ! it under the terms of the GNU General Public License as published by
@@ -32,15 +32,10 @@
 ###soft_div-group
 
 ||beacons*.gvt*.com/domainreliability
-||clientmetrics-pa.googleapis.com^
 ||google.com/*/logImpressions
 ||google.com/*/viewerimpressions
 ||gravatar.com^$third-party
-||mobilenations.com^
-||quantummetric.com^
 ||servebom.com^$important
-||stackcommerce.com^
-||stacksocial.com^
 ||www.amazon.com/ah/ajax/record-impressions
 ||www.instagram.com/ajax/bz
 
@@ -111,7 +106,6 @@ www.facebook.com##._27i-
 www.facebook.com##[id^=group-discover-lading-]
 
 ! "Add Friends to See More Stories" Feed Message
-! TODO: Broken when only one post is shown on feed
 www.facebook.com##div[id^=more_pager_pagelet] div[id^=more_pager_pagelet]
 
 ! "Get Messenger on Your Phone" Sidebar Message
@@ -151,22 +145,9 @@ www.facebook.com##.rhcFooter
 !-----------------------------------------------------------
 !------------------------- Feedly --------------------------
 !-----------------------------------------------------------
-! Removes the extra tabs from the sidebar.
-! The second line is a hacky solution to the margin problem
-feedly.com###feedlyTabs > div:has(#moreTabs)
-feedly.com###tagList:style(height: 14px)
-
-feedly.com###proAdModule_part
-feedly.com###savedtab
-feedly.com###searchBarFX
-feedly.com###sideArea
-feedly.com##.header.row > h1:style(margin-top: 0)
-feedly.com##.relatedArticles
-feedly.com##.secondary.fx-button:style(padding: 10px !important)
-feedly.com##.small.primary.fx-button
-feedly.com##.widget-related-feeds
-feedly.com##button.save-for-later
-feedly.com##div.hint
+feedly.com##.primary.pro.small
+feedly.com##.selectorNewMarker
+feedly.com##.widget-related-feeds.widget
 
 
 !-----------------------------------------------------------
@@ -181,29 +162,18 @@ feedly.com##div.hint
 ||www.linkedin.com/psettings/tracking
 ||www.linkedin.com/voyager/api/legoWidgetActionEvents
 ||www.linkedin.com/voyager/api/legoWidgetImpressionEvents
+||www.linkedin.com/voyager/api/messaging/conversations?action=typing
+www.linkedin.com/realtime/realtimeFrontendSubscriptions
+www.linkedin.com/fizzy/admin
+www.linkedin.com/voyager/api/mux
 
-! Feed
-www.linkedin.com##div.feed-outlet article
+www.linkedin.com/realtime/connect
 
+www.linkedin.com/feed##div.feed-outlet article
 www.linkedin.com##.me-wvmp-premium-upsell
+www.linkedin.com##.me-wvmp-right-rail
 www.linkedin.com##.nav-footer:style(border: none; margin-top: 0)
 www.linkedin.com##.nav-item--spotlight-one
-
-! Old system filters
-! TODO: Some may still be useful, though some tracking is now a lot more ingenious
-||slidesharecdn.com^
-||www.linkedin.com/fetch/impressionSubmit
-||www.linkedin.com/fizzy/admin
-||www.linkedin.com/hp/activity-tracking$document,important
-||www.linkedin.com/hp/influencer-entitlement
-||www.linkedin.com/hp/trk/failure
-||www.linkedin.com/lite/lego-impression-tracking
-||www.linkedin.com/lite/secure-web-action-track
-||www.linkedin.com/messaging/beacon
-||www.linkedin.com/profile/suggested-endorsements-impression
-||www.linkedin.com/wvmx/profile/tracking
-||www.linkedin.com/you/guidededit
-
 
 !-----------------------------------------------------------
 !------------------------- Youtube -------------------------
