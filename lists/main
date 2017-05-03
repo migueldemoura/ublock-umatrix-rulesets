@@ -163,17 +163,19 @@ feedly.com##.widget-related-feeds.widget
 ||www.linkedin.com/voyager/api/legoWidgetActionEvents
 ||www.linkedin.com/voyager/api/legoWidgetImpressionEvents
 ||www.linkedin.com/voyager/api/messaging/conversations?action=typing
-www.linkedin.com/realtime/realtimeFrontendSubscriptions
-www.linkedin.com/fizzy/admin
-www.linkedin.com/voyager/api/mux
+||www.linkedin.com/realtime/realtimeFrontendSubscriptions
+||www.linkedin.com/fizzy/admin
+||www.linkedin.com/voyager/api/mux
+||www.linkedin.com/realtime/connect
 
-www.linkedin.com/realtime/connect
-
-www.linkedin.com/feed##div.feed-outlet article
+www.linkedin.com##.ge-profile-entry-card__card.artdeco-container-card
 www.linkedin.com##.me-wvmp-premium-upsell
 www.linkedin.com##.me-wvmp-right-rail
 www.linkedin.com##.nav-footer:style(border: none; margin-top: 0)
 www.linkedin.com##.nav-item--spotlight-one
+www.linkedin.com##.pv-course-recommendations
+www.linkedin.com##.pv-profile-section.pv-pcm-section
+
 
 !-----------------------------------------------------------
 !------------------------- Youtube -------------------------
