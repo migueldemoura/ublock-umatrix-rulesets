@@ -153,7 +153,16 @@ feedly.com##.widget-related-feeds.widget
 !-----------------------------------------------------------
 !------------------------ Linkedin -------------------------
 !-----------------------------------------------------------
+! Prevent 'seen' status in Conversations
+||www.linkedin.com/voyager/api/messaging/badge?action=markAllItemsAsSeen
+||www.linkedin.com/voyager/api/messaging/conversations/
+@@||www.linkedin.com/voyager/api/messaging/conversations/*/events
+
+! Prevent 'is typing' status in Conversations
+||www.linkedin.com/voyager/api/messaging/conversations?action=typing
+
 ||www.linkedin.com/csp/sct
+||www.linkedin.com/fizzy/admin
 ||www.linkedin.com/li/track
 ||www.linkedin.com/lite/contentsecurity
 ||www.linkedin.com/lite/rum-track
@@ -162,12 +171,10 @@ feedly.com##.widget-related-feeds.widget
 ||www.linkedin.com/psettings/tracking
 ||www.linkedin.com/voyager/api/legoWidgetActionEvents
 ||www.linkedin.com/voyager/api/legoWidgetImpressionEvents
-||www.linkedin.com/voyager/api/messaging/conversations?action=typing
-||www.linkedin.com/realtime/realtimeFrontendSubscriptions
-||www.linkedin.com/fizzy/admin
 ||www.linkedin.com/voyager/api/mux
-||www.linkedin.com/realtime/connect
 
+www.linkedin.com##.feed-s-follows-module
+www.linkedin.com##.feed-s-identity-module__anchored-widget--premium-upsell
 www.linkedin.com##.ge-profile-entry-card__card.artdeco-container-card
 www.linkedin.com##.me-wvmp-premium-upsell
 www.linkedin.com##.me-wvmp-right-rail
@@ -175,6 +182,18 @@ www.linkedin.com##.nav-footer:style(border: none; margin-top: 0)
 www.linkedin.com##.nav-item--spotlight-one
 www.linkedin.com##.pv-course-recommendations
 www.linkedin.com##.pv-profile-section.pv-pcm-section
+www.linkedin.com##.pv-recent-activity-detail__right-rail
+www.linkedin.com##article:has-text(commented on this)
+www.linkedin.com##article:has-text(Jobs recommended for you)
+www.linkedin.com##article:has-text(liked this)
+www.linkedin.com##article:has-text(likes this)
+www.linkedin.com##article:has-text(new connection made in your network)
+www.linkedin.com##article:has-text(new connections made in your network)
+www.linkedin.com##article:has-text(People like you are learning)
+www.linkedin.com##article:has-text(People you may know)
+www.linkedin.com##article:has-text(Suggested)
+www.linkedin.com##article:has-text(Trending)
+www.linkedin.com##article:has-text(was mentioned in the news)
 
 
 !-----------------------------------------------------------
@@ -182,6 +201,8 @@ www.linkedin.com##.pv-profile-section.pv-pcm-section
 !-----------------------------------------------------------
 ||www.youtube.com/get_endscreen
 ||www.youtube.com/get_midroll_info
+||www.youtube.com/share_ajax
+||www.youtube.com/youtubei/v1/log_interaction
 
 ! New page
 ! Related
