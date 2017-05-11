@@ -117,8 +117,13 @@ www.facebook.com##._s15
 ! New Feed Post
 www.facebook.com###pagelet_composer
 
+www.facebook.com##.fbReminders:style(padding: 0)
+www.facebook.com##.fbRemindersThickline
+www.facebook.com##.home_right_column:style(min-height: 0 !important)
+www.facebook.com##.rhcFooter
 www.facebook.com###appsNav
 www.facebook.com###createNav
+www.facebook.com###event_related_events
 www.facebook.com###events_suggestion_pagelet
 www.facebook.com###eventsNav
 www.facebook.com###feedx_sprouts_container
@@ -136,10 +141,6 @@ www.facebook.com###pagelet_suggested_events
 www.facebook.com###pagesNav
 www.facebook.com###substream_1
 www.facebook.com###suggestedNav
-www.facebook.com##.fbReminders:style(padding: 0)
-www.facebook.com##.fbRemindersThickline
-www.facebook.com##.home_right_column:style(min-height: 0 !important)
-www.facebook.com##.rhcFooter
 
 
 !-----------------------------------------------------------
