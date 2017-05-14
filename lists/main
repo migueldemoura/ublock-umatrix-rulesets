@@ -174,9 +174,12 @@ feedly.com##.widget-related-feeds.widget
 ||www.linkedin.com/voyager/api/legoWidgetImpressionEvents
 ||www.linkedin.com/voyager/api/mux
 
+www.linkedin.com##.container-premium
 www.linkedin.com##.feed-s-follows-module
 www.linkedin.com##.feed-s-identity-module__anchored-widget--premium-upsell
 www.linkedin.com##.ge-profile-entry-card__card.artdeco-container-card
+www.linkedin.com##.jss-upsell
+www.linkedin.com##.jymbii-top-applicant-jobs-upsell
 www.linkedin.com##.me-wvmp-premium-upsell
 www.linkedin.com##.me-wvmp-right-rail
 www.linkedin.com##.nav-footer:style(border: none; margin-top: 0)
@@ -198,7 +201,6 @@ www.linkedin.com##article:has-text(People you may know)
 www.linkedin.com##article:has-text(Suggested)
 www.linkedin.com##article:has-text(Trending)
 www.linkedin.com##article:has-text(was mentioned in the news)
-
 
 !-----------------------------------------------------------
 !------------------------- Youtube -------------------------
