@@ -201,6 +201,8 @@ www.linkedin.com##article:has-text(People you may know)
 www.linkedin.com##article:has-text(Suggested)
 www.linkedin.com##article:has-text(Trending)
 www.linkedin.com##article:has-text(was mentioned in the news)
+www.linkedin.com##article:has-text(Popular course at your company)
+
 
 !-----------------------------------------------------------
 !------------------------- Youtube -------------------------
