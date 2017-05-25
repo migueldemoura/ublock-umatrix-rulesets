@@ -191,6 +191,7 @@ www.linkedin.com##.pv-profile-section.pv-pcm-section
 www.linkedin.com##.pv-recent-activity-detail__right-rail
 www.linkedin.com##article:has-text(commented on this)
 www.linkedin.com##article:has-text(Jobs recommended for you)
+www.linkedin.com##article:has-text(Recommended for you)
 www.linkedin.com##article:has-text(liked this)
 www.linkedin.com##article:has-text(likes this)
 www.linkedin.com##article:has-text(new connection made in your network)
