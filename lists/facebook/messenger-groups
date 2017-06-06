@@ -1,0 +1,13 @@
+! Prevent 'seen' status in Messenger
+||www.facebook.com/ajax/mercury/change_read_status
+
+! Prevent 'seen' status in Group Posts
+||www.facebook.com/*notif_t=group_$document,subdocument,important
+||www.facebook.com/ajax/bz$important
+||www.facebook.com/ajax/notifications/mark_read$important
+
+! Prevent 'is typing' status
+! Posts
+||www.facebook.com/ufi/typing
+! Messenger
+||www.facebook.com/ajax/messaging/typ

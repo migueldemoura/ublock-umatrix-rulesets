@@ -1,0 +1,6 @@
+! Prevent 'seen' status in Messenger
+||www.facebook.com/ajax/mercury/change_read_status
+
+! Prevent 'is typing' status
+! Messenger
+||www.facebook.com/ajax/messaging/typ
