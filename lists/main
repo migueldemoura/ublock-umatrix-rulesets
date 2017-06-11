@@ -117,10 +117,10 @@ www.facebook.com##._s15
 ! New Feed Post
 www.facebook.com###pagelet_composer
 
-www.facebook.com##.fbReminders:style(padding: 0)
-www.facebook.com##.fbRemindersThickline
 www.facebook.com##.home_right_column:style(min-height: 0 !important)
 www.facebook.com##.rhcFooter
+www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(— The Facebook Help Team)
+www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Suggested because it's popular on Facebook)
 www.facebook.com###appsNav
 www.facebook.com###createNav
 www.facebook.com###event_related_events
@@ -136,7 +136,9 @@ www.facebook.com###listsNav
 www.facebook.com###pagelet_advertiser_panel
 www.facebook.com###pagelet_ego_pane
 www.facebook.com###pagelet_export_events_to_calendar
+www.facebook.com###pagelet_reminders > div:style(padding-top: 0 !important)
 www.facebook.com###pagelet_rhc_footer
+www.facebook.com###pagelet_rhc_ticker_card
 www.facebook.com###pagelet_suggested_events
 www.facebook.com###pagesNav
 www.facebook.com###substream_1
