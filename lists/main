@@ -117,6 +117,7 @@ www.facebook.com##._s15
 ! New Feed Post
 www.facebook.com###pagelet_composer
 
+www.facebook.com##.fbChatSidebar > div:style(height: 43px !important)
 www.facebook.com##.home_right_column:style(min-height: 0 !important)
 www.facebook.com##.rhcFooter
 www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(— The Facebook Help Team)
