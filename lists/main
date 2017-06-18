@@ -218,7 +218,6 @@ www.linkedin.com##article:has-text(was mentioned in the news)
 !-----------------------------------------------------------
 ||www.youtube.com/get_endscreen
 ||www.youtube.com/get_midroll_info
-||www.youtube.com/share_ajax
 ||www.youtube.com/youtubei/v1/log_interaction
 
 ! New page
@@ -232,4 +231,4 @@ www.youtube.com###appbar-guide-menu
 www.youtube.com###appbar-nav
 www.youtube.com###feed
 www.youtube.com###search-secondary-col-contents
-www.youtube.com###watch7-sidebar
+www.youtube.com###watch7-sidebar-contents
