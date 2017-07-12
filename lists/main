@@ -124,6 +124,7 @@ www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(— The Facebook Help Tea
 www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Only you can see this preview until you run this ad)
 www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Recommended for you)
 www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Suggested because it's popular on Facebook)
+www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Suggested Post)
 www.facebook.com###appsNav
 www.facebook.com###createNav
 www.facebook.com###event_related_events
