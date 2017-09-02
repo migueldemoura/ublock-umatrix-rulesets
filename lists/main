@@ -83,6 +83,7 @@ thehackernews.com##a[onclick^=_gaq]
 ||www.facebook.com/ajax/browse/null_state$important
 ||www.facebook.com/ajax/litestand/newsfeed_count$important
 ||www.facebook.com/ajax/mercury/delivery_receipts
+||www.facebook.com/ajax/mercury/tabs_presence
 ||www.facebook.com/ajax/mercury/unread_threads
 ||www.facebook.com/ajax/notifications/mark_seen
 ||www.facebook.com/ajax/photos/logging$important
@@ -97,6 +98,7 @@ thehackernews.com##a[onclick^=_gaq]
 ||www.facebook.com/p2p
 ||www.facebook.com/pages/show_live_insights
 ||www.facebook.com/privacy/promotion_triggers
+||www.facebook.com/pymk/funnel_logging/
 ||www.facebook.com/react_composer/logging
 ||www.facebook.com/typeahead/search/facebar/bootload
 ||www.facebook.com/video/autoplay
@@ -221,15 +223,15 @@ www.linkedin.com##article:has-text(was mentioned in the news)
 ||www.youtube.com/get_midroll_info
 ||www.youtube.com/youtubei/v1/log_interaction
 
-! New page
-! Related
-www.youtube.com###related
-! Bottom right buttons - feedback and go back to old style
-www.youtube.com###extra-buttons
-
+www.youtube.com##.ytd-artist-watch-card-renderer
 www.youtube.com###appbar-guide-button
 www.youtube.com###appbar-guide-menu
 www.youtube.com###appbar-nav
+www.youtube.com###buttons
+www.youtube.com###extra-buttons
 www.youtube.com###feed
+www.youtube.com###related
 www.youtube.com###search-secondary-col-contents
+www.youtube.com###sections
+www.youtube.com###ticker
 www.youtube.com###watch7-sidebar-contents
