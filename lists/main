@@ -106,7 +106,7 @@ www.facebook.com##._27i-
 www.facebook.com##[id^=group-discover-lading-]
 
 ! "Add Friends to See More Stories" Feed Message
-www.facebook.com##div[id^=more_pager_pagelet] div[id^=more_pager_pagelet]
+www.facebook.com##[id^="more_pager_pagelet_"]:has-text(Add Friends to See More Stories)
 
 ! "Get Messenger on Your Phone" Sidebar Message
 www.facebook.com##._1wcc
