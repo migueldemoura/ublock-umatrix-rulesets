@@ -128,6 +128,7 @@ www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Peace Begins With Us)
 www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Recommended for you)
 www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Suggested because it's popular on Facebook)
 www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Suggested Post)
+www.facebook.com##[id^="more_pager_pagelet_"]:has-text(Do You Want to See More Posts)
 www.facebook.com###appsNav
 www.facebook.com###createNav
 www.facebook.com###event_related_events
