@@ -37,11 +37,12 @@
 ||gravatar.com^$third-party
 ||servebom.com^$important
 ||www.amazon.com/ah/ajax/record-impressions
+||www.booking.com/js_tracking
 ||www.instagram.com/ajax/bz
 
 thehackernews.com##.deal-store
 thehackernews.com##a[onclick^=_gaq]
-
+www.cloudflare.com##.eu-cookie-banner
 
 !-----------------------------------------------------------
 !-------------------- Fixes/Workarounds --------------------
@@ -52,6 +53,12 @@ thehackernews.com##a[onclick^=_gaq]
 !-----------------------------------------------------------
 !------------------------ Facebook -------------------------
 !-----------------------------------------------------------
+
+||www.messenger.com/ajax/bz
+||www.messenger.com/ajax/mercury/unread_threads
+||www.messenger.com/mercury/unseen_thread_ids
+||www.messenger.com/rtc/callability
+
 ! Breaks search suggestions
 ||www.facebook.com/ajax/typeahead/search/facebar$important
 ||www.facebook.com/search/browse/warm/requestargs
@@ -142,6 +149,7 @@ www.facebook.com###groupsTagBox
 www.facebook.com###interestsNav
 www.facebook.com###listsNav
 www.facebook.com###pagelet_advertiser_panel
+www.facebook.com###pagelet_ego_contextual_group
 www.facebook.com###pagelet_ego_pane
 www.facebook.com###pagelet_export_events_to_calendar
 www.facebook.com###pagelet_reminders > div:style(padding-top: 0 !important)
@@ -186,6 +194,8 @@ feedly.com##.widget-related-feeds.widget
 ||www.linkedin.com/voyager/api/mux
 
 www.linkedin.com##.container-premium
+www.linkedin.com##.feed-follows-module
+www.linkedin.com##.feed-identity-module__anchored-widget--premium-upsell
 www.linkedin.com##.feed-s-follows-module
 www.linkedin.com##.feed-s-identity-module__anchored-widget--premium-upsell
 www.linkedin.com##.ge-profile-entry-card__card.artdeco-container-card
@@ -194,6 +204,7 @@ www.linkedin.com##.jymbii-top-applicant-jobs-upsell
 www.linkedin.com##.me-wvmp-premium-upsell
 www.linkedin.com##.me-wvmp-right-rail
 www.linkedin.com##.nav-footer:style(border: none; margin-top: 0)
+www.linkedin.com##.nav-footer:style(margin-top: 0)
 www.linkedin.com##.nav-item--spotlight-one
 www.linkedin.com##.org-premium-upsell-module
 www.linkedin.com##.promo-update
@@ -215,6 +226,7 @@ www.linkedin.com##article:has-text(People you may know)
 www.linkedin.com##article:has-text(Popular course at your company)
 www.linkedin.com##article:has-text(Popular with employees at)
 www.linkedin.com##article:has-text(Recommended for you)
+www.linkedin.com##article:has-text(Short course you may like)
 www.linkedin.com##article:has-text(Suggested)
 www.linkedin.com##article:has-text(Trending)
 www.linkedin.com##article:has-text(was mentioned in the news)
@@ -223,6 +235,7 @@ www.linkedin.com##article:has-text(was mentioned in the news)
 !-----------------------------------------------------------
 !------------------------- Youtube -------------------------
 !-----------------------------------------------------------
+||www.youtube.com/api/stats
 ||www.youtube.com/get_endscreen
 ||www.youtube.com/get_midroll_info
 ||www.youtube.com/youtubei/v1/log_interaction
