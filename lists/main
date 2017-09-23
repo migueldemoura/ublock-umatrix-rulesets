@@ -40,7 +40,6 @@
 ||www.booking.com/js_tracking
 ||www.instagram.com/ajax/bz
 
-thehackernews.com##.deal-store
 thehackernews.com##a[onclick^=_gaq]
 www.cloudflare.com##.eu-cookie-banner
 
