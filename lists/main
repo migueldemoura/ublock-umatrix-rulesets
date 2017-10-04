@@ -131,6 +131,7 @@ www.facebook.com##.rhcFooter
 www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(— The Facebook Help Team)
 www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Only you can see this preview until you run this ad)
 www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Peace Begins With Us)
+www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(recently commented on this)
 www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Recommended for you)
 www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Suggested because it's popular on Facebook)
 www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Suggested Post)
