@@ -125,6 +125,7 @@ www.facebook.com##._s15
 ! New Feed Post
 www.facebook.com###pagelet_composer
 
+www.facebook.com##.chat_sidebar div:has-text(BUSINESSES FOR YOU)
 www.facebook.com##.fbChatSidebar > div:style(height: 43px !important)
 www.facebook.com##.home_right_column:style(min-height: 0 !important)
 www.facebook.com##.rhcFooter
