@@ -48,10 +48,12 @@
 thehackernews.com##a[onclick^=_gaq]
 www.cloudflare.com##.eu-cookie-banner
 
+
 !-----------------------------------------------------------
 !-------------------- Fixes/Workarounds --------------------
 !-----------------------------------------------------------
 @@||googleusercontent.com/proxy/*/linkedin.png^
+www.sharelatex.com#@##shareButton
 
 
 !-----------------------------------------------------------
