@@ -33,6 +33,7 @@
 
 ||accounts.google.com/_/common/diagnostics
 ||beacons*.gvt*.com/domainreliability
+||chrome.google.com/webstore/ajax/eventlog
 ||cloud.digitalocean.com/frontend-metrics/
 ||console.cloud.google.com/m/csilog
 ||google.com/*/logImpressions
@@ -208,39 +209,27 @@ www.linkedin.com##.feed-identity-module__anchored-widget--premium-upsell
 www.linkedin.com##.feed-learning-bites-module
 www.linkedin.com##.feed-s-follows-module
 www.linkedin.com##.feed-s-identity-module__anchored-widget--premium-upsell
+www.linkedin.com##.feed-shared-update--network-follow
 www.linkedin.com##.ge-profile-entry-card__card.artdeco-container-card
 www.linkedin.com##.jss-upsell
 www.linkedin.com##.jymbii-top-applicant-jobs-upsell
 www.linkedin.com##.me-wvmp-premium-upsell
 www.linkedin.com##.me-wvmp-right-rail
+www.linkedin.com##.msg-overlay-bubble-header
 www.linkedin.com##.nav-footer:style(border: none; margin-top: 0)
 www.linkedin.com##.nav-footer:style(margin-top: 0)
 www.linkedin.com##.nav-item--spotlight-one
+www.linkedin.com##.nt-card-action-row:has-text(Try Premium for free)
 www.linkedin.com##.org-premium-upsell-module
+www.linkedin.com##.pds-course-recommendations
+www.linkedin.com##.pds-pcm-progress
 www.linkedin.com##.promo-update
 www.linkedin.com##.pv-course-recommendations
 www.linkedin.com##.pv-profile-section.pv-pcm-section
 www.linkedin.com##.pv-recent-activity-detail__right-rail
 www.linkedin.com##.search-s-news-module
-www.linkedin.com##article:has-text('s comment on this)
-www.linkedin.com##article:has-text(commented on this)
-www.linkedin.com##article:has-text(Editor's Pick)
-www.linkedin.com##article:has-text(is now following)
-www.linkedin.com##article:has-text(Jobs recommended for you)
-www.linkedin.com##article:has-text(liked this)
-www.linkedin.com##article:has-text(likes this)
-www.linkedin.com##article:has-text(new connection made in your network)
-www.linkedin.com##article:has-text(new connections made in your network)
-www.linkedin.com##article:has-text(People like you are learning)
-www.linkedin.com##article:has-text(People like you are watching)
-www.linkedin.com##article:has-text(People you may know)
-www.linkedin.com##article:has-text(Popular course at your company)
-www.linkedin.com##article:has-text(Popular with employees at)
-www.linkedin.com##article:has-text(Recommended for you)
-www.linkedin.com##article:has-text(Short course you may like)
-www.linkedin.com##article:has-text(Suggested)
-www.linkedin.com##article:has-text(Trending)
-www.linkedin.com##article:has-text(was mentioned in the news)
+www.linkedin.com##article:has(div .feed-shared-top-bar)
+www.linkedin.com##article.is-sponsored
 
 
 !-----------------------------------------------------------
