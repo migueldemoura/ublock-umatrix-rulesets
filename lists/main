@@ -137,6 +137,7 @@ www.facebook.com##.chat_sidebar div:has-text(BUSINESSES FOR YOU)
 www.facebook.com##.fbChatSidebar > div:style(height: 43px !important)
 www.facebook.com##.home_right_column:style(min-height: 0 !important)
 www.facebook.com##.rhcFooter
+www.facebook.com##[data-testid=chat_sidebar] div:has(div._ohe)
 www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(— The Facebook Help Team)
 www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Only you can see this preview until you run this ad)
 www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Peace Begins With Us)
@@ -158,6 +159,7 @@ www.facebook.com###GroupsRHCSuggestionSection
 www.facebook.com###groupsTagBox
 www.facebook.com###interestsNav
 www.facebook.com###listsNav
+www.facebook.com###pagelet_advertiser_panel
 www.facebook.com###pagelet_advertiser_panel
 www.facebook.com###pagelet_ego_contextual_group
 www.facebook.com###pagelet_ego_pane
