@@ -27,26 +27,26 @@
 ! Mailtrack Gmail
 ||googleusercontent.com/proxy/*mailtrack.io
 
-! CPanel Ads
-###Attracta_SEO-group
-###soft_div-group
-
 ||accounts.google.com/_/common/diagnostics
+||api.talky.io/telemetry
 ||beacons*.gvt*.com/domainreliability
 ||chrome.google.com/webstore/ajax/eventlog
 ||cloud.digitalocean.com/frontend-metrics/
 ||console.cloud.google.com/m/csilog
 ||google.com/*/logImpressions
 ||google.com/*/viewerimpressions
-||gravatar.com^$third-party
-||servebom.com^$important
 ||www.amazon.com/ah/ajax/record-impressions
 ||www.booking.com/js_tracking
 ||www.dropbox.com/log_js_sw_data
 ||www.dropbox.com/log/ux_analytics
 ||www.instagram.com/ajax/bz
 
+arstechnica.com###sponsored-recommendations
+feedly.com##.primary.pro.small
+feedly.com##.selectorNewMarker
+feedly.com##.widget-related-feeds.widget
 thehackernews.com##a[onclick^=_gaq]
+thenextweb.com##.deals
 www.cloudflare.com##.eu-cookie-banner
 
 
@@ -173,14 +173,6 @@ www.facebook.com###video_permalink_related_pagelet
 
 
 !-----------------------------------------------------------
-!------------------------- Feedly --------------------------
-!-----------------------------------------------------------
-feedly.com##.primary.pro.small
-feedly.com##.selectorNewMarker
-feedly.com##.widget-related-feeds.widget
-
-
-!-----------------------------------------------------------
 !------------------------ Linkedin -------------------------
 !-----------------------------------------------------------
 ! Prevent 'seen' status in Conversations
@@ -215,6 +207,7 @@ www.linkedin.com##.jss-upsell
 www.linkedin.com##.jymbii-top-applicant-jobs-upsell
 www.linkedin.com##.me-wvmp-premium-upsell
 www.linkedin.com##.me-wvmp-right-rail
+www.linkedin.com##.mn-connections-summary__no-top-border-radius
 www.linkedin.com##.msg-overlay-bubble-header
 www.linkedin.com##.nav-footer:style(border: none; margin-top: 0)
 www.linkedin.com##.nav-footer:style(margin-top: 0)
@@ -225,9 +218,11 @@ www.linkedin.com##.pds-course-recommendations
 www.linkedin.com##.pds-pcm-progress
 www.linkedin.com##.promo-update
 www.linkedin.com##.pv-course-recommendations
+www.linkedin.com##.pv-dashboard-section
 www.linkedin.com##.pv-profile-section.pv-pcm-section
 www.linkedin.com##.pv-recent-activity-detail__right-rail
 www.linkedin.com##.search-s-news-module
+www.linkedin.com###msg-overlay
 www.linkedin.com##article:has(div .feed-shared-top-bar)
 www.linkedin.com##article.is-sponsored
 
@@ -235,7 +230,8 @@ www.linkedin.com##article.is-sponsored
 !-----------------------------------------------------------
 !------------------------- Youtube -------------------------
 !-----------------------------------------------------------
-||www.youtube.com/api/stats
+||googlevideo.com/videogoodput
+||www.youtube.com/api/stats$important
 ||www.youtube.com/get_endscreen
 ||www.youtube.com/get_midroll_info
 ||www.youtube.com/youtubei/v1/log_interaction
