@@ -160,7 +160,6 @@ www.facebook.com###groupsTagBox
 www.facebook.com###interestsNav
 www.facebook.com###listsNav
 www.facebook.com###pagelet_advertiser_panel
-www.facebook.com###pagelet_advertiser_panel
 www.facebook.com###pagelet_ego_contextual_group
 www.facebook.com###pagelet_ego_pane
 www.facebook.com###pagelet_export_events_to_calendar
@@ -224,7 +223,6 @@ www.linkedin.com##.pv-dashboard-section
 www.linkedin.com##.pv-profile-section.pv-pcm-section
 www.linkedin.com##.pv-recent-activity-detail__right-rail
 www.linkedin.com##.search-s-news-module
-www.linkedin.com###msg-overlay
 www.linkedin.com##article:has(div .feed-shared-top-bar)
 www.linkedin.com##article.is-sponsored
 
