@@ -53,7 +53,6 @@ www.cloudflare.com##.eu-cookie-banner
 !-----------------------------------------------------------
 !-------------------- Fixes/Workarounds --------------------
 !-----------------------------------------------------------
-@@||googleusercontent.com/proxy/*/linkedin.png
 @@||darksky.net/js/lib/analytics.js
 www.sharelatex.com#@##shareButton
 
