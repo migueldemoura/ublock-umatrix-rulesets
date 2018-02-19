@@ -196,6 +196,7 @@ www.facebook.com###video_permalink_related_pagelet
 ||www.linkedin.com/voyager/api/legoWidgetImpressionEvents
 ||www.linkedin.com/voyager/api/mux
 
+www.linkedin.com##.ad-banner-container
 www.linkedin.com##.container-premium
 www.linkedin.com##.feed-follows-module
 www.linkedin.com##.feed-identity-module__anchored-widget--premium-upsell
@@ -213,6 +214,7 @@ www.linkedin.com##.nav-footer:style(border: none; margin-top: 0)
 www.linkedin.com##.nav-footer:style(margin-top: 0)
 www.linkedin.com##.nav-item--spotlight-one
 www.linkedin.com##.nt-card-action-row:has-text(Try Premium for free)
+www.linkedin.com##.nt-notifications-promo
 www.linkedin.com##.org-premium-upsell-module
 www.linkedin.com##.pds-course-recommendations
 www.linkedin.com##.pds-pcm-progress
@@ -236,6 +238,7 @@ www.linkedin.com##article.is-sponsored
 ||www.youtube.com/youtubei/v1/log_interaction
 
 www.youtube.com##.ytd-artist-watch-card-renderer
+www.youtube.com##.ytp-ad-progress
 www.youtube.com###appbar-guide-button
 www.youtube.com###appbar-guide-menu
 www.youtube.com###appbar-nav
