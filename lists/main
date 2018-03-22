@@ -167,10 +167,12 @@ www.facebook.com###pagelet_reminders > div:style(padding-top: 0 !important)
 www.facebook.com###pagelet_rhc_footer
 www.facebook.com###pagelet_rhc_ticker_card
 www.facebook.com###pagelet_suggested_events
+www.facebook.com###pagelet_trending_tags_and_topics
 www.facebook.com###pagesNav
 www.facebook.com###substream_1
 www.facebook.com###suggestedNav
 www.facebook.com###video_permalink_related_pagelet
+www.facebook.com##div[data-story_category="3"]
 
 
 !-----------------------------------------------------------
