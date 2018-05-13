@@ -239,16 +239,10 @@ www.linkedin.com##.search-s-news-module
 ||www.youtube.com/get_midroll_info
 ||www.youtube.com/youtubei/v1/log_interaction
 
-www.youtube.com##.ytd-artist-watch-card-renderer
-www.youtube.com##.ytp-ad-progress
-www.youtube.com###appbar-guide-button
-www.youtube.com###appbar-guide-menu
-www.youtube.com###appbar-nav
-www.youtube.com###buttons
-www.youtube.com###extra-buttons
-www.youtube.com###feed
+www.youtube.com###end
+www.youtube.com###guide-button
 www.youtube.com###related
-www.youtube.com###search-secondary-col-contents
-www.youtube.com###sections
-www.youtube.com###ticker
-www.youtube.com###watch7-sidebar-contents
+www.youtube.com##.ytd-popup-container
+www.youtube.com##ytd-browse
+www.youtube.com##ytd-guide-section-renderer
+www.youtube.com##ytd-guide-signin-promo-renderer
