@@ -186,6 +186,11 @@ www.facebook.com##div[data-story_category="3"]
 ||www.linkedin.com/voyager/api/legoWidgetImpressionEvents
 ||www.linkedin.com/voyager/api/mux
 
+! Remove the annoying modal asking for tracking permissions. This appears on every page load
+! May also remove other modals
+www.linkedin.com###artdeco-modal-outlet
+www.linkedin.com##body:style(overflow: scroll !important)
+
 www.linkedin.com##.ad-banner-container
 www.linkedin.com##.container-premium
 www.linkedin.com##.feed-follows-module
