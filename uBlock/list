@@ -20,6 +20,7 @@
 ||chrome.google.com/webstore/ajax/eventlog
 ||cloud.digitalocean.com/frontend-metrics/
 ||console.cloud.google.com/m/csilog
+||discordapp.com/api/*/channels/*/typing
 ||google.com/*/logImpressions
 ||google.com/*/viewerimpressions
 ||play.google.com/log
