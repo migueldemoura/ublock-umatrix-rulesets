@@ -69,9 +69,11 @@ bidvertiser.com
 boostads.site
 buysellads.net
 c.gumgum.com
+capture.trackjs.com
 cdn.adligature.com
 cdn.gumgum.com
 cdn.taboola.com
+cdn.trackjs.com
 cdn.vizury.com
 cdn10.vizury.com
 cdn12.vizury.com
@@ -121,6 +123,7 @@ odr.mookie1.com
 ping.ublock.org
 prod.adspsp.com
 pubads.g.doubleclick.net
+r.zdbb.net
 report-uri.com
 report-uri.io
 reports.crashlytics.com
@@ -133,6 +136,7 @@ spclient.wg.spotify.com
 ssl.vizury.com
 st-n.ads3-adnow.com
 static.adserver.pm
+stats.g.doubleclick.net
 swid.switchads.com
 switchads.com
 telemetry.gfe.nvidia.com
@@ -142,7 +146,9 @@ track.adform.net
 track.blam.mobi
 track.crowmobi.com
 track.thesaurus.com
+trackjs.com
 us-pl.vizury.com
+usage.trackjs.com
 utraffic.engine.adglare.net
 veads.veinteractive.com
 veplextrack.pw
@@ -158,5 +164,6 @@ www.google-analytics.com
 www.googleadservices.com
 www.googletagservices.com
 www.vizury.com
+zdbb.net
 zoominfo.com
 zqtk.net
