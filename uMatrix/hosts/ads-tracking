@@ -10,6 +10,7 @@
 
 140proof.com
 206ads.com
+a.teads.tv
 aax-eu.amazon-adsystem.com
 accengage.com
 ad-dev.globalnoticias.pt
@@ -18,6 +19,7 @@ ad.a-ads.com
 ad2iction.com
 ad4mat.net
 adap.tv
+adbridg.com
 adbrn.com
 adbutter.net
 adcenix.com
@@ -37,12 +39,14 @@ ads.adstream.com
 ads.cmcm.com
 ads.feedly.com
 ads.google.com
+ads.gumgum.com
 ads.jeded.com
 ads.linkedin.com
 ads.programattik.com
 ads.pubmatic.com
 ads.yahoo.com
 adserver.pm
+adspsp.com
 adtech.advertising.com
 adtech.de
 adtechjp.com
@@ -64,7 +68,10 @@ beacon.statful.com
 bidvertiser.com
 boostads.site
 buysellads.net
+c.gumgum.com
 cdn.adligature.com
+cdn.gumgum.com
+cdn.taboola.com
 cdn.vizury.com
 cdn10.vizury.com
 cdn12.vizury.com
@@ -93,8 +100,10 @@ e.dtscout.com
 ecdn.firstimpression.io
 error.facebook.com
 fastly-analytics.com
+g2.gumgum.com
 gads.pubmatic.com
 googleads.g.doubleclick.net
+gumgum.com
 himediads.com
 http300.edge.ru4.com
 image5.pubmatic.com
@@ -108,7 +117,9 @@ log.outbrain.com
 m.servedby-buysellads.com
 mcc.godaddy.com
 mellowads.com
+odr.mookie1.com
 ping.ublock.org
+prod.adspsp.com
 pubads.g.doubleclick.net
 report-uri.com
 report-uri.io
@@ -127,6 +138,7 @@ switchads.com
 telemetry.gfe.nvidia.com
 telemetry.nvidia.com
 teleport.soom.la
+track.adform.net
 track.blam.mobi
 track.crowmobi.com
 track.thesaurus.com
