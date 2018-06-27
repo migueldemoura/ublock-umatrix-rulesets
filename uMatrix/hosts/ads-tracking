@@ -45,6 +45,7 @@ ads.linkedin.com
 ads.programattik.com
 ads.pubmatic.com
 ads.yahoo.com
+ads.yap.yahoo.com
 adserver.pm
 adspsp.com
 adtech.advertising.com
@@ -64,12 +65,16 @@ analytics.socialblade.com
 analytics2.socialblade.com
 anon-stats.eff.org
 api.branch.io
+api.demandbase.com
+b.6sc.co
+b.scorecardresearch.com
 beacon.scorecardresearch.com
 beacon.statful.com
 bidvertiser.com
 boostads.site
 branch.io
 buysellads.net
+c.6sc.co
 c.go-mpulse.net
 c.gumgum.com
 capture.trackjs.com
@@ -99,9 +104,9 @@ cookielaw.org
 countess.twitch.tv
 d-eu.xp1.ru4.com
 d.go-mpulse.net
-d.go-mpulse.net
 dc.ads.linkedin.com
 default-tags.vizury.com
+demandbase.com
 deployads.com
 do-analytics.net
 e.dtscout.com
@@ -121,6 +126,7 @@ image5.pubmatic.com
 images.dmca.com
 in-tags.vizury.com
 insight.fonecta.fi
+j.6sc.co
 jumptap.com
 kadira.io
 loader.ogstats.com
@@ -139,6 +145,9 @@ report-uri.io
 reports.crashlytics.com
 ru4.com
 s.go-mpulse.net
+sb.scorecardresearch.com
+scorecardresearch.com
+scripts.demandbase.com
 secure-ds.serving-sys.com
 securepubads.g.doubleclick.net
 sg-pl.vizury.com
@@ -151,6 +160,7 @@ static.h-bid.com
 stats.g.doubleclick.net
 swid.switchads.com
 switchads.com
+tag.demandbase.com
 telemetry.gfe.nvidia.com
 telemetry.nvidia.com
 teleport.soom.la
@@ -175,6 +185,7 @@ www.edaa.eu
 www.fastly-analytics.com
 www.google-analytics.com
 www.googleadservices.com
+www.googletagmanager.com
 www.googletagservices.com
 www.vizury.com
 zdbb.net
