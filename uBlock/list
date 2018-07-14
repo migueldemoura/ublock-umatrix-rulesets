@@ -201,7 +201,6 @@ www.linkedin.com##.feed-identity-module__anchored-widget--premium-upsell
 www.linkedin.com##.feed-learning-bites-module
 www.linkedin.com##.feed-s-follows-module
 www.linkedin.com##.feed-s-identity-module__anchored-widget--premium-upsell
-www.linkedin.com##.feed-shared-update:has(.feed-shared-actor__description):has-text(Ad)
 www.linkedin.com##.feed-shared-update:has(.feed-shared-actor__description):has-text(Promoted)
 www.linkedin.com##.feed-shared-update:has(.feed-shared-header)
 www.linkedin.com##.feed-shared-update:has(.feed-shared-top-bar)
