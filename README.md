@@ -3,7 +3,7 @@
 Personal uBlock & uMatrix rulesets.
 
 Please note that the uBlock rulesets are very opinionated.
-The uMatrix rulesets are built assuming the following default rules:
+The uMatrix recipes are built assuming the following default rules:
 
 ```
 no-workers: * true
