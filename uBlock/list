@@ -85,6 +85,7 @@ send.firefox.com#@#.sharePage
 ||*-edge-chat.facebook.com/active_ping
 ||*-edge-chat.facebook.com/probe
 ||*-edge-chat.facebook.com/sub
+||www.facebook.com/tr$document
 ||www.facebook.com/ajax/browse/null_state$important
 ||www.facebook.com/ajax/litestand/newsfeed_count$important
 ||www.facebook.com/ajax/mercury/delivery_receipts
