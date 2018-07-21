@@ -30,6 +30,7 @@
 82o9v830.com
 84.249.186.35.bc.googleusercontent.com
 8as0a.xyz
+a.fiksu.com
 a.teads.tv
 a1.dnbizcdn.com
 a2dfp.net
@@ -61,10 +62,11 @@ adbridg.com
 adbrn.com
 adbutter.net
 adcenix.com
-adclick.g.doublecklick.net
+adclick.g.doubleclick.net
 adcolony.com
 addroplet.com
 addtoany.com
+ade.googlesyndication.com
 adelphic.com
 adform.net
 adglare.net
@@ -178,6 +180,8 @@ apathetictheory.com
 api.branch.io
 api.demandbase.com
 apiservices.krxd.net
+app-measurement.com
+appsflyer.com
 aquaticowl.com
 ar1nvz5.com
 archswimming.com
@@ -264,6 +268,7 @@ captainbicycle.com
 capture.trackjs.com
 carscannon.com
 cautiouscredit.com
+cdn-settings.segment.com
 cdn.adligature.com
 cdn.adpushup.com
 cdn.branch.io
@@ -340,6 +345,8 @@ countess.twitch.tv
 cpm20.com
 cpx.to
 crabbychin.com
+crashdump.spotify.com
+crashlytics.com
 crawlclocks.com
 createsend1.com
 creative-serving.com
@@ -392,6 +399,7 @@ docksalmon.com
 dogsshoes.com
 dolphindispute.com
 donkeyleaf.com
+doubleclick.net
 doubtfulrainstorm.com
 dq95d35.com
 drabsize.com
@@ -400,6 +408,7 @@ driverequest.com
 drivingdirt.com
 dsms0mj1bbhn4.cloudfront.net
 dsp.io
+e.crashlytics.com
 e.dtscout.com
 e.go-mpulse.net
 earthquakescarf.com
@@ -446,6 +455,7 @@ faultyfowl.com
 fearfulflag.com
 feebleshock.com
 feed.4wnet.com
+fiksu.com
 firehose.ap-northeast-1.amazonaws.com
 firehose.ap-northeast-2.amazonaws.com
 firehose.ap-south-1.amazonaws.com
@@ -485,6 +495,7 @@ g2.gumgum.com
 ga87z2o.com
 gads.pubmatic.com
 gammamaximum.com
+gate.hockeyapp.net
 geni.us
 geniusdisplay.com
 geolocation.onetrust.com
@@ -500,6 +511,7 @@ go.ezoic.net
 gondolagnome.com
 google-analytics.com
 googleads.g.doubleclick.net
+googlesyndication.com
 googletagservices.com
 gorgeousground.com
 gossipmiser.com
@@ -550,6 +562,7 @@ impossiblemove.com
 impulsehands.com
 in-tags.vizury.com
 in.getclicky.com
+incoming.telemetry.mozilla.org
 incrediblesugar.com
 indexww.com
 informengine.com
@@ -594,6 +607,7 @@ liquidroll.com
 livelumber.com
 lizardslaugh.com
 loader.ogstats.com
+localads.maps.me
 log.logrocket.io
 log.outbrain.com
 loggly.com
@@ -605,6 +619,7 @@ loudlunch.com
 lp3tdqle.com
 lqtrk.com
 lumpyleaf.com
+m.quantcount.com
 m.servedby-buysellads.com
 m73lae5cpmgrv38.com
 magnificentmist.com
@@ -626,12 +641,14 @@ messagenovice.com
 metapelite.com
 minormeeting.com
 mixedreading.com
+mobile-service.segment.com
 modifyeyes.com
 moldyicicle.com
 mookie1.com
 motionlessbag.com
 mountaintail.com
 mowfruit.com
+mqtt-mini.facebook.com
 murkymeeting.com
 mysteriousmonth.com
 n26u.xyz
@@ -793,6 +810,7 @@ pub.freestar.io
 pubads.g.doubleclick.net
 publicidees.com
 publisherdesk.servedbyopenx.com
+pubmatic.com
 pubster.twitch.tv
 puffyloss.com
 puffypull.com
@@ -801,12 +819,14 @@ puserving.com
 puzzlingfall.com
 pxl.trafficstars.com
 quaintcan.com
+quantcount.com
 quantserve.com
 quantummetric.com
 quarterbean.com
 quicksandear.com
 quietknowledge.com
 quizzicalzephyr.com
+r.my.com
 r.zdbb.net
 r7ls.net
 railwayrainstorm.com
@@ -857,16 +877,19 @@ screechingfurniture.com
 scripts.demandbase.com
 scrubsky.com
 scrubswim.com
+sdk.fiksu.com
 secretivecub.com
 secretspiders.com
 secure-ds.serving-sys.com
 secure.quantserve.com
 securepubads.g.doubleclick.net
 seedscissors.com
+segment.com
 selectionsugar.com
 selectivesummer.com
 separatesilver.com
 servedbyopenx.com
+settings.crashlytics.com
 sg-pl.vizury.com
 shakesea.com
 shakesuggestion.com
@@ -931,6 +954,8 @@ static.chartbeat.com
 static.criteo.net
 static.getclicky.com
 static.h-bid.com
+stats.appsflyer.com
+stats.fon.com
 stats.g.doubleclick.net
 steadfastsound.com
 steadfastsystem.com
@@ -978,6 +1003,7 @@ tedioustooth.com
 teenyvolcano.com
 teethfan.com
 telemetry.gfe.nvidia.com
+telemetry.mozilla.org
 telemetry.nvidia.com
 teleport.soom.la
 terriblethumb.com
@@ -1007,6 +1033,7 @@ track.adform.net
 track.blam.mobi
 track.crowmobi.com
 track.thesaurus.com
+tracker-api.my.com
 tracker.anunzzio.com
 tracker.brlnr.de
 tracker.c3voc.de
