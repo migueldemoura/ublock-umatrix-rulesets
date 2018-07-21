@@ -15,6 +15,14 @@ no-workers: * true
 
 These are more restrictive than the ones proposed by uMatrix.
 
+## Highlights
+
+These lists were adapted from my personal rulesets and are being actively improved with semi-automated spider bots. The host lists are particularly comprehensive in the following areas:
+
+* [Admiral](https://getadmiral.com) domains
+* Game currency/key generator scams
+
+The malware list includes hosts serving viruses, ransomware, scareware, cryptocoin miners, scams and some forms of spyware. Most adware and spyware is filled under `ads-tracking`.
 
 ## License
 
