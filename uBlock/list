@@ -26,9 +26,11 @@
 ||play.google.com/log
 ||s*.feedly.com/images/pixel.png
 ||www.amazon.com/ah/ajax/record-impressions
+||www.amazon.com/gp/r.html
 ||www.booking.com/js_tracking
 ||www.dropbox.com/log_js_sw_data
 ||www.dropbox.com/log/ux_analytics
+||www.facebook.com/email_open_log_pic.php
 ||www.instagram.com/ajax/bz
 
 arstechnica.com###sponsored-recommendations
@@ -125,19 +127,6 @@ www.facebook.com##._s15
 ! New Feed Post
 www.facebook.com###pagelet_composer
 
-www.facebook.com##.chat_sidebar div:has-text(BUSINESSES FOR YOU)
-www.facebook.com##.fbChatSidebar > div:style(height: 43px !important)
-www.facebook.com##.home_right_column:style(min-height: 0 !important)
-www.facebook.com##.rhcFooter
-www.facebook.com##[data-testid=chat_sidebar] div:has(div._ohe)
-www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(— The Facebook Help Team)
-www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Only you can see this preview until you run this ad)
-www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Peace Begins With Us)
-www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(recently commented on this)
-www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Recommended for you)
-www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Suggested because it's popular on Facebook)
-www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Suggested Post)
-www.facebook.com##[id^="more_pager_pagelet_"]:has-text(Do You Want to See More Posts)
 www.facebook.com###appsNav
 www.facebook.com###createNav
 www.facebook.com###event_related_events
@@ -155,6 +144,7 @@ www.facebook.com###pagelet_advertiser_panel
 www.facebook.com###pagelet_ego_contextual_group
 www.facebook.com###pagelet_ego_pane
 www.facebook.com###pagelet_export_events_to_calendar
+www.facebook.com###pagelet_marketplace_new_user_top_picks_rhc
 www.facebook.com###pagelet_reminders > div:style(padding-top: 0 !important)
 www.facebook.com###pagelet_rhc_footer
 www.facebook.com###pagelet_rhc_ticker_card
@@ -164,6 +154,19 @@ www.facebook.com###pagesNav
 www.facebook.com###substream_1
 www.facebook.com###suggestedNav
 www.facebook.com###video_permalink_related_pagelet
+www.facebook.com##.chat_sidebar div:has-text(BUSINESSES FOR YOU)
+www.facebook.com##.fbChatSidebar > div:style(height: 43px !important)
+www.facebook.com##.home_right_column:style(min-height: 0 !important)
+www.facebook.com##.rhcFooter
+www.facebook.com##[data-testid=chat_sidebar] div:has(div._ohe)
+www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Only you can see this preview until you run this ad)
+www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Peace Begins With Us)
+www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(recently commented on this)
+www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Recommended for you)
+www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Suggested because it's popular on Facebook)
+www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Suggested Post)
+www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(— The Facebook Help Team)
+www.facebook.com##[id^="more_pager_pagelet_"]:has-text(Do You Want to See More Posts)
 www.facebook.com##div[data-story_category="3"]
 
 
