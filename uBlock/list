@@ -17,7 +17,6 @@
 ||accounts.google.com/_/common/diagnostics
 ||api.talky.io/telemetry
 ||beacons*.gvt*.com/domainreliability
-||chrome.google.com/webstore/ajax/eventlog
 ||cloud.digitalocean.com/frontend-metrics/
 ||console.cloud.google.com/m/csilog
 ||discordapp.com/api/*/channels/*/typing
@@ -33,10 +32,6 @@
 ||www.facebook.com/email_open_log_pic.php
 ||www.instagram.com/ajax/bz
 
-arstechnica.com###sponsored-recommendations
-feedly.com##.primary.pro.small
-feedly.com##.selectorNewMarker
-feedly.com##.widget-related-feeds.widget
 thehackernews.com##a[onclick^=_gaq]
 thenextweb.com##.deals
 www.cloudflare.com##.eu-cookie-banner
