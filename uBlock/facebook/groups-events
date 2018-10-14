@@ -2,28 +2,20 @@
 ! uBlock & uMatrix Rulesets
 ! Copyright (C) 2017-2018 Miguel de Moura
 !
-! Title: migueldemoura's uBlock List - Facebook Messenger-Groups-Events
+! Title: migueldemoura's uBlock List - Facebook Groups-Events
 ! Maintainer: Miguel de Moura
 ! Home: https://github.com/migueldemoura/ublock-umatrix-rulesets
 ! License: https://github.com/migueldemoura/ublock-umatrix-rulesets/blob/master/LICENSE.md
 !
 
-! Prevent 'seen' status in Messenger
-||www.facebook.com/ajax/mercury/change_read_status
-
-! Prevent 'seen' status in Group Posts
+! Block 'seen' status
 ||www.facebook.com/*notif_t=group_$document,subdocument,important
 ||www.facebook.com/ajax/bz$important
 ||www.facebook.com/ajax/notifications/mark_read$important
-
-! Prevent 'seen' status in Events
-! Extreme, blocks all event pageloads
+! Breaking, blocks all event pageloads
 !||www.facebook.com/events/$document,subdocument,important
 ! Notification-based, seen status can still be triggered by clicking on a link to the event
 ||www.facebook.com/events/*notif_t=plan_user_invited$document,subdocument,important
 
-! Prevent 'is typing' status
-! Posts
+! Block 'is typing' status
 ||www.facebook.com/ufi/typing
-! Messenger
-||www.facebook.com/ajax/messaging/typ

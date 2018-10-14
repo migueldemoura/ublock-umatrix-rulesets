@@ -8,9 +8,8 @@
 ! License: https://github.com/migueldemoura/ublock-umatrix-rulesets/blob/master/LICENSE.md
 !
 
-! Prevent 'seen' status in Messenger
+! Block 'seen' status
 ||www.facebook.com/ajax/mercury/change_read_status
 
-! Prevent 'is typing' status
-! Messenger
+! Block 'is typing' status
 ||www.facebook.com/ajax/messaging/typ
