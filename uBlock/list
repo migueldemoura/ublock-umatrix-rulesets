@@ -199,6 +199,9 @@ www.linkedin.com##.feed-identity-module__anchored-widget--premium-upsell
 www.linkedin.com##.feed-learning-bites-module
 www.linkedin.com##.feed-s-follows-module
 www.linkedin.com##.feed-s-identity-module__anchored-widget--premium-upsell
+www.linkedin.com##.feed-shared-update-v2:has(.feed-shared-actor__description):has-text(Promoted)
+www.linkedin.com##.feed-shared-update-v2:has(.feed-shared-header)
+www.linkedin.com##.feed-shared-update-v2:has(.feed-shared-top-bar)
 www.linkedin.com##.feed-shared-update:has(.feed-shared-actor__description):has-text(Promoted)
 www.linkedin.com##.feed-shared-update:has(.feed-shared-header)
 www.linkedin.com##.feed-shared-update:has(.feed-shared-top-bar)
@@ -223,6 +226,7 @@ www.linkedin.com##.pv-profile-section.pv-pcm-section
 www.linkedin.com##.pv-recent-activity-detail__right-rail
 www.linkedin.com##.search-paywall
 www.linkedin.com##.search-s-news-module
+www.linkedin.com##[data-id^="urn:li:lyndaCourse"]
 www.linkedin.com##article.is-sponsored
 
 
