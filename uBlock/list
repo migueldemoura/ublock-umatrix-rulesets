@@ -9,7 +9,7 @@
 !
 
 !-----------------------------------------------------------
-!------------ General Ads & Tracking -----------------------
+!------------------ General Ads & Tracking -----------------
 !-----------------------------------------------------------
 ||googleusercontent.com/proxy/*mailtrack.io
 ||accounts.google.com/_/common/diagnostics
@@ -23,6 +23,21 @@
 ||www.booking.com/js_tracking
 ||www.facebook.com/email_open_log_pic.php
 ||www.instagram.com/ajax/bz
+
+
+!-----------------------------------------------------------
+!------------------------- Feedly --------------------------
+!-----------------------------------------------------------
+! Left, Top Bar - Filters
+feedly.com###filtertab_header
+! Left, Bottom Bar - Integrations
+feedly.com###integrationstab_header
+! Left, Bottom Bar - Share collections
+feedly.com###librarytab
+! Left, Bottom Bar - Support
+feedly.com###supporttab
+! Upgrade button
+feedly.com##.pro
 
 
 !-----------------------------------------------------------
