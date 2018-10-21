@@ -203,15 +203,14 @@ www.linkedin.com##article.is-sponsored
 !------------------------- Youtube -------------------------
 !-----------------------------------------------------------
 ||googlevideo.com/videogoodput
-||www.youtube.com/api/stats$important
 ||www.youtube.com/get_endscreen
 ||www.youtube.com/get_midroll_info
-||www.youtube.com/youtubei/v1/log_interaction
+||www.youtube.com/service_ajax
 
+www.youtube.com##.ytd-popup-container
 www.youtube.com###end
 www.youtube.com###guide-button
 www.youtube.com###related
-www.youtube.com##.ytd-popup-container
 www.youtube.com##ytd-browse[page-subtype="home"]
 www.youtube.com##ytd-guide-section-renderer
 www.youtube.com##ytd-guide-signin-promo-renderer
