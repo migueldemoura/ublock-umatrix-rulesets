@@ -96,6 +96,8 @@ www.facebook.com###appsNav
 www.facebook.com###createNav
 ! Right Bar - Stories
 www.facebook.com###fb_stories_card_root
+! Right Bar - Your Page
+www.facebook.com###homepage_panel_pagelet
 ! Right Bar - Suggested Groups, People you may know
 www.facebook.com###pagelet_ego_pane
 ! Home Right Bar - Language and Footer
