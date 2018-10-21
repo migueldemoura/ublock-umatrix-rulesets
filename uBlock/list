@@ -118,6 +118,10 @@ www.facebook.com##.rhcFooter
 www.linkedin.com##.premium-upsell-link
 ! Home Right Bar - Add to your feed
 www.linkedin.com##.feed-follows-module
+! Home - Jobs recommended for you
+www.linkedin.com##[data-id^="urn:li:jobPosting"]
+! Home - Improve your * skills
+www.linkedin.com##[data-id^="urn:li:lyndaCourse"]
 ! Profile Right Bar - Add new skills with these courses
 www.linkedin.com##.pv-course-recommendations
 
