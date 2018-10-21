@@ -9,39 +9,20 @@
 !
 
 !-----------------------------------------------------------
-!------------ General Ads, Analytics & Tracking ------------
+!------------ General Ads & Tracking -----------------------
 !-----------------------------------------------------------
-! Mailtrack Gmail
 ||googleusercontent.com/proxy/*mailtrack.io
-
 ||accounts.google.com/_/common/diagnostics
-||api.talky.io/telemetry
 ||beacons*.gvt*.com/domainreliability
 ||cloud.digitalocean.com/frontend-metrics/
-||console.cloud.google.com/m/csilog
-||discordapp.com/api/*/channels/*/typing
 ||google.com/*/logImpressions
 ||google.com/*/viewerimpressions
 ||play.google.com/log
-||s*.feedly.com/images/pixel.png
 ||www.amazon.com/ah/ajax/record-impressions
 ||www.amazon.com/gp/r.html
 ||www.booking.com/js_tracking
-||www.dropbox.com/log_js_sw_data
-||www.dropbox.com/log/ux_analytics
 ||www.facebook.com/email_open_log_pic.php
 ||www.instagram.com/ajax/bz
-
-thehackernews.com##a[onclick^=_gaq]
-thenextweb.com##.deals
-www.cloudflare.com##.eu-cookie-banner
-
-
-!-----------------------------------------------------------
-!-------------------- Fixes/Workarounds --------------------
-!-----------------------------------------------------------
-@@||darksky.net/js/lib/analytics.js
-send.firefox.com#@#.sharePage
 
 
 !-----------------------------------------------------------
@@ -58,24 +39,12 @@ send.firefox.com#@#.sharePage
 ||www.facebook.com/search/browse/warm/requestargs
 ||www.facebook.com/typeahead/search/facebar/query$important
 
-! Prevent 'seen' status in Messenger
 ||www.facebook.com/ajax/mercury/change_read_status
-
-! Prevent 'seen' status in Group Posts
 ||www.facebook.com/*notif_t=group_$document,subdocument,important
 ||www.facebook.com/ajax/bz$important
 ||www.facebook.com/ajax/notifications/mark_read$important
-
-! Prevent 'seen' status in Events
-! Extreme, blocks all event pageloads
-!||www.facebook.com/events/$document,subdocument,important
-! Notification-based, seen status can still be triggered by clicking on a link to the event
 ||www.facebook.com/events/*notif_t=plan_user_invited$document,subdocument,important
-
-! Prevent 'is typing' status
-! Posts
 ||www.facebook.com/ufi/typing
-! Messenger
 ||www.facebook.com/ajax/messaging/typ
 
 ||*-edge-chat.facebook.com/active_ping
