@@ -28,7 +28,6 @@
 !-----------------------------------------------------------
 !------------------------ Facebook -------------------------
 !-----------------------------------------------------------
-
 ||www.messenger.com/ajax/bz
 ||www.messenger.com/ajax/mercury/unread_threads
 ||www.messenger.com/mercury/unseen_thread_ids
@@ -74,63 +73,22 @@
 ||www.facebook.com/typeahead/search/facebar/bootload
 ||www.facebook.com/video/autoplay
 
-! Cards and slideshow from the Discover tab at /groups
-www.facebook.com##._27i-
-www.facebook.com##[id^=group-discover-lading-]
-
-! "Add Friends to See More Stories" Feed Message
-www.facebook.com##[id^="more_pager_pagelet_"]:has-text(Add Friends to See More Stories)
-
-! "Get Messenger on Your Phone" Sidebar Message
-www.facebook.com##._1wcc
-
-! "Keep the conversation going from your phone" Message at /messages
-www.facebook.com##._s15
-
 ! New Feed Post
 www.facebook.com###pagelet_composer
-
+! Left Bar - Explore Group
 www.facebook.com###appsNav
+! Left Bar - Create Group
 www.facebook.com###createNav
-www.facebook.com###event_related_events
-www.facebook.com###events_suggestion_pagelet
-www.facebook.com###eventsNav
+! Right Bar - Stories
 www.facebook.com###fb_stories_card_root
-www.facebook.com###feedx_sprouts_container
-www.facebook.com###fundraisersNav
-www.facebook.com###globalContainer:style(min-height: 0 !important)
-www.facebook.com###GroupsRHCSuggestionSection
-www.facebook.com###groupsTagBox
-www.facebook.com###interestsNav
-www.facebook.com###listsNav
-www.facebook.com###pagelet_advertiser_panel
-www.facebook.com###pagelet_ego_contextual_group
+! Right Bar - Suggested Groups, People you may know
 www.facebook.com###pagelet_ego_pane
-www.facebook.com###pagelet_export_events_to_calendar
-www.facebook.com###pagelet_marketplace_new_user_top_picks_rhc
-www.facebook.com###pagelet_reminders > div:style(padding-top: 0 !important)
+! Home Right Bar - Language and Footer
 www.facebook.com###pagelet_rhc_footer
-www.facebook.com###pagelet_rhc_ticker_card
-www.facebook.com###pagelet_suggested_events
-www.facebook.com###pagelet_trending_tags_and_topics
-www.facebook.com###pagesNav
-www.facebook.com###substream_1
-www.facebook.com###suggestedNav
-www.facebook.com###video_permalink_related_pagelet
-www.facebook.com##.chat_sidebar div:has-text(BUSINESSES FOR YOU)
-www.facebook.com##.fbChatSidebar > div:style(height: 43px !important)
-www.facebook.com##.home_right_column:style(min-height: 0 !important)
+! Events Right Bar - Find events
+www.facebook.com###events_dashboard_find_events
+! Photo Popup - People you may know
 www.facebook.com##.rhcFooter
-www.facebook.com##[data-testid=chat_sidebar] div:has(div._ohe)
-www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Only you can see this preview until you run this ad)
-www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Peace Begins With Us)
-www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(recently commented on this)
-www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Recommended for you)
-www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Suggested because it's popular on Facebook)
-www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(Suggested Post)
-www.facebook.com##[id^="hyperfeed_story_id_"]:has-text(— The Facebook Help Team)
-www.facebook.com##[id^="more_pager_pagelet_"]:has-text(Do You Want to See More Posts)
-www.facebook.com##div[data-story_category="3"]
 
 
 !-----------------------------------------------------------
@@ -156,47 +114,12 @@ www.facebook.com##div[data-story_category="3"]
 ||www.linkedin.com/voyager/api/legoWidgetImpressionEvents
 ||www.linkedin.com/voyager/api/mux
 
-! Remove the annoying modal asking for tracking permissions. This appears on every page load
-! May also remove other modals
-www.linkedin.com###artdeco-modal-outlet
-www.linkedin.com##body:style(overflow: scroll !important)
-
-www.linkedin.com##.ad-banner-container
-www.linkedin.com##.container-premium
+! Home Left Bar - Free Upgrade to Premium
+www.linkedin.com##.premium-upsell-link
+! Home Right Bar - Add to your feed
 www.linkedin.com##.feed-follows-module
-www.linkedin.com##.feed-identity-module__anchored-widget--premium-upsell
-www.linkedin.com##.feed-learning-bites-module
-www.linkedin.com##.feed-s-follows-module
-www.linkedin.com##.feed-s-identity-module__anchored-widget--premium-upsell
-www.linkedin.com##.feed-shared-update-v2:has(.feed-shared-actor__description):has-text(Promoted)
-www.linkedin.com##.feed-shared-update-v2:has(.feed-shared-header)
-www.linkedin.com##.feed-shared-update-v2:has(.feed-shared-top-bar)
-www.linkedin.com##.feed-shared-update:has(.feed-shared-actor__description):has-text(Promoted)
-www.linkedin.com##.feed-shared-update:has(.feed-shared-header)
-www.linkedin.com##.feed-shared-update:has(.feed-shared-top-bar)
-www.linkedin.com##.ge-profile-entry-card__card.artdeco-container-card
-www.linkedin.com##.jss-upsell
-www.linkedin.com##.jymbii-top-applicant-jobs-upsell
-www.linkedin.com##.me-wvmp-premium-upsell
-www.linkedin.com##.me-wvmp-right-rail
-www.linkedin.com##.mn-connections-summary__no-top-border-radius
-www.linkedin.com##.nav-footer:style(border: none; margin-top: 0)
-www.linkedin.com##.nav-footer:style(margin-top: 0)
-www.linkedin.com##.nav-item--spotlight-one
-www.linkedin.com##.nt-card-action-row:has-text(Try Premium for free)
-www.linkedin.com##.nt-notifications-promo
-www.linkedin.com##.org-premium-upsell-module
-www.linkedin.com##.pds-course-recommendations
-www.linkedin.com##.pds-pcm-progress
-www.linkedin.com##.promo-update
+! Profile Right Bar - Add new skills with these courses
 www.linkedin.com##.pv-course-recommendations
-www.linkedin.com##.pv-dashboard-section
-www.linkedin.com##.pv-profile-section.pv-pcm-section
-www.linkedin.com##.pv-recent-activity-detail__right-rail
-www.linkedin.com##.search-paywall
-www.linkedin.com##.search-s-news-module
-www.linkedin.com##[data-id^="urn:li:lyndaCourse"]
-www.linkedin.com##article.is-sponsored
 
 
 !-----------------------------------------------------------
