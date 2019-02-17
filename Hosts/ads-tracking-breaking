@@ -1,6 +1,6 @@
 !
 ! uBlock & uMatrix Rulesets
-! Copyright (C) 2017-2018 Miguel de Moura
+! Copyright (C) 2017-2019 Miguel de Moura
 !
 ! Title: migueldemoura's Hosts - Ads & Tracking - Breaking
 ! Maintainer: Miguel de Moura
@@ -9,6 +9,7 @@
 !
 
 adespresso.com
+adnium.com
 analytics.moz.com
 app.getsentry.com
 app.launchdarkly.com
