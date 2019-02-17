@@ -1,6 +1,6 @@
 !
 ! uBlock & uMatrix Rulesets
-! Copyright (C) 2017-2018 Miguel de Moura
+! Copyright (C) 2017-2019 Miguel de Moura
 !
 ! Title: migueldemoura's Hosts - Ads & Tracking
 ! Maintainer: Miguel de Moura
@@ -39,6 +39,7 @@
 82o9v830.com
 84.249.186.35.bc.googleusercontent.com
 8as0a.xyz
+a.adnium.com
 a.brpx.io
 a.fiksu.com
 a.impactradius-tag.com
@@ -119,6 +120,7 @@ adpushup.com
 adr.adplus.co.id
 adroll.com
 adrta.com
+ads-resources-legacy.waze.com
 ads-twitter.com
 ads.1st5ive.net
 ads.adstream.com
@@ -134,6 +136,7 @@ ads.dargachi.ir
 ads.ekai.pl
 ads.exosrv.com
 ads.feedly.com
+ads.fmca.com
 ads.gaming1.com
 ads.google.com
 ads.gumgum.com
@@ -285,7 +288,9 @@ anrdoezrs.net
 anthill.instapage.com
 anxiousapples.com
 apathetictheory.com
+api.adjust.com
 api.amplitude.com
+api.apptentive.com
 api.b2c.com
 api.branch.io
 api.demandbase.com
@@ -306,6 +311,7 @@ app.pendo.io
 app.relateiq.com
 app.yesware.com
 appsflyer.com
+apptentive.com
 aquaticowl.com
 ar1nvz5.com
 archswimming.com
@@ -323,6 +329,7 @@ at.atwola.com
 atlassolutions.com
 atm.impresa.pt
 attractiveafternoon.com
+audit.quantcast.mgr.consensu.org
 augur.io
 automaticflock.com
 avantlink.com
@@ -651,6 +658,7 @@ dap.digitalgov.gov
 dashboard.tinypass.com
 dashingdirt.com
 dashingsweater.com
+data-event.uniplaces.com
 data-events.uniplaces.com
 data.queryly.com
 datadome.co
@@ -761,6 +769,7 @@ eu-track.inside-graph.com
 evanescentedge.com
 event-logger.api.dnc.org
 evyy.net
+exceptions.singular.net
 exclusivebrass.com
 exct.net
 exelator.com
@@ -1115,6 +1124,7 @@ mmshbwtpx.com
 moatads.com
 moatpixel.com
 mobile-collector.newrelic.com
+mobile-crash.newrelic.com
 mobile-service.segment.com
 modifyeyes.com
 moldyicicle.com
@@ -1206,6 +1216,7 @@ parsely.com
 parsimoniouspolice.com
 partner.googleadservices.com
 partners.hostgator.com
+pasta.esfile.duapps.com
 peacepowder.com
 pegasusplate.com
 penspade.com
@@ -1505,6 +1516,7 @@ puffypull.com
 puffypurpose.com
 puserving.com
 puzzlingfall.com
+px-conf.perimeterx.net
 px.ads.linkedin.com
 px.moatads.com
 px.srvcs.tumblr.com
@@ -1564,6 +1576,19 @@ roosterfirework.com
 roughroll.com
 rpwgs.voluumtrk2.com
 rs.fullstory.com
+rt3012.infolinks.com
+rt3013.infolinks.com
+rt3014.infolinks.com
+rt3015.infolinks.com
+rt3016.infolinks.com
+rt3020.infolinks.com
+rt3025.infolinks.com
+rt3030.infolinks.com
+rt3032.infolinks.com
+rt3034.infolinks.com
+rt3035.infolinks.com
+rt3036.infolinks.com
+rt3037.infolinks.com
 rta.dailymail.co.uk
 rta2.metro.co.uk
 rtb-csync.smartadserver.com
@@ -1627,6 +1652,7 @@ secure-dcr.imrworldwide.com
 secure-ds.serving-sys.com
 secure-us.imrworldwide.com
 secure.gaug.es
+secure.insightexpressai.com
 secure.netscope.marktest.pt
 secure.ownlocal.com
 secure.quantserve.com
@@ -1813,6 +1839,7 @@ tags.mediaforge.com
 tags.onscroll.com
 talentedsteel.com
 tangibleteam.com
+tap-nexus.appspot.com
 tapad.com
 target.mixi.media
 targeting.washpost.nile.works
@@ -1872,7 +1899,10 @@ track.mixmax.com
 track.thesaurus.com
 track.tkbo.com
 track.traffic.club
+track.wattpad.com
+track.zomato.com
 trackedlink.net
+trackemail2.zomato.com
 tracker-api.my.com
 tracker.anunzzio.com
 tracker.brlnr.de
