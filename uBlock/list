@@ -102,6 +102,8 @@ www.facebook.com##.sideNavItem:style(display:block!important)
 www.facebook.com##li:has(a[data-testid="left_nav_section_Shortcuts_seemore"])
 ! Home Right Bar - Stories
 www.facebook.com###fb_stories_card_root
+! Home Right Bar - Marketplace
+www.facebook.com###pagelet_marketplace_new_user_top_picks_rhc
 ! Home Right Bar - Your Page
 www.facebook.com###homepage_panel_pagelet
 ! Home Right Bar - Suggested Groups, People you may know
