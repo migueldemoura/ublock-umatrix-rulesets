@@ -22,7 +22,7 @@ These lists were adapted from my personal rulesets and are being actively improv
 * [Admiral](https://getadmiral.com) domains
 * Game currency/key generator scams
 
-The malware list includes hosts serving viruses, ransomware, scareware, cryptocoin miners, scams and some forms of spyware. Most adware and spyware is filled under `ads-tracking`.
+The malware list includes hosts serving viruses, ransomware, scareware, badware, cryptocoin miners, scams and some forms of spyware. Most adware and spyware is filled under `ads-tracking`.
 
 ## License
 
