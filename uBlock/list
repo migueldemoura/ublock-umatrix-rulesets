@@ -150,6 +150,8 @@ www.linkedin.com##[data-id^="urn:li:aggregate:(urn:li:jobPosting"]
 www.linkedin.com##[data-id^="urn:li:lyndaCourse"]
 ! Profile Right Bar - Add new skills with these courses
 www.linkedin.com##.pv-course-recommendations
+! Home Feed - Shared Updates
+www.linkedin.com##.feed-shared-update-v2:has(.feed-shared-header)
 
 
 !-----------------------------------------------------------
