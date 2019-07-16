@@ -148,6 +148,8 @@ www.linkedin.com##[data-id^="urn:li:jobPosting"]
 www.linkedin.com##[data-id^="urn:li:aggregate:(urn:li:jobPosting"]
 ! Home - Improve your * skills
 www.linkedin.com##[data-id^="urn:li:lyndaCourse"]
+! Profile Badge - Premium Upsell
+www.linkedin.com##.pv-member-badge__premium-upsell
 ! Profile Right Bar - Add new skills with these courses
 www.linkedin.com##.pv-course-recommendations
 ! Home Feed - Shared Updates
