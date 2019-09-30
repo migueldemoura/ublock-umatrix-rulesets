@@ -1,17 +1,17 @@
-! uMatrix: Ruleset recipes 1.0
-!
-! uBlock & uMatrix Rulesets
-! Copyright (C) 2017-2018 Miguel de Moura
-!
-! Title: migueldemoura's uMatrix Recipes
-! Maintainer: Miguel de Moura
-! Home: https://github.com/migueldemoura/ublock-umatrix-rulesets
-! License: https://github.com/migueldemoura/ublock-umatrix-rulesets/blob/master/LICENSE.md
-!
+# uMatrix: Ruleset recipes 1.0
+#
+# uBlock & uMatrix Rulesets
+# Copyright (C) 2017-2018 Miguel de Moura
+#
+# Title: migueldemoura's uMatrix Recipes
+# Maintainer: Miguel de Moura
+# Home: https://github.com/migueldemoura/ublock-umatrix-rulesets
+# License: https://github.com/migueldemoura/ublock-umatrix-rulesets/blob/master/LICENSE.md
+#
 
-!
-! Global CDNs
-!
+#
+# Global CDNs
+#
 
 Globally whitelist jsDelivr CDN
     * cdn.jsdelivr.net

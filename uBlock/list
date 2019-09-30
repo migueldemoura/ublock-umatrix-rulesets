@@ -1,16 +1,16 @@
-!
-! uBlock & uMatrix Rulesets
-! Copyright (C) 2017-2018 Miguel de Moura
-!
-! Title: migueldemoura's uBlock List
-! Maintainer: Miguel de Moura
-! Home: https://github.com/migueldemoura/ublock-umatrix-rulesets
-! License: https://github.com/migueldemoura/ublock-umatrix-rulesets/blob/master/LICENSE.md
-!
+#
+# uBlock & uMatrix Rulesets
+# Copyright (C) 2017-2018 Miguel de Moura
+#
+# Title: migueldemoura's uBlock List
+# Maintainer: Miguel de Moura
+# Home: https://github.com/migueldemoura/ublock-umatrix-rulesets
+# License: https://github.com/migueldemoura/ublock-umatrix-rulesets/blob/master/LICENSE.md
+#
 
-!-----------------------------------------------------------
-!------------------ General Ads & Tracking -----------------
-!-----------------------------------------------------------
+#-----------------------------------------------------------
+#------------------ General Ads & Tracking -----------------
+#-----------------------------------------------------------
 ||accounts.google.com/_/common/diagnostics
 ||beacons*.gvt*.com/domainreliability
 ||cloud.digitalocean.com/frontend-metrics/
@@ -27,30 +27,30 @@
 ||www.instagram.com/ajax/bz
 
 
-!-----------------------------------------------------------
-!------------------------- Feedly --------------------------
-!-----------------------------------------------------------
-! Left, Top Bar - Filters
+#-----------------------------------------------------------
+#------------------------- Feedly --------------------------
+#-----------------------------------------------------------
+# Left, Top Bar - Filters
 feedly.com###filtertab_header
-! Left, Bottom Bar - Integrations
+# Left, Bottom Bar - Integrations
 feedly.com###integrationstab_header
-! Left, Bottom Bar - Share collections
+# Left, Bottom Bar - Share collections
 feedly.com###librarytab
-! Left, Bottom Bar - Support
+# Left, Bottom Bar - Support
 feedly.com###supporttab
-! Upgrade button
+# Upgrade button
 feedly.com##.pro
 
 
-!-----------------------------------------------------------
-!------------------------ Facebook -------------------------
-!-----------------------------------------------------------
+#-----------------------------------------------------------
+#------------------------ Facebook -------------------------
+#-----------------------------------------------------------
 ||www.messenger.com/ajax/bz
 ||www.messenger.com/ajax/mercury/unread_threads
 ||www.messenger.com/mercury/unseen_thread_ids
 ||www.messenger.com/rtc/callability
 
-! Breaks search suggestions
+# Breaks search suggestions
 ||www.facebook.com/ajax/typeahead/search/facebar$important
 ||www.facebook.com/search/browse/warm/requestargs
 ||www.facebook.com/typeahead/search/facebar/query$important
@@ -91,40 +91,40 @@ feedly.com##.pro
 ||www.facebook.com/typeahead/search/facebar/bootload
 ||www.facebook.com/video/autoplay
 
-! New Feed Post
+# New Feed Post
 www.facebook.com###pagelet_composer
-! Home Left Bar - Explore Group
+# Home Left Bar - Explore Group
 www.facebook.com###appsNav
-! Home Left Bar - Create Group
+# Home Left Bar - Create Group
 www.facebook.com###createNav
-! Home Left Bar - Show all Shortcuts
-www.facebook.com##.sideNavItem:style(display:block!important)
+# Home Left Bar - Show all Shortcuts
+www.facebook.com##.sideNavItem:style(display:block#important)
 www.facebook.com##li:has(a[data-testid="left_nav_section_Shortcuts_seemore"])
-! Home Right Bar - Stories
+# Home Right Bar - Stories
 www.facebook.com###fb_stories_card_root
-! Home Right Bar - Marketplace
+# Home Right Bar - Marketplace
 www.facebook.com###pagelet_marketplace_new_user_top_picks_rhc
-! Home Right Bar - Your Page
+# Home Right Bar - Your Page
 www.facebook.com###homepage_panel_pagelet
-! Home Right Bar - Suggested Groups, People you may know
+# Home Right Bar - Suggested Groups, People you may know
 www.facebook.com###pagelet_ego_pane
-! Home Right Bar - Language and Footer
+# Home Right Bar - Language and Footer
 www.facebook.com###pagelet_rhc_footer
-! Events Right Bar - Find events
+# Events Right Bar - Find events
 www.facebook.com###events_dashboard_find_events
-! Photo Popup - People you may know
+# Photo Popup - People you may know
 www.facebook.com##.rhcFooter
 
 
-!-----------------------------------------------------------
-!------------------------ Linkedin -------------------------
-!-----------------------------------------------------------
-! Prevent 'seen' status in Conversations
+#-----------------------------------------------------------
+#------------------------ Linkedin -------------------------
+#-----------------------------------------------------------
+# Prevent 'seen' status in Conversations
 ||www.linkedin.com/voyager/api/messaging/badge?action=markAllItemsAsSeen
 ||www.linkedin.com/voyager/api/messaging/conversations/
 @@||www.linkedin.com/voyager/api/messaging/conversations/*/events
 
-! Prevent 'is typing' status in Conversations
+# Prevent 'is typing' status in Conversations
 ||www.linkedin.com/voyager/api/messaging/conversations?action=typing
 
 ||www.linkedin.com/csp/sct
@@ -139,26 +139,26 @@ www.facebook.com##.rhcFooter
 ||www.linkedin.com/voyager/api/legoWidgetImpressionEvents
 ||www.linkedin.com/voyager/api/mux
 
-! Home Left Bar - Free Upgrade to Premium
+# Home Left Bar - Free Upgrade to Premium
 www.linkedin.com##.premium-upsell-link
-! Home Right Bar - Add to your feed
+# Home Right Bar - Add to your feed
 www.linkedin.com##.feed-follows-module
-! Home - Jobs recommended for you
+# Home - Jobs recommended for you
 www.linkedin.com##[data-id^="urn:li:jobPosting"]
 www.linkedin.com##[data-id^="urn:li:aggregate:(urn:li:jobPosting"]
-! Home - Improve your * skills
+# Home - Improve your * skills
 www.linkedin.com##[data-id^="urn:li:lyndaCourse"]
-! Profile Badge - Premium Upsell
+# Profile Badge - Premium Upsell
 www.linkedin.com##.pv-member-badge__premium-upsell
-! Profile Right Bar - Add new skills with these courses
+# Profile Right Bar - Add new skills with these courses
 www.linkedin.com##.pv-course-recommendations
-! Home Feed - Shared Updates
+# Home Feed - Shared Updates
 www.linkedin.com##.feed-shared-update-v2:has(.feed-shared-header)
 
 
-!-----------------------------------------------------------
-!------------------------- Youtube -------------------------
-!-----------------------------------------------------------
+#-----------------------------------------------------------
+#------------------------- Youtube -------------------------
+#-----------------------------------------------------------
 ||googlevideo.com/videogoodput
 ||www.youtube.com/get_endscreen
 ||www.youtube.com/get_midroll_info
