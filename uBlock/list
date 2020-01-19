@@ -1,6 +1,6 @@
 #
 # uBlock & uMatrix Rulesets
-# Copyright (C) 2017-2018 Miguel de Moura
+# Copyright (C) 2017-2020 Miguel de Moura
 #
 # Title: migueldemoura's uBlock List
 # Maintainer: Miguel de Moura
@@ -26,7 +26,7 @@
 ||www.facebook.com/email_open_log_pic.php
 ||www.facebook.com/tr?
 ||www.instagram.com/ajax/bz
-
+observador.pt##.premium-paywall
 
 #-----------------------------------------------------------
 #------------------------- Feedly --------------------------
