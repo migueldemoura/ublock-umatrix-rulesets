@@ -14,6 +14,7 @@
 ||accounts.google.com/_/common/diagnostics
 ||beacons*.gvt*.com/domainreliability
 ||cloud.digitalocean.com/frontend-metrics/
+||cnet.com/g00/
 ||dash.cloudflare.com/tr/
 ||google.com/*/logImpressions
 ||google.com/*/viewerimpressions
