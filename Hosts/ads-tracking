@@ -353,6 +353,7 @@ api.cxense.com
 api.demandbase.com
 api.flyertown.ca
 api.instabug.com
+api.leanplum.com
 api.mixpanel.com
 api.neuralad.net
 api.nylas.com
@@ -938,6 +939,7 @@ edg.quantserve.com
 edge.quantserve.com
 effectivemeasure.net
 efficaciouscactus.com
+egoimmerce.e-goi.com
 ejyymghi.com
 elasticchange.com
 elderlyinsect.com
@@ -979,6 +981,7 @@ eu2-track.inside-graph.com
 eus.rubiconproject.com
 evanescentedge.com
 event-logger.api.dnc.org
+events.appsflyer.com
 events.launchdarkly.com
 events.uber.com
 evidon.com
@@ -1027,6 +1030,8 @@ fff.dailymail.co.uk
 fiksu.com
 filter.impactradius.com
 finalizeforce.com
+firebase-settings.crashlytics.com
+firebaseinstallations.googleapis.com
 firehose.ap-northeast-1.amazonaws.com
 firehose.ap-northeast-2.amazonaws.com
 firehose.ap-south-1.amazonaws.com
@@ -1872,6 +1877,7 @@ puffypull.com
 puffypurpose.com
 purchasesuggestion.com
 puserving.com
+push-wrapper.e-goi.com
 puzzlingfall.com
 px-conf.perimeterx.net
 px.ads.linkedin.com
@@ -2280,6 +2286,7 @@ symbolizebeast.com
 syndication.exoclick.com
 syndication.exosrv.com
 systemizecoat.com
+t.appsflyer.com
 t.castle.io
 t.contentinsights.com
 t.dailymail.co.uk
