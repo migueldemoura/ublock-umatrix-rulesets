@@ -621,6 +621,7 @@ cdn.parsely.com
 cdn.pdst.fm
 cdn.permutive.com
 cdn.petametrics.com
+cdn.privacy-mgmt.com
 cdn.pubguru.com
 cdn.rebel.ai
 cdn.rebelai.com
@@ -700,6 +701,7 @@ cloudsdestruction.com
 cm.g.doubleclick.net
 cmail1.com
 cmp.dmgmediaprivacy.co.uk
+cmpv2.sp-stage.net
 cnn.sdk.beemray.com
 code3.adtlgc.com
 cofina-te.e-goi.com
@@ -1103,6 +1105,7 @@ gate.hockeyapp.net
 gateway.foresee.com
 gc.zgo.at
 gd1.mookie1.com
+gdpr-tcfv2.sp-prod.net
 gemius.pl
 geni.us
 geniusdisplay.com
@@ -1444,6 +1447,7 @@ mixpanel.com
 mkt.publico.pt
 mltrk.io
 mms.cnn.com
+mms.sp-stage.net
 mmshbwtpx.com
 mng-ads.com
 moatads.com
@@ -1504,6 +1508,8 @@ nondescriptcrowd.com
 nondescriptsmile.com
 nondescriptstocking.com
 nostalgicknot.com
+notice.sp-prod.net
+notice.sp-stage.net
 notify.bugsnag.com
 notrack.adviva.net
 npttech.com
@@ -1857,6 +1863,7 @@ presssensor.com
 previousplayground.com
 previouspotato.com
 printerplasma.com
+privacy-mgmt.com
 privy.com
 pro-market.net
 prod.adspsp.com
@@ -2170,7 +2177,10 @@ sophisticatedstove.com
 soresneeze.com
 sorethunder.com
 sortsummer.com
+sourcepoint.mgr.consensu.org
 southernx.nuggad.net
+sp-prod.net
+sp-stage.net
 sp.analytics.yahoo.com
 sp1cluster.cxense.com
 spade.twitch.tv
@@ -2515,6 +2525,7 @@ vastcpm.com
 vdna.exelator.com
 veads.veinteractive.com
 veinteractive.com
+vendorlist.consensu.org
 venusgloria.com
 veplextrack.pw
 vice-useast.gscontxt.net
