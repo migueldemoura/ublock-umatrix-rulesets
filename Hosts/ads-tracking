@@ -8,16 +8,23 @@
 # License: https://github.com/migueldemoura/ublock-umatrix-rulesets/blob/master/LICENSE.md
 #
 
+01b82d77b031dae899b47354f84be659.safeframe.googlesyndication.com
+05aa725df38a0755affed0fa465b4270.safeframe.googlesyndication.com
+10049916.fls.doubleclick.net
 111.91.190.35.bc.googleusercontent.com
 112.2o7.net
 119.29.196.104.bc.googleusercontent.com
 122.2o7.net
+1229975f012d1079ffdd907126d12af6.safeframe.googlesyndication.com
+125f34baa791489676d3bb22a3b79535.safeframe.googlesyndication.com
 140proof.com
 175.220.196.104.bc.googleusercontent.com
 17ars.xyz
 17n8vw.xyz
 184.48.190.35.bc.googleusercontent.com
+1a28457b46c824b3179171880a1c3694.safeframe.googlesyndication.com
 1b20d45bfc012cc13056e5116d7592d8.safeframe.googlesyndication.com
+1ccef5b8c29ede92d25605afccb6cc00.safeframe.googlesyndication.com
 1ey7.xyz
 1f582a7fc307e650c3d681ca39aa5a2b.safeframe.googlesyndication.com
 202.90.190.35.bc.googleusercontent.com
@@ -44,10 +51,12 @@
 4dex.io
 4dsply.com
 4eaeda96245271de0add9145abe1ac21.safeframe.googlesyndication.com
+4fbf6c3086f38a8550a2dc3873015300.safeframe.googlesyndication.com
 4jnzhl0d0.com
 4wnet.com
 5142311.fls.doubleclick.net
 51e90c61901d08a2acf9c7603c6a0bcb.safeframe.googlesyndication.com
+5290727.fls.doubleclick.net
 5308433.fls.doubleclick.net
 56fh8x.xyz
 5fd480ad862ec9b52b2787b71480f560.safeframe.googlesyndication.com
@@ -63,12 +72,17 @@
 7e3dr.xyz
 7eer.net
 7qtrjwymmnqu.dontexist.net
+8168974.fls.doubleclick.net
 8209809.fls.doubleclick.net
 82o9v830.com
 84.249.186.35.bc.googleusercontent.com
 8as0a.xyz
 90119a17c94070aaf83d66dde977fcc7.safeframe.googlesyndication.com
 9063560.fls.doubleclick.net
+9509628.fls.doubleclick.net
+961a2ae521bfdacef8c3c8a33f25c0f9.safeframe.googlesyndication.com
+9876505.fls.doubleclick.net
+9876748.fls.doubleclick.net
 a-ads.com
 a.adnium.com
 a.brpx.io
@@ -87,6 +101,7 @@ a.optnmstr.com
 a.postrelease.com
 a.pub.network
 a.publir.com
+a.quora.com
 a.teads.tv
 a1.dnbizcdn.com
 a1859010085.cdn.optimizely.com
@@ -175,6 +190,7 @@ admedo.com
 admp-tc-pmp.adtlgc.com
 adnami.io
 adnxs.com
+adobeaam.beemray.com
 adorableanger.com
 adplexmedia.adk2x.com
 adplus.co.id
@@ -782,6 +798,7 @@ analytics.tomherbers.de
 analytics.treeinteractive.com
 analytics.twitter.com
 analytics.waknet.de
+analytics.webgains.io
 analytics.weinnovators.com
 analytics.whatculture.com
 analytics.xl.pt
@@ -934,6 +951,7 @@ beamincrease.com
 beamkite.com
 beastbeef.com
 bedsbreath.com
+beemray.com
 beneficialbeef.com
 benthose.com
 bestadbid.com
@@ -1165,6 +1183,8 @@ ce6v.xyz
 cedexis-radar.net
 certify-js.alexametrics.com
 certify.alexametrics.com
+cf-particle-html.eip.telegraph.co.uk
+cf.eip.telegraph.co.uk
 cfd9ba1da3e2a1613a6ed4fc9e9b4773.safeframe.googlesyndication.com
 chairscrack.com
 channelcamp.com
@@ -1334,6 +1354,7 @@ d18p8z0ptb8qab.cloudfront.net
 d19ptbnuzhibkh.cloudfront.net
 d1b2zzpxewkr9z.cloudfront.net
 d1e5g7u4vbdcav.cloudfront.net
+d1fc8wv8zag5ca.cloudfront.net
 d1k0glcmk0b5rb.cloudfront.net
 d1lu3pmaz2ilpx.cloudfront.net
 d1mj578wat5n4o.cloudfront.net
@@ -1446,6 +1467,7 @@ djtflbt20bdde.cloudfront.net
 djv99sxoqpv11.cloudfront.net
 dk4ywix.com
 dmgmediaprivacy.co.uk
+dmpsync.3lift.com
 dna8twue3dlxq.cloudfront.net
 dnn506yrbagrg.cloudfront.net
 do-analytics.net
@@ -1506,6 +1528,7 @@ edge.quantserve.com
 effectivemeasure.net
 efficaciouscactus.com
 egoimmerce.e-goi.com
+eip.telegraph.co.uk
 ejyymghi.com
 elasticchange.com
 elderlyinsect.com
@@ -1813,6 +1836,7 @@ iabmap.evidon.com
 ib.adnxs.com
 ice.360yield.com
 icebergindigo.com
+ict.infinity-tracking.net
 id.cxense.com
 id5-sync.com
 idsync.rlcdn.com
@@ -1840,6 +1864,7 @@ in.getclicky.com
 incoming.telemetry.mozilla.org
 incrediblesugar.com
 indexww.com
+infinity-tracking.net
 infinityid.condenastdigital.com
 infolinks.com
 informengine.com
@@ -1957,6 +1982,7 @@ lizardslaugh.com
 load.sumo.com
 load77.exelator.com
 loader.ogstats.com
+loadm.exelator.com
 loadus.exelator.com
 localads.maps.me
 localytics.com
@@ -9325,6 +9351,7 @@ piwik.xxw.jp
 piwik.zinggi.ch
 pixel-static.spotify.com
 pixel.adsafeprotected.com
+pixel.advertising.com
 pixel.archive.is
 pixel.condenastdigital.com
 pixel.facebook.com
@@ -9391,6 +9418,7 @@ pricklyplastic.com
 printerplasma.com
 privacy-mgmt.com
 privacyportal-eu.onetrust.com
+privacyportal.onetrust.com
 privy.com
 pro-market.net
 prod-east-alweb-mt.rfksrv.com
@@ -9446,6 +9474,7 @@ quantcount.com
 quantserve.com
 quantummetric.com
 quarterbean.com
+query.petametrics.com
 queryly.com
 quicksandear.com
 quietknowledge.com
@@ -9720,6 +9749,7 @@ sinceresofa.com
 sincerespy.com
 sinefight-skinesia.com
 singular.net
+sinter-collect.com
 siteintercept.qualtrics.com
 sitelabweb.com
 sixscissors.com
@@ -9745,6 +9775,7 @@ smetrics.foxnews.com
 smetrics.gettyimages.com
 smetrics.napacanada.com
 smetrics.southwest.com
+smetrics.telegraph.co.uk
 smetrics.washingtonpost.com
 smilingshake.com
 smilingsock.com
@@ -9993,6 +10024,7 @@ teenyvolcano.com
 teethfan.com
 telegraph.grapeshot.co.uk
 telegraph.sdk.beemray.com
+telegraphmediagroupl.tt.omtrdc.net
 telematicsdirect.com
 telemetry.deeperbot.com
 telemetry.gfe.nvidia.com
@@ -10034,8 +10066,10 @@ tkqlhce.com
 tl.r7ls.net
 tlx.3lift.com
 tm-awx.com
+tmg.demdex.net
 tns-counter.ru
 toecircle.com
+token.rubiconproject.com
 toothbrushnote.com
 top-fwz1.mail.ru
 topichawaii.com
@@ -10046,6 +10080,7 @@ tpc.googlesyndication.com
 tpdads.com
 tqlkg.com
 tqlkg.net
+tr.outbrain.com
 tr.snapchat.com
 trace.onb.workers.dev
 tracedesire.com
@@ -10121,6 +10156,7 @@ trugaze.io
 truthfulhead.com
 truthfulturn.com
 tsyndicate.com
+tt.omtrdc.net
 tt.onthe.io
 tubemogul.com
 tumblebirds.com
@@ -10230,6 +10266,7 @@ web.vortex.data.microsoft.com
 web.vortex.data.msn.com
 webcontentassessor.com
 webdata.up.edu.ph
+webgains.io
 weborama.fr
 webservices.krxd.net
 webtrendslive.com
@@ -10249,6 +10286,7 @@ widget.secure.ownlocal.com
 widgets.amung.us
 widgets.outbrain.com
 wigglygeese.com
+wildbit.sinter-collect.com
 wildernesscamera.com
 wirecomic.com
 wistfulflight.com
