@@ -26,6 +26,7 @@ The malware list includes hosts serving viruses, ransomware, scareware, badware,
 While these lists block ads, tracking and malware on websites all over the web, I'm currently monitoring several websites for new potentially malicious hosts:
 
 ```
+aa.net.uk
 abcnews.go.com
 allsides.com
 arstechnica.com
@@ -45,6 +46,7 @@ dailymail.co.uk
 doaj.org
 eff.org
 emirates.com
+emma-mattress.co.uk
 engadget.com
 expedia.com
 farefirst.com
@@ -57,6 +59,7 @@ gawker.com
 goodreads.com
 gutenberg.org
 huffingtonpost.com
+hyperoptic.com
 independent.co.uk
 indiehackers.com
 kayak.com
@@ -78,8 +81,11 @@ nj.com
 nydailynews.com
 nypost.com
 nytimes.com
+octopus.energy
+openrent.co.uk
 postmarkapp.com
 reuters.com
+rightmove.co.uk
 salon.com
 scientificamerican.com
 slate.com
@@ -94,6 +100,8 @@ theblaze.com
 thedailybeast.com
 theguardian.com
 theregister.com
+ui.com
+ukmeds.co.uk
 usatoday.com
 usnews.com
 vice.com
@@ -102,6 +110,7 @@ vulnerable.af
 washingtonpost.com
 worten.pt
 wsj.com
+zen.co.uk
 ```
 
 These are mostly news, travel and shopping websites. I'm planning on increasing the coverage by several orders of magnitude in the near future.
