@@ -920,6 +920,7 @@ api.nylas.com
 api.omappapi.com
 api.parsely.com
 api.permutive.com
+api.pn.vg
 api.porting-team.ru
 api.profitwell-events.com
 api.pushnami.com
@@ -1300,6 +1301,7 @@ cdn.pdst.fm
 cdn.pendo.io
 cdn.permutive.com
 cdn.petametrics.com
+cdn.pn.vg
 cdn.pprl.io
 cdn.privacy-mgmt.com
 cdn.pubguru.com
@@ -1565,6 +1567,7 @@ cubchannel.com
 culturedcrayon.com
 cumbersomecloud.com
 curated.fieldtest.cc
+currency.prebid.org
 curtaincows.com
 cushionpig.com
 custom.rebrandly.com
@@ -1577,6 +1580,7 @@ cx.atdmt.com
 cxadserving.com
 cxense.com
 cxpublic.com
+cy2.vortex.data.microsoft.com.akadns.net
 d-eu.xp1.ru4.com
 d.adroll.com
 d.adroll.mgr.consensu.org
@@ -9399,6 +9403,7 @@ mobile-crash.newrelic.com
 mobile-service.segment.com
 mobile.measurelib.com
 mobilegen.vodafone.pt
+modern.watson.data.microsoft.com.akadns.net
 modifyeyes.com
 moldyicicle.com
 monetate.net
@@ -9892,6 +9897,7 @@ ploxtar.com
 plugin.mediavoice.com
 plumdistrict.com
 pm.w55c.net
+pn.vg
 pntra.com
 pntrac.com
 pntrs.com
@@ -9922,7 +9928,9 @@ practicetoothpaste.com
 prd.jwpltx.com
 pre.ads.justpremium.com
 prebid-a.rubiconproject.com
+prebid-eu.creativecdn.com
 prebid-server.rubiconproject.com
+prebid-us.creativecdn.com
 prebid.adnxs.com
 prebid.digitru.st
 prebid.media.net
@@ -10296,6 +10304,7 @@ securemetrics.apple.com
 securemvt.apple.com
 securepubads.g.doubleclick.net
 seedscissors.com
+seg.t.tailtarget.com
 segment-data.zqtk.net
 segment.com
 sejs.moatads.com
@@ -10662,6 +10671,7 @@ t.pepperjamnetwork.com
 t.quisma.com
 t.sf14g.com
 t.skimresources.com
+t.tailtarget.com
 t.teads.tv
 t.yesware.com
 t0wkqjqlwh.execute-api.us-east-1.amazonaws.com
@@ -10711,6 +10721,7 @@ tags.realtor.com
 tags.srv.stackadapt.com
 tags.w55c.net
 tags.wsj.com
+tailtarget.com
 talentedsteel.com
 tangibleteam.com
 tap-nexus.appspot.com
@@ -10739,6 +10750,8 @@ teefpagayhb.com
 teenytinytongue.com
 teenyvolcano.com
 teethfan.com
+telecommand.telemetry.microsoft.com
+telecommand.telemetry.microsoft.com.akadns.net
 telegraph.grapeshot.co.uk
 telegraph.sdk.beemray.com
 telegraphmediagroupl.tt.omtrdc.net
@@ -10788,6 +10801,8 @@ tkqlhce.com
 tl.r7ls.net
 tlx.3lift.com
 tm-awx.com
+tm.jsuol.com.br
+tm.uol.com.br
 tmg.demdex.net
 tns-counter.ru
 toecircle.com
@@ -10986,6 +11001,7 @@ v.shopify.com
 v.ssp.yahoo.com
 v1.addthisedge.com
 v10.events.data.microsoft.com
+v10.vortex-win.data.microsoft.com
 vanfireworks.com
 vanguard.d2.sc.omtrdc.net
 vanguard.demdex.net
@@ -11044,6 +11060,7 @@ warnerbros-d.openx.net
 waryfog.com
 washingtontimes-d.openx.net
 wateryvan.com
+watson.telemetry.microsoft.com
 we2.byside.com
 wearywater.com
 web-analytics.engagio.com
