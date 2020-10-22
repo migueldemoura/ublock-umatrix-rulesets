@@ -25,177 +25,436 @@ The malware list includes hosts serving viruses, ransomware, scareware, badware,
 
 While these lists block ads, tracking and malware on websites all over the web, I'm currently monitoring several websites for new potentially malicious hosts:
 
-```
-aa.net.uk
-abcnews.go.com
-airbnb.com
-allsides.com
-anandtech.com
-arstechnica.com
-backblaze.com
-bbc.com
-blog.cloudflare.com
-blog.mozilla.org
-bloomberg.com
-booking.com
-boston.com
-bot.land
-businessinsider.com
-buzzfeed.com
-caniuse.com
-cbsnews.com
-clickup.com
-cloudflare.com
-cloudinary.com
-cnet.com
-cnn.com
-codewars.com
-commitstrip.com
-crowdin.com
-dailymail.co.uk
-datatracker.ietf.org
-developer.mozilla.org
-digitalocean.com
-dilbert.com
-doaj.org
-dpreview.com
-duckduckgo.com
-dxomark.com
-eff.org
-emirates.com
-emma-mattress.co.uk
-engadget.com
-exercism.io
-expedia.com
-fakespot.com
-farefirst.com
-fastmail.com
-feedly.com
-flightics.com
-flightradar24.com
-flytap.com
-forwardemail.net
-foxnews.com
-gawker.com
-geeksforgeeks.org
-getzola.org
-github.com
-glassdoor.com
-goodreads.com
-gtmetrix.com
-gutenberg.org
-hackerrank.com
-hcaptcha.com
-hetzner.com
-httpstatuses.com
-huffingtonpost.com
-hyperoptic.com
-ietf.org
-ifixit.com
-independent.co.uk
-indiehackers.com
-interviewcake.com
-interviewing.io
-investor.vanguard.com
-iwantmyname.com
-joinhoney.com
-jsfiddle.net
-jsonwebtoken.io
-kayak.com
-kuantokusta.pt
-latimes.com
-layoutit.com
-leetcode.com
-linkedin.com
-lwn.net
-mailgun.com
-mashable.com
-meetup.com
-mic.com
-migueldemoura.com
-mirror.co.uk
-mises.org
-mlive.com
-momondo.com
-monkeyuser.com
-monster.com
-mozilla.org
-msn.com
-namesilo.com
-nautil.us
-nbcnews.com
-netlify.com
-news.ycombinator.com
-nj.com
-notebookcheck.com
-notebookcheck.net
-noticiasaominuto.com
-nydailynews.com
-nypost.com
-nytimes.com
-octopus.energy
-openrent.co.uk
-openstack.org
-openwrt.org
-overleaf.com
-payscale.com
-peeringdb.com
-peppercarrot.com
-poeditor.com
-postman.com
-postmarkapp.com
-protonmail.com
-quora.com
-realfavicongenerator.net
-reuters.com
-rightmove.co.uk
-salon.com
-scientificamerican.com
-sendgrid.com
-shadow.tech
-slate.com
-smbc-comics.com
-southwest.com
-startpage.com
-stratechery.com
-tailscale.com
-tarsnap.com
-techbargains.com
-techcrunch.com
-technologyreview.com
-telegraph.co.uk
-textslashplain.com
-theatlantic.com
-theblaze.com
-thedailybeast.com
-theguardian.com
-theoatmeal.com
-theregister.com
-transifex.com
-triplebyte.com
-tropicalprice.com
-typelit.io
-ui.com
-ukmeds.co.uk
-underdog.io
-usatoday.com
-usnews.com
-vanguard.com
-vice.com
-vox.com
-vulnerable.af
-vultr.com
-washingtonpost.com
-wave.webaim.org
-webaim.org
-webflow.com
-whois.domaintools.com
-wikibuy.com
-worten.pt
-wsj.com
-xkcd.com
-zen.co.uk
-```
+<details>
+    <summary>Hosts (426)</summary>
+
+    1password.com
+    500px.com
+    aa.net.uk
+    abcnews.go.com
+    academia.edu
+    aidn.jp
+    airbnb.com
+    alienvault.com
+    allsides.com
+    amazon.com
+    anandtech.com
+    apple.com
+    apps.evozi.com
+    arstechnica.com
+    art42.net
+    asciinema.org
+    asoftmurmur.com
+    atlassian.com
+    att.com
+    backblaze.com
+    bbc.com
+    ben-evans.com
+    bing.com
+    binvis.io
+    bitbucket.org
+    bitwarden.com
+    blender.org
+    blog.cloudflare.com
+    blog.disqus.com
+    blog.golang.org
+    blog.mozilla.org
+    bloomberg.com
+    booking.com
+    boston.com
+    bostonglobe.com
+    bot.land
+    brilliant.org
+    browser-update.org
+    bsideslisbon.org
+    businessinsider.com
+    buzzfeed.com
+    caniuse.com
+    canva.com
+    carbon.now.sh
+    carbonmade.com
+    cbsnews.com
+    censys.io
+    cheats.rs
+    clickup.com
+    clockify.me
+    cloudconvert.com
+    cloudflare.com
+    cloudflare.design
+    cloudinary.com
+    cnet.com
+    cnn.com
+    code.org
+    codewars.com
+    colorbox.io
+    commandlinefu.com
+    commitstrip.com
+    commoncrawl.org
+    consumerreports.org
+    coursera.org
+    courses.edx.org
+    crowdin.com
+    crt.sh
+    crypto101.io
+    cryptohack.org
+    cssgridgarden.com
+    d3js.org
+    dailymail.co.uk
+    danielmiessler.com
+    daringfireball.net
+    darksky.net
+    datadoghq.com
+    datatracker.ietf.org
+    de.foursquare.com
+    degiro.co.uk
+    dehashed.com
+    devdocs.io
+    developer.android.com
+    developer.mozilla.org
+    developers.google.com
+    digitalocean.com
+    dilbert.com
+    discord.com
+    discourse.org
+    disqus.com
+    dithering.fm
+    dnsdumpster.com
+    dnsleaktest.com
+    dnslytics.com
+    dnsspy.io
+    doaj.org
+    doc.rust-lang.org
+    docusign.com
+    domaintools.com
+    dpreview.com
+    draw.io
+    dropbox.com
+    duckduckgo.com
+    dxomark.com
+    easyeda.com
+    edreams.com
+    edx.org
+    eff.org
+    emailprivacytester.com
+    emirates.com
+    emma-mattress.co.uk
+    en.gravatar.com
+    engadget.com
+    eschersket.ch
+    etrade.com
+    exercism.io
+    expedia.com
+    expedia.de
+    explainshell.com
+    facebook.com
+    fakespot.com
+    farefirst.com
+    fastmail.com
+    feedly.com
+    figma.com
+    flattr.com
+    flexboxfroggy.com
+    flickr.com
+    flightics.com
+    flightradar24.com
+    flytap.com
+    forestadmin.com
+    forum.xda-developers.com
+    forwardemail.net
+    foxbusiness.com
+    foxnews.com
+    fracz.com
+    freephonenum.com
+    frida.re
+    gawker.com
+    geeksforgeeks.org
+    getpostman.com
+    getweeklyupdate.com
+    getzola.org
+    ghost.org
+    giftsear.ch
+    gimp.org
+    gitexplorer.com
+    github.com
+    gitter.im
+    glassdoor.com
+    glazestock.com
+    golang.org
+    goodreads.com
+    google.com
+    google.pt
+    gov.uk
+    grammarly.com
+    graphicsprings.com
+    gravatar.com
+    gtdfh.branchable.com
+    gtdfh.liw.fi
+    gtmetrix.com
+    gutenberg.org
+    hackaday.com
+    hackerrank.com
+    hackertarget.com
+    hasura.io
+    hcaptcha.com
+    herbie.uwplse.org
+    hetzner.com
+    hl.co.uk
+    hstspreload.org
+    httpbin.org
+    httpstatuses.com
+    httptoolkit.tech
+    huffingtonpost.com
+    hyperoptic.com
+    icomoon.io
+    ietf.org
+    ifixit.com
+    indeed.com
+    independent.co.uk
+    indiehackers.com
+    insect.sh
+    instagram.com
+    intercom.com
+    interviewcake.com
+    interviewing.io
+    investor.vanguard.com
+    ipinfo.io
+    ipleak.net
+    iwantmyname.com
+    jazzkeys.plan8.co
+    joinhoney.com
+    joinmastodon.org
+    jsfiddle.net
+    jsonwebtoken.io
+    jvns.ca
+    kaleido.ai
+    kayak.com
+    keybase.io
+    keybr.com
+    khanacademy.org
+    krisp.ai
+    kuantokusta.pt
+    latimes.com
+    lawsofux.com
+    layoutit.com
+    learnxinyminutes.com
+    leetcode.com
+    lettersofnote.com
+    lib.rs
+    liberapay.com
+    libgen.lc
+    lineageos.org
+    linkedin.com
+    lobste.rs
+    lwn.net
+    mail.yandex.ru
+    mailgun.com
+    mailinator.com
+    manning.com
+    mashable.com
+    matrix.org
+    mattermost.com
+    mattpalm.com
+    medium.com
+    meet.jit.si
+    meetup.com
+    mic.com
+    michael-noll.com
+    migueldemoura.com
+    mirror.co.uk
+    mises.org
+    mlive.com
+    momondo.com
+    monkeyuser.com
+    monster.com
+    monzo.com
+    moss.garden
+    mozilla.org
+    msn.com
+    mullvad.net
+    namesilo.com
+    nautil.us
+    nbcnews.com
+    netlify.com
+    news.ycombinator.com
+    nj.com
+    njal.la
+    notebookcheck.com
+    notebookcheck.net
+    noticiasaominuto.com
+    nydailynews.com
+    nypost.com
+    nytimes.com
+    oaknorth.com
+    observatory.mozilla.org
+    octopus.energy
+    ohdear.app
+    ohdearapp.com
+    openai.com
+    opengapps.org
+    openrent.co.uk
+    openstack.org
+    openstreetmap.org
+    openweathermap.org
+    openwrt.org
+    otx.alienvault.com
+    overleaf.com
+    owm.io
+    paypal.com
+    payscale.com
+    peeringdb.com
+    peppercarrot.com
+    pexels.com
+    photopea.com
+    photos.google.com
+    picsum.photos
+    pinterest.com
+    pixabay.com
+    placeholder.com
+    plainenglish.co.uk
+    play.golang.org
+    play.rust-lang.org
+    plus.google.com
+    poeditor.com
+    portswigger.net
+    postman.com
+    postmarkapp.com
+    privatebin.net
+    probely.com
+    protonmail.com
+    prowritingaid.com
+    pt.indeed.com
+    publiccom
+    queryfeed.net
+    quora.com
+    rainbowhunt.me
+    realfavicongenerator.net
+    reberhardt.com
+    reddit.com
+    regex101.com
+    remove.bg
+    reuters.com
+    revolut.com
+    rightmove.co.uk
+    robinhood.com
+    rogerebert.com
+    rust-lang.org
+    ryanair.com
+    salon.com
+    sapo.pt
+    sbf5.com
+    scientificamerican.com
+    searchcode.com
+    secure.vanguardinvestor.co.uk
+    securityheaders.com
+    securitytrails.com
+    sendgrid.com
+    shadow.tech
+    shellcheck.net
+    shodan.io
+    signal.org
+    sketch.com
+    skyscanner.net
+    slack.com
+    slate.com
+    sling.is
+    smbc-comics.com
+    smsreceivefree.com
+    snusbase.com
+    snyk.io
+    sonarcloud.io
+    southwest.com
+    spotify.com
+    squareup.com
+    squoosh.app
+    ssllabs.com
+    startpage.com
+    store.steampowered.com
+    storycreatorapp.com
+    stratechery.com
+    stripe.com
+    stumbleupon.com
+    tableplus.com
+    tailscale.com
+    tarsnap.com
+    techbargains.com
+    techcrunch.com
+    technologyreview.com
+    telegraph.co.uk
+    temp-mail.org
+    textslashplain.com
+    the-eye.eu
+    theatlantic.com
+    theblaze.com
+    thedailybeast.com
+    theguardian.com
+    theoatmeal.com
+    theregister.co.uk
+    theregister.com
+    theverge.com
+    thewirecutter.com
+    tio.run
+    tldr.ostera.io
+    touchpianist.com
+    tour.golang.org
+    tourofrust.com
+    transferwise.com
+    transifex.com
+    triplebyte.com
+    tropicalprice.com
+    tumblr.com
+    turnitin.com
+    twilio.com
+    twitch.tv
+    twitter.com
+    twrp.me
+    typelit.io
+    ui.com
+    ukmeds.co.uk
+    underdog.io
+    undraw.co
+    unsplash.com
+    us.etrade.com
+    usatoday.com
+    usnews.com
+    vanguard.com
+    vanguardinvestor.co.uk
+    vectorlogo.zone
+    vice.com
+    viewdns.info
+    vim-adventures.com
+    vimeo.com
+    virustotal.com
+    visa.com
+    visa.pt
+    vk.com
+    vox.com
+    vulnerable.af
+    vultr.com
+    washingtonpost.com
+    wave.webaim.org
+    weatherspark.com
+    web.facebook.com
+    webaim.org
+    webflow.com
+    webhint.io
+    whatismybrowser.com
+    whoer.net
+    whois.domaintools.com
+    wigle.net
+    wikibuy.com
+    wikipedia.org
+    wireguard.com
+    wizardzines.com
+    worten.pt
+    wsj.com
+    wufoo.com
+    xda-developers.com
+    xkcd.com
+    yandex.ru
+    youtube.com
+    zen.co.uk
+    zoom.us
+</details>
 
 These are mostly news, travel and shopping websites. I'm planning on increasing the coverage by several orders of magnitude in the near future.
 
