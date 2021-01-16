@@ -26,434 +26,1045 @@ The malware list includes hosts serving viruses, ransomware, scareware, badware,
 While these lists block ads, tracking and malware on websites all over the web, I'm currently monitoring several websites for new potentially malicious hosts:
 
 <details>
-    <summary>Hosts (426)</summary>
+    <summary>Hosts (1037)</summary>
 
+    123contactform.com
+    123formbuilder.com
+    123milhas.com
     1password.com
+    3blue1brown.com
     500px.com
+    9to5mac.com
+    aa.com
     aa.net.uk
+    aaas.org
+    abc.net.au
     abcnews.go.com
+    abola.pt
+    about.gitlab.com
+    abuseipdb.com
     academia.edu
+    accounts.google.co.uk
+    accounts.google.pt
+    accounts.youtube.com
+    acer.com
+    acessibilidade.gov.pt
+    acesso.gov.pt
+    activobank.pt
+    adaway.org
+    addons.mozilla.org
+    adentifi.com
+    adobe.com
+    advances.sciencemag.org
+    aeroflot.ru
+    affirm.com
     aidn.jp
+    airasia.com
+    airbnb.co.uk
     airbnb.com
+    airbnb.com.sg
+    airbnb.pt
+    aircanada.com
+    airfrance.fr
+    akamai.com
+    alaskaair.com
+    aldi.co.uk
+    aldi.pt
+    alexametrics.com
     alienvault.com
+    aliexpress.com
+    alipay.com
+    aljazeera.com
+    all-about-photo.com
+    allegiantair.com
     allsides.com
+    alltrails.com
+    allure.com
+    amadeus.com
+    amadeus.net
+    amazon.co.jp
+    amazon.co.uk
     amazon.com
+    amazon.com.br
+    amazon.es
+    amazon.fr
+    amazon.in
+    americanairlines.co.uk
+    ana.co.jp
+    anacom.pt
     anandtech.com
+    anchor.fm
+    androidauthority.com
+    androidpolice.com
+    apache.org
+    apai.org.pt
     apple.com
     apps.evozi.com
+    appsecvillage.com
+    architecturaldigest.com
+    archive.org
+    arewewebyet.org
+    argos.co.uk
     arstechnica.com
     art42.net
     asciinema.org
     asoftmurmur.com
     atlassian.com
     att.com
+    audible.co.uk
+    audible.com
+    audiobooks.co.uk
+    audiobooks.com
+    autofoco.pt
+    aviasales.ru
+    aws.amazon.com
+    azores.gov.pt
     backblaze.com
+    baidu.com
+    bbc.co.uk
     bbc.com
     ben-evans.com
+    bertrand.pt
     bing.com
     binvis.io
+    bit.ly
     bitbucket.org
+    bitly.com
     bitwarden.com
     blender.org
     blog.cloudflare.com
     blog.disqus.com
+    blog.feedly.com
     blog.golang.org
+    blog.google
+    blog.moneysavingexpert.com
     blog.mozilla.org
+    blog.unmind.com
+    blogger.com
+    blogspot.com
     bloomberg.com
+    blueapron.com
+    bluestacks.com
+    bomcondutor.pt
+    bonappetit.com
     booking.com
     boston.com
     bostonglobe.com
     bot.land
     brilliant.org
+    britishairways.com
+    browsealoud.com
     browser-update.org
+    browserstack.com
     bsideslisbon.org
     businessinsider.com
     buzzfeed.com
+    buzzfeednews.com
+    bytecodealliance.org
+    cafe24.com
+    calzedonia.com
     caniuse.com
     canva.com
     carbon.now.sh
     carbonmade.com
+    cars.com
+    cbs.com
     cbsnews.com
+    cctv.pt
+    cdbaby.com
+    cdiscount.com
     censys.io
+    cgd.pt
+    championat.com
+    changelog.com
+    cheapoair.com
     cheats.rs
+    checkr.com
+    chrome.google.com
+    cio.com
     clickup.com
     clockify.me
     cloudconvert.com
     cloudflare.com
     cloudflare.design
     cloudinary.com
+    cmjornal.pt
+    cnbc.com
     cnet.com
     cnn.com
+    cntraveler.com
+    codacy.com
     code.org
     codewars.com
+    cogweb.pt
+    cointelegraph.com
     colorbox.io
     commandlinefu.com
     commitstrip.com
     commoncrawl.org
     consumerreports.org
+    contacts.google.com
+    continente.pt
+    cookpad.com
     coursera.org
     courses.edx.org
+    cox.net
+    crane.aero
+    crates.io
+    creativecommons.org
     crowdin.com
     crt.sh
+    crxcavator.io
     crypto101.io
     cryptohack.org
+    csdn.net
     cssgridgarden.com
+    ctt.pt
+    cuf.pt
+    curbed.com
     d3js.org
+    dagospia.com
     dailymail.co.uk
+    dailymotion.com
     danielmiessler.com
+    daraz.pk
     daringfireball.net
     darksky.net
     datadoghq.com
     datatracker.ietf.org
     de.foursquare.com
+    deepl.com
+    defense.gov
     degiro.co.uk
     dehashed.com
+    delta.com
     devdocs.io
     developer.android.com
     developer.mozilla.org
     developers.google.com
+    developers.googleblog.com
+    dezeen.com
+    dezeenjobs.com
+    dgs.pt
+    dicionario.priberam.org
+    dictionary.com
+    digicert.com
     digitalocean.com
+    digitaltrends.com
     dilbert.com
+    dinheirovivo.pt
     discord.com
     discourse.org
     disqus.com
     dithering.fm
+    dmca.com
+    dn.pt
     dnsdumpster.com
     dnsleaktest.com
     dnslytics.com
     dnsspy.io
     doaj.org
     doc.rust-lang.org
+    docker.com
+    docs.google.com
+    docs.rs
     docusign.com
     domaintools.com
+    doubleclick.net
+    download.lineageos.org
     dpreview.com
     draw.io
+    dreamhost.com
+    drive.google.com
     dropbox.com
+    drudgereport.com
     duckduckgo.com
     dxomark.com
     easyeda.com
+    easyjet.com
+    easylist.to
+    ebay.co.uk
+    ebay.com
+    econlib.org
+    economist.com
+    ecustomeropinions.com
+    edition.cnn.com
     edreams.com
     edx.org
     eff.org
     emailprivacytester.com
     emirates.com
     emma-mattress.co.uk
+    empresashoje.pt
     en.gravatar.com
+    en.m.wikipedia.org
+    en.wikipedia.org
     engadget.com
+    epicurious.com
+    eportugal.gov.pt
     eschersket.ch
+    espn.com
     etrade.com
+    etsy.com
+    europa.eu
+    example.com
     exercism.io
     expedia.com
     expedia.de
     explainshell.com
+    express.co.uk
+    expresso.pt
+    f-droid.org
+    fabricadestartups.com
     facebook.com
     fakespot.com
+    fanboy.co.nz
+    fandom.com
     farefirst.com
     fastmail.com
+    fbcdn.net
+    fca.pt
+    fcm.unl.pt
+    fct.pt
+    fct.unl.pt
     feedly.com
     figma.com
+    firefox.com
+    fisheyemagazine.fr
+    fivethirtyeight.com
     flattr.com
     flexboxfroggy.com
     flickr.com
+    flightaware.com
     flightics.com
+    flightio.com
     flightradar24.com
+    flyfrontier.com
+    flypgs.com
     flytap.com
+    fnac.pt
+    fool.com
+    forbes.com
     forestadmin.com
+    formstack.com
     forum.xda-developers.com
     forwardemail.net
     foxbusiness.com
     foxnews.com
+    foxsports.com
     fracz.com
+    freedom.press
     freephonenum.com
     frida.re
+    frontiersin.org
+    frutafeia.pt
+    fundacao.vodafone.pt
+    fundingchoices.google.com
+    gatsbyjs.com
+    gatsbyjs.org
     gawker.com
     geeksforgeeks.org
     getpostman.com
+    getpushmonkey.com
     getweeklyupdate.com
     getzola.org
+    gfycat.com
     ghost.org
     giftsear.ch
     gimp.org
+    giphy.com
+    gist.github.com
+    gitbook.com
+    gitcdn.xyz
     gitexplorer.com
+    github.blog
     github.com
+    github.community
+    github.io
+    gitlab.com
     gitter.im
+    gizmodo.com
+    glamour.com
+    glassdoor.co.uk
     glassdoor.com
     glazestock.com
+    globalfree.net
+    globalmediagroup.pt
+    globo.com
+    goal.com
+    godaddy.com
+    gofundme.com
+    goindigo.in
     golang.org
+    goo.gl
     goodreads.com
+    google-analytics.com
+    google.ca
+    google.co.in
+    google.co.uk
     google.com
+    google.com.hk
+    google.cz
+    google.ie
     google.pt
+    googleadservices.com
+    googlepages.com
+    googlesyndication.com
+    googletagmanager.com
+    googleusercontent.com
+    googlevideo.com
     gov.uk
+    gq.com
+    gqportugal.pt
+    grafana.com
     grammarly.com
     graphicsprings.com
     gravatar.com
+    greenhouse.io
+    gsmarena.com
     gtdfh.branchable.com
     gtdfh.liw.fi
     gtmetrix.com
+    guiadooeste.pt
+    gulbenkian.pt
+    gulfnews.com
+    gumtree.com
     gutenberg.org
+    haaretz.co.il
+    haaretz.com
     hackaday.com
+    hackerone.com
     hackerrank.com
     hackertarget.com
+    hacks.mozilla.org
+    hardenize.com
+    haskell.org
     hasura.io
     hcaptcha.com
+    help.instagram.com
+    help.steampowered.com
+    help.twitter.com
+    hemingwayapp.com
     herbie.uwplse.org
+    hermanmiller.com
     hetzner.com
     hl.co.uk
+    hosts-file.net
+    hotels.com
+    howsmyssl.com
+    howtogeek.com
     hstspreload.org
+    html5box.com
     httpbin.org
+    https-rulesets.org
     httpstatuses.com
     httptoolkit.tech
     huffingtonpost.com
+    huffpost.com
+    humblebundle.com
+    hwg.org
     hyperoptic.com
+    iberia.com
     icomoon.io
+    idealista.pt
     ietf.org
     ifixit.com
+    ijg.org
+    ikea.com
+    imagemagick.org
+    imdb.com
+    imovirtual.com
+    imperial.ac.uk
+    in.gov
+    indeed.co.uk
     indeed.com
     independent.co.uk
+    indiatoday.in
     indiehackers.com
+    inquirer.com
     insect.sh
+    insightexpressai.com
     instagram.com
+    instant.page
+    intensedebate.com
     intercom.com
     interviewcake.com
     interviewing.io
+    intimissimi.com
+    invaluable.com
     investor.vanguard.com
+    investors.com
+    iobit.com
+    iol.pt
+    ipfs.io
     ipinfo.io
     ipleak.net
+    ipredictive.com
     iwantmyname.com
+    iz.ru
+    jal.co.jp
     jazzkeys.plan8.co
+    jd.com
+    jetblue.com
+    jetstar.com
+    jn.pt
+    jobs.nhs.uk
+    johnlewis.com
+    joindiaspora.com
     joinhoney.com
     joinmastodon.org
+    jornaldenegocios.pt
     jsfiddle.net
     jsonwebtoken.io
+    juntadeandalucia.es
     jvns.ca
     kaleido.ai
     kayak.com
+    kayak.pt
     keybase.io
     keybr.com
     khanacademy.org
+    kickstarter.com
+    kinja.com
+    kiwi.com
+    kriesi.at
     krisp.ai
     kuantokusta.pt
+    latam.com
     latimes.com
     lawsofux.com
     layoutit.com
     learnxinyminutes.com
     leetcode.com
+    lennyletter.com
+    letras.ulisboa.pt
     lettersofnote.com
+    levels.fyi
     lib.rs
     liberapay.com
     libgen.lc
+    lidel.pt
+    lidl.co.uk
     lineageos.org
+    linear.app
     linkedin.com
+    linkfire.com
+    live.com
+    lnk.to
     lobste.rs
+    logitech.com
+    lufthansa.com
+    lusa.pt
     lwn.net
+    m.activobank.pt
+    m.facebook.com
+    m.google.com
+    m.olx.pt
+    m.youtube.com
+    macbooster.net
+    macromedia.com
+    magnumphotos.com
+    mail.google.com
     mail.yandex.ru
+    mailchimp.com
     mailgun.com
     mailinator.com
+    maisfutebol.iol.pt
+    malwarebytes.com
+    malwaredomainlist.com
     manning.com
+    maps.google.com
+    maps.google.pt
+    maps.windows.com
+    maruedr.com
+    marumatchbox.com
     mashable.com
+    mastercard.co.uk
+    mastercard.com
+    mastercard.pt
     matrix.org
     mattermost.com
     mattpalm.com
+    mawdoo3.com
+    mayoclinic.org
+    mbasic.facebook.com
+    mbway.pt
+    mediawiki.org
+    medicina.ulisboa.pt
     medium.com
     meet.jit.si
     meetup.com
+    mendeley.com
+    meo.pt
+    merriam-webster.com
+    meta.wikimedia.org
+    metacafe.com
+    metrolisboa.pt
     mic.com
     michael-noll.com
+    microsoft.com
+    microsoftonline.com
     migueldemoura.com
+    miguelmoura.com
     mirror.co.uk
     mises.org
     mlive.com
+    mobile.twitter.com
+    modsecurity.org
+    moey.pt
+    momentjs.com
+    momondo.co.uk
     momondo.com
+    momondo.pt
+    money.co.uk
+    moneysavingexpert.com
     monkeyuser.com
     monster.com
+    montepio.org
     monzo.com
     moss.garden
     mozilla.org
+    mr-blue.com
     msn.com
     mullvad.net
+    myshopify.com
+    n-gate.com
     namesilo.com
+    nationalreview.com
+    nature.com
     nautil.us
+    naver.com
+    nbc.com
     nbcnews.com
+    ncbi.nlm.nih.gov
+    nejm.org
+    nestle.com
+    netflix.com
+    netflix.de
     netlify.com
     news.ycombinator.com
+    newyorker.com
+    nhs.uk
+    nih.gov
     nj.com
     njal.la
+    nobelprize.org
+    notebookchat.com
     notebookcheck.com
     notebookcheck.net
     noticiasaominuto.com
+    npr.org
+    nunomoura.com
+    nutrimento.pt
+    nyaa.si
     nydailynews.com
+    nymag.com
     nypost.com
     nytimes.com
+    oaknorth.co.uk
     oaknorth.com
+    observador.pt
     observatory.mozilla.org
     octopus.energy
+    oculus.com
+    office.com
+    office365.com
     ohdear.app
     ohdearapp.com
+    okezone.com
+    olx.pt
+    oneplus.com
+    onetravel.com
     openai.com
     opengapps.org
     openrent.co.uk
     openstack.org
     openstreetmap.org
+    opentable.com
     openweathermap.org
+    openweb.com
     openwrt.org
+    opinionstage.com
+    oracle.com
+    orbitz.com
+    ordemdospsicologos.pt
+    otempo.pt
     otx.alienvault.com
+    outlook.live.com
     overleaf.com
     owm.io
+    pa.gov
+    pactor.pt
+    pages.github.com
+    panda.tv
+    pay.google.com
     paypal.com
     payscale.com
+    pcdiga.com
     peeringdb.com
     peppercarrot.com
+    petapixel.com
+    pewinternet.org
+    pewresearch.org
     pexels.com
+    pgl.yoyo.org
     photopea.com
     photos.google.com
+    pi-hole.net
     picsum.photos
+    pingodoce.pt
     pinterest.com
+    pinterest.pt
+    pitchfork.com
     pixabay.com
+    pixeldungeon.fandom.com
     placeholder.com
     plainenglish.co.uk
     play.golang.org
     play.rust-lang.org
+    plos.org
     plus.google.com
     poeditor.com
+    pole-emploi.fr
+    politico.com
+    portal.azores.gov.pt
+    portaldasfinancas.gov.pt
     portswigger.net
+    portugal.gov.pt
+    positivessl.com
+    post-gazette.com
     postman.com
     postmarkapp.com
+    pplware.sapo.pt
+    premierleague.com
+    privacyshield.gov
+    privacytools.io
     privatebin.net
+    privateinternetaccess.com
     probely.com
+    producthunt.com
+    promotorres.pt
+    propublica.org
     protonmail.com
     prowritingaid.com
+    prozis.com
+    pscp.tv
+    pt.godaddy.com
     pt.indeed.com
-    publiccom
+    pt.m.wikipedia.org
+    public.com
+    publico.pt
+    pubmed.ncbi.nlm.nih.gov
+    qatarairways.com
+    qq.com
     queryfeed.net
+    quizlet.com
     quora.com
     rainbowhunt.me
+    raspberrypi.org
     realfavicongenerator.net
     reberhardt.com
     reddit.com
+    rede-expressos.pt
+    redhat.com
+    refirmlabs.com
     regex101.com
+    remax.pt
     remove.bg
+    researchgate.net
+    rethink.org
     reuters.com
     revolut.com
     rightmove.co.uk
     robinhood.com
     rogerebert.com
+    royalsociety.org
+    royalsocietypublishing.org
+    rsaltsjt.com
+    rtp.pt
+    rust-analyzer.github.io
     rust-lang.org
     ryanair.com
+    s7.ru
     salon.com
     sapo.pt
+    saudecuf.pt
     sbf5.com
+    scholar.google.co.uk
+    scholar.google.com
+    scholar.google.pt
+    sciencedirect.com
+    sciencemag.org
     scientificamerican.com
+    scotiabank.com
+    sdpnoticias.com
     searchcode.com
     secure.vanguardinvestor.co.uk
     securityheaders.com
     securitytrails.com
+    seekingalpha.com
+    seg-social.pt
+    self.com
     sendgrid.com
     shadow.tech
     shellcheck.net
+    shl.com
     shodan.io
+    sibs.com
     signal.org
+    siteground.com
+    skechers.com
     sketch.com
+    skype.com
+    skyscanner.com
+    skyscanner.es
+    skyscanner.it
     skyscanner.net
+    skyscanner.pt
+    skyscanner.ru
+    skysports.com
     slack.com
     slate.com
+    sleep.urbandroid.org
+    slideshare.net
     sling.is
     smbc-comics.com
     smsreceivefree.com
+    sns.gov.pt
     snusbase.com
     snyk.io
+    soerad.com
+    sohu.com
+    solidpop.com
     sonarcloud.io
+    soundcloud.com
+    sourceforge.net
     southwest.com
+    spareroom.co.uk
+    speedtest.net
+    spirit.com
+    splitwise.com
+    spot.im
+    spotahome.com
     spotify.com
     squareup.com
     squoosh.app
     ssllabs.com
+    stackoverflow.com
+    standard.co.uk
     startpage.com
+    startribune.com
     store.steampowered.com
     storycreatorapp.com
     stratechery.com
     stripe.com
     stumbleupon.com
+    support.google.com
+    support.mozilla.org
+    support.signal.org
+    support.steampowered.com
+    symcb.com
+    t.co
     tableplus.com
     tailscale.com
+    taobao.com
     tarsnap.com
+    teams.microsoft.com
     techbargains.com
     techcrunch.com
     technologyreview.com
+    teenvogue.com
     telegraph.co.uk
+    telephony.goog
     temp-mail.org
+    tempo.co
+    tempo.sapo.pt
+    termux.org
+    tesco.com
+    tesla.com
+    texthelp.com
     textslashplain.com
     the-eye.eu
     theatlantic.com
     theblaze.com
     thedailybeast.com
+    thedailywtf.com
     theguardian.com
+    theintercept.com
+    them.us
+    themarker.com
     theoatmeal.com
+    theonion.com
     theregister.co.uk
     theregister.com
+    thesalarycalculator.co.uk
+    thesaurus.com
+    thesun.co.uk
+    thetimes.co.uk
     theverge.com
+    theweather.com
     thewirecutter.com
+    thinkwithgoogle.com
+    tiempo.com
+    tiffosi.com
+    tiktok.com
+    timberland.co.uk
+    timberland.pt
+    time.com
+    timeout.com
+    timeout.pt
     tio.run
+    tiqcdn.com
     tldr.ostera.io
+    tmall.com
+    tmz.com
+    tomsguide.com
+    tomshardware.com
     touchpianist.com
     tour.golang.org
     tourofrust.com
     transferwise.com
     transifex.com
+    travelandleisure.com
+    travelocity.com
+    traveloka.com
+    travelzoo.com
+    trello.com
+    tribunnews.com
+    tripadvisor.co.uk
+    tripadvisor.com
+    tripadvisor.pt
+    tripit.com
     triplebyte.com
     tropicalprice.com
+    troyhunt.com
+    tsf.pt
     tumblr.com
+    turkishairlines.com
     turnitin.com
+    tvi24.iol.pt
     twilio.com
     twitch.tv
     twitter.com
     twrp.me
     typelit.io
+    ual.com
+    udemy.com
+    uevora.pt
     ui.com
     ukmeds.co.uk
+    uky.edu
+    ulisboa.pt
+    uminho.pt
     underdog.io
     undraw.co
+    uniplaces.com
+    united.com
+    unmind.com
     unsplash.com
+    urbandictionary.com
+    urbandictionary.store
     us.etrade.com
+    usanetwork.com
     usatoday.com
+    usmagazine.com
     usnews.com
+    vale.com
     vanguard.com
     vanguardinvestor.co.uk
+    vanityfair.com
     vectorlogo.zone
     vice.com
     viewdns.info
+    vilanova.com
     vim-adventures.com
     vimeo.com
+    virginmedia.com
     virustotal.com
+    visa.co.uk
     visa.com
     visa.pt
     vk.com
+    vodafone.pt
+    voeazul.com.br
+    voegol.com.br
+    vogue.com
+    vogue.es
+    volaris.com
     vox.com
+    vseigru.net
+    vueling.com
     vulnerable.af
     vultr.com
+    w3.org
+    waitrose.com
+    wallet.google.com
+    washingtonexaminer.com
     washingtonpost.com
+    wassenaar.org
+    wasteapp.pt
+    watchtower.1password.com
+    wattpad.com
     wave.webaim.org
+    wayfair.co.uk
+    weather.gov
     weatherspark.com
+    weawow.com
+    web.archive.org
     web.facebook.com
+    web.whatsapp.com
     webaim.org
     webflow.com
+    webglearth.com
     webhint.io
+    webmd.com
+    weibo.com
+    wetransfer.com
     whatismybrowser.com
+    whatismyip.com
+    whatismyipaddress.com
+    whatsapp.com
+    whitehouse.gov
     whoer.net
     whois.domaintools.com
     wigle.net
     wikibuy.com
+    wikihow.com
     wikipedia.org
+    windowsupdate.com
+    wired.com
     wireguard.com
+    wix.com
     wizardzines.com
+    wizzair.com
+    wook.pt
+    wordpress.com
+    wordpress.org
+    workable.com
     worten.pt
     wsj.com
     wufoo.com
     xda-developers.com
+    xinhuanet.com
     xkcd.com
+    yahoo.co.jp
+    yahoo.com
     yandex.ru
+    yatra.com
+    yoast.com
+    youtu.be
     youtube.com
+    ytimg.com
+    yves-rocher.pt
+    yvesrocherusa.com
+    zara.com
+    zdnet.com
     zen.co.uk
+    zhanqi.tv
+    zomato.com
     zoom.us
+    zoopla.co.uk
+    zscaler.com
 </details>
 
 These are mostly news, travel and shopping websites. I'm planning on increasing the coverage by several orders of magnitude in the near future.
