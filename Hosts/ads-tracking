@@ -34,6 +34,7 @@
 202.90.190.35.bc.googleusercontent.com
 206ads.com
 20799319p.rfihub.com
+20820711p.rfihub.com
 23.e-goi.com
 23u7md.tdum.alibaba.com
 246.39.190.35.bc.googleusercontent.com
@@ -928,6 +929,7 @@ ana.112.2o7.net
 ana.demdex.net
 analysis.fi
 analysis.infoglobo.com.br
+analytic.rollout.io
 analytics-bypassing-adblockers.netlify.com
 analytics-gateway.uniplaces.com
 analytics-ingress-global.bitmovin.com
@@ -1185,11 +1187,13 @@ askfm-usd-d.openx.net
 assets.adobedtm.com
 assets.adventivecdn.com
 assets.bounceexchange.com
+assets.freshsales.io
 assets.revcontent.com
 assets.trendemon.com
 assets.vidora.com
 assetscdn.jivox.com
 assoc-amazon.com
+assoc-fe.associates-amazon.com
 astral-v4.pops.fastly-insights.com
 astrolabe-api.imhd.io
 aswpsdkus.com
@@ -1210,6 +1214,7 @@ atom-log.3.cn
 ats.rlcdn.com
 att-app.quantummetric.com
 att-sync.quantummetric.com
+att.mpeasylink.com
 attr.ml-api.io
 attractiveafternoon.com
 attractivecap.com
@@ -1274,6 +1279,7 @@ ba.demdex.net
 babel.innertrends.com
 backend.upapi.net
 backstage.funnelenvy.com
+backstory.ebay.com
 bagbeam.com
 balancebreath.com
 balloonbit.com
@@ -1363,6 +1369,7 @@ bidswitch.net
 bidtheatre.com
 bidvertiser.com
 billowybead.com
+bitwarden.freshsales.io
 bizible.com
 bizographics.com
 bkrtx.com
@@ -1532,6 +1539,7 @@ caringzinc.com
 carpentercomparison.com
 carriagecan.com
 carscannon.com
+cas.avalon.perfdrive.com
 cas.criteo.com
 casale-match.dotomi.com
 casalemedia.com
@@ -1650,6 +1658,7 @@ cdn.mouseflow.com
 cdn.mxpnl.com
 cdn.native.ai
 cdn.nytrng.com
+cdn.ometria.com
 cdn.onesignal.com
 cdn.onthe.io
 cdn.optimizely.com
@@ -1673,6 +1682,7 @@ cdn.rebel.ai
 cdn.rebelai.com
 cdn.relaymedia.com
 cdn.report-uri.com
+cdn.resonate.com
 cdn.revcontent.com
 cdn.revive-adserver.net
 cdn.rhombusads.com
@@ -2418,6 +2428,7 @@ elsevier.demdex.net
 em.licasd.com
 email.gh-mail.cloudflare.com
 email.mixmax.com
+email.uber.com
 embed.automizy.com
 embed.doorbell.io
 embeds.driftcdn.com
@@ -2641,6 +2652,7 @@ foxnews.demdex.net
 fpa-cdn.arstechnica.com
 fpa-events.arstechnica.com
 fqtag.com
+fra-01.braze.eu
 fra-col.eum-appdynamics.com
 fra-v4.pops.fastly-insights.com
 frailflock.com
@@ -2934,7 +2946,10 @@ i6.liadm.com
 i9w8p.pw
 iabmap.evidon.com
 iad-01.braze.com
+iad-02.braze.com
 iad-03.braze.com
+iad-04.braze.com
+iad-06.braze.com
 iah-v4.pops.fastly-insights.com
 iasds01.com
 ib.3lift.com
@@ -3111,6 +3126,7 @@ journey.allure.com
 jp-u.openx.net
 jrs5.com
 js-agent.newrelic.com
+js-cdn.dynatrace.com
 js-sec.indexww.com
 js.ad-score.com
 js.adscale.de
@@ -10498,7 +10514,9 @@ nxd.adhaven.com
 nxtck.com
 nypi.dc-storm.com
 nypost-d.openx.net
+nytrng.com
 o.joinhoney.com
+o115706.ingest.sentry.io
 o130950.ingest.sentry.io
 o449295.ingest.sentry.io
 o51786.ingest.sentry.io
@@ -11182,6 +11200,7 @@ r1.visualwebsiteoptimizer.com
 r2---sn-apn7en7e.c.2mdn.net
 r2.visualwebsiteoptimizer.com
 r3.visualwebsiteoptimizer.com
+r42tag.com
 r7ls.net
 radar.cedexis.com
 railwayrainstorm.com
@@ -11189,6 +11208,7 @@ railwayreason.com
 raintwig.com
 rainydirt.com
 rainyhand.com
+raka.bing.com
 rambler-sync.rutarget.ru
 randi.adswizz.com
 rangecake.com
@@ -11202,6 +11222,7 @@ rcom.dynamicyield.com
 rd.frontend.weborama.fr
 rd.linksynergy.com
 reach-id-dev.dev.orbit.tm-awx.com
+reach-id.orbit.tm-awx.com
 reachmax-cm.admaster.com.cn
 read.feedly.com
 readgoldfish.com
@@ -11250,12 +11271,14 @@ report-re.mlive.com
 report-uri.com
 report-uri.io
 report-uri.robinhood.com
+reports.booking.com
 reports.crashlytics.com
 res.rbl.ms
 resolutekey.com
 reson8.com
 resonantbrush.com
 resonantrock.com
+resonate.com
 resources.infolinks.com
 resources.xg4ken.com
 respectrain.com
@@ -11491,8 +11514,12 @@ sdk-cdn.optimove.net
 sdk-errors.inlocomedia.com
 sdk.beemray.com
 sdk.fiksu.com
+sdk.fra-01.braze.eu
 sdk.iad-01.braze.com
+sdk.iad-02.braze.com
 sdk.iad-03.braze.com
+sdk.iad-04.braze.com
+sdk.iad-06.braze.com
 sdk.privacy-center.org
 sdk.repixel.co
 sdk.sharethrough.com
@@ -11634,6 +11661,7 @@ sincerebuffalo.com
 sinceresofa.com
 sincerespy.com
 sinefight-skinesia.com
+sinfo.dtcidev.co
 singular.net
 sinter-collect.com
 siteimproveanalytics.com
@@ -11889,6 +11917,7 @@ static.www.turnto.com
 static.zdbb.net
 stats-dev.brid.tv
 stats.appsflyer.com
+stats.azmsoft.com
 stats.changelog.com
 stats.datawrapper.de
 stats.defense.gov
@@ -12141,6 +12170,7 @@ tce.alicdn.com
 tcf2.telegraph.co.uk
 tcheck.outbrainimg.com
 td.yieldify.com
+tdn.r42tag.com
 tdum.alibaba.com
 tdzvm.pw
 teads.tv
@@ -12369,6 +12399,7 @@ trinitymirror.grapeshot.co.uk
 triplelift-match.dotomi.com
 tritetongue.com
 trk.kissmetrics.io
+trk.ometria.com
 trk.techtarget.com
 trkn.us
 troubledtail.com
