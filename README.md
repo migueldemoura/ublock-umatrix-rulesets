@@ -26,7 +26,7 @@ The malware list includes hosts serving viruses, ransomware, scareware, badware,
 While these lists block ads, tracking and malware on websites all over the web, I'm currently monitoring several websites for new potentially malicious hosts:
 
 <details>
-    <summary>Hosts (1037)</summary>
+    <summary>Hosts (1045)</summary>
 
     123contactform.com
     123formbuilder.com
@@ -89,6 +89,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     amazon.es
     amazon.fr
     amazon.in
+    ambicular.com
     americanairlines.co.uk
     ana.co.jp
     anacom.pt
@@ -97,6 +98,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     androidauthority.com
     androidpolice.com
     apache.org
+    apachecon.com
     apai.org.pt
     apple.com
     apps.evozi.com
@@ -295,6 +297,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     emailprivacytester.com
     emirates.com
     emma-mattress.co.uk
+    emma-sleep.co.uk
     empresashoje.pt
     en.gravatar.com
     en.m.wikipedia.org
@@ -313,6 +316,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     expedia.de
     explainshell.com
     express.co.uk
+    expresso-digital.pt
     expresso.pt
     f-droid.org
     fabricadestartups.com
@@ -349,6 +353,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     formstack.com
     forum.xda-developers.com
     forwardemail.net
+    foursquare.com
     foxbusiness.com
     foxnews.com
     foxsports.com
@@ -385,6 +390,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     gitter.im
     gizmodo.com
     glamour.com
+    glamour.es
     glassdoor.co.uk
     glassdoor.com
     glazestock.com
@@ -518,6 +524,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     jsonwebtoken.io
     juntadeandalucia.es
     jvns.ca
+    jwt.io
     kaleido.ai
     kayak.com
     kayak.pt
@@ -577,6 +584,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     maps.google.pt
     maps.windows.com
     maruedr.com
+    marugroup.net
     marumatchbox.com
     mashable.com
     mastercard.co.uk
