@@ -26,14 +26,16 @@ The malware list includes hosts serving viruses, ransomware, scareware, badware,
 While these lists block ads, tracking and malware on websites all over the web, I'm currently monitoring several websites for new potentially malicious hosts:
 
 <details>
-    <summary>Hosts (1045)</summary>
+    <summary>Hosts (1164)</summary>
 
     123contactform.com
     123formbuilder.com
     123milhas.com
+    1337x.to
     1password.com
     3blue1brown.com
     500px.com
+    707.pt
     9to5mac.com
     aa.com
     aa.net.uk
@@ -42,8 +44,10 @@ While these lists block ads, tracking and malware on websites all over the web, 
     abcnews.go.com
     abola.pt
     about.gitlab.com
+    about.sourcegraph.com
     abuseipdb.com
     academia.edu
+    accessibilityserver.org
     accounts.google.co.uk
     accounts.google.pt
     accounts.youtube.com
@@ -53,9 +57,8 @@ While these lists block ads, tracking and malware on websites all over the web, 
     activobank.pt
     adaway.org
     addons.mozilla.org
-    adentifi.com
     adobe.com
-    advances.sciencemag.org
+    adyen.com
     aeroflot.ru
     affirm.com
     aidn.jp
@@ -80,12 +83,14 @@ While these lists block ads, tracking and malware on websites all over the web, 
     allsides.com
     alltrails.com
     allure.com
+    altice-empresas.pt
     amadeus.com
     amadeus.net
     amazon.co.jp
     amazon.co.uk
     amazon.com
     amazon.com.br
+    amazon.de
     amazon.es
     amazon.fr
     amazon.in
@@ -97,6 +102,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     anchor.fm
     androidauthority.com
     androidpolice.com
+    anyvan.com
     apache.org
     apachecon.com
     apai.org.pt
@@ -144,12 +150,14 @@ While these lists block ads, tracking and malware on websites all over the web, 
     blog.unmind.com
     blogger.com
     blogspot.com
+    bloomandwild.com
     bloomberg.com
     blueapron.com
     bluestacks.com
     bomcondutor.pt
     bonappetit.com
     booking.com
+    boots.com
     boston.com
     bostonglobe.com
     bot.land
@@ -164,11 +172,16 @@ While these lists block ads, tracking and malware on websites all over the web, 
     buzzfeednews.com
     bytecodealliance.org
     cafe24.com
+    calendar.google.com
     calzedonia.com
     caniuse.com
+    caniuse.rs
     canva.com
+    capitaloneshopping.com
     carbon.now.sh
     carbonmade.com
+    careers.google.com
+    careers.microsoft.com
     cars.com
     cbs.com
     cbsnews.com
@@ -182,6 +195,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     cheapoair.com
     cheats.rs
     checkr.com
+    chess.com
     chrome.google.com
     cio.com
     clickup.com
@@ -204,22 +218,28 @@ While these lists block ads, tracking and malware on websites all over the web, 
     commandlinefu.com
     commitstrip.com
     commoncrawl.org
+    confraria.ap2si.org
     consumerreports.org
     contacts.google.com
     continente.pt
     cookpad.com
     coursera.org
     courses.edx.org
-    cox.net
+    covid.randox.com
+    cox.com
     crane.aero
     crates.io
     creativecommons.org
     crowdin.com
     crt.sh
     crxcavator.io
+    crypto.stanford.edu
     crypto101.io
     cryptohack.org
+    cryptopals.com
+    cs155.stanford.edu
     csdn.net
+    csp-evaluator.withgoogle.com
     cssgridgarden.com
     ctt.pt
     cuf.pt
@@ -228,13 +248,17 @@ While these lists block ads, tracking and malware on websites all over the web, 
     dagospia.com
     dailymail.co.uk
     dailymotion.com
+    dancres.github.io
     danielmiessler.com
     daraz.pk
     daringfireball.net
     darksky.net
+    dash.cloudflare.com
     datadoghq.com
     datatracker.ietf.org
     de.foursquare.com
+    decathlon.co.uk
+    deciem.com
     deepl.com
     defense.gov
     degiro.co.uk
@@ -245,6 +269,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     developer.mozilla.org
     developers.google.com
     developers.googleblog.com
+    developers.whatismybrowser.com
     dezeen.com
     dezeenjobs.com
     dgs.pt
@@ -273,6 +298,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     docusign.com
     domaintools.com
     doubleclick.net
+    doutorfinancas.pt
     download.lineageos.org
     dpreview.com
     draw.io
@@ -303,18 +329,24 @@ While these lists block ads, tracking and malware on websites all over the web, 
     en.m.wikipedia.org
     en.wikipedia.org
     engadget.com
+    eonenergy.com
     epicurious.com
     eportugal.gov.pt
+    eqinvestors.co.uk
     eschersket.ch
     espn.com
     etrade.com
     etsy.com
     europa.eu
+    eventbrite.com
+    ewg.org
     example.com
-    exercism.io
+    excalidraw.com
+    exercism.org
     expedia.com
     expedia.de
     explainshell.com
+    exponent.fm
     express.co.uk
     expresso-digital.pt
     expresso.pt
@@ -325,6 +357,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     fanboy.co.nz
     fandom.com
     farefirst.com
+    fasterthanli.me
     fastmail.com
     fbcdn.net
     fca.pt
@@ -360,14 +393,17 @@ While these lists block ads, tracking and malware on websites all over the web, 
     fracz.com
     freedom.press
     freephonenum.com
+    freetrade.io
     frida.re
     frontiersin.org
     frutafeia.pt
     fundacao.vodafone.pt
     fundingchoices.google.com
+    g2.com
     gatsbyjs.com
     gatsbyjs.org
     gawker.com
+    gchq.github.io
     geeksforgeeks.org
     getpostman.com
     getpushmonkey.com
@@ -397,6 +433,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     globalfree.net
     globalmediagroup.pt
     globo.com
+    go.dev
     goal.com
     godaddy.com
     gofundme.com
@@ -420,10 +457,12 @@ While these lists block ads, tracking and malware on websites all over the web, 
     googleusercontent.com
     googlevideo.com
     gov.uk
+    gpathand.nhs.uk
     gq.com
     gqportugal.pt
     grafana.com
     grammarly.com
+    grapheneos.org
     graphicsprings.com
     gravatar.com
     greenhouse.io
@@ -443,10 +482,12 @@ While these lists block ads, tracking and malware on websites all over the web, 
     hackerrank.com
     hackertarget.com
     hacks.mozilla.org
+    hagglezon.com
     hardenize.com
     haskell.org
     hasura.io
     hcaptcha.com
+    hellofresh.co.uk
     help.instagram.com
     help.steampowered.com
     help.twitter.com
@@ -454,7 +495,9 @@ While these lists block ads, tracking and malware on websites all over the web, 
     herbie.uwplse.org
     hermanmiller.com
     hetzner.com
+    hire.google.com
     hl.co.uk
+    homeaway.pt
     hosts-file.net
     hotels.com
     howsmyssl.com
@@ -473,6 +516,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     iberia.com
     icomoon.io
     idealista.pt
+    ieftimov.com
     ietf.org
     ifixit.com
     ijg.org
@@ -506,6 +550,8 @@ While these lists block ads, tracking and malware on websites all over the web, 
     ipinfo.io
     ipleak.net
     ipredictive.com
+    islington.gov.uk
+    isthereanydeal.com
     iwantmyname.com
     iz.ru
     jal.co.jp
@@ -520,6 +566,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     joinhoney.com
     joinmastodon.org
     jornaldenegocios.pt
+    jrvidal.github.io
     jsfiddle.net
     jsonwebtoken.io
     juntadeandalucia.es
@@ -533,11 +580,15 @@ While these lists block ads, tracking and malware on websites all over the web, 
     khanacademy.org
     kickstarter.com
     kinja.com
+    kitchenstories.com
     kiwi.com
+    kiwico.com
     kriesi.at
     krisp.ai
     kuantokusta.pt
+    languagetool.org
     latam.com
+    latestdeals.co.uk
     latimes.com
     lawsofux.com
     layoutit.com
@@ -549,9 +600,11 @@ While these lists block ads, tracking and malware on websites all over the web, 
     levels.fyi
     lib.rs
     liberapay.com
-    libgen.lc
+    libgen.rs
+    lichess.org
     lidel.pt
     lidl.co.uk
+    lifesavvy.com
     lineageos.org
     linear.app
     linkedin.com
@@ -583,6 +636,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     maps.google.com
     maps.google.pt
     maps.windows.com
+    marketingreportoptout.visa.com
     maruedr.com
     marugroup.net
     marumatchbox.com
@@ -614,6 +668,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     microsoftonline.com
     migueldemoura.com
     miguelmoura.com
+    miro.com
     mirror.co.uk
     mises.org
     mlive.com
@@ -625,16 +680,19 @@ While these lists block ads, tracking and malware on websites all over the web, 
     momondo.com
     momondo.pt
     money.co.uk
+    moneyfarm.com
     moneysavingexpert.com
     monkeyuser.com
     monster.com
     montepio.org
     monzo.com
     moss.garden
+    motionbox.io
     mozilla.org
     mr-blue.com
     msn.com
     mullvad.net
+    musclewiki.com
     myshopify.com
     n-gate.com
     namesilo.com
@@ -645,6 +703,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     nbc.com
     nbcnews.com
     ncbi.nlm.nih.gov
+    ndclondon.com
     nejm.org
     nestle.com
     netflix.com
@@ -683,12 +742,15 @@ While these lists block ads, tracking and malware on websites all over the web, 
     olx.pt
     oneplus.com
     onetravel.com
+    open.spotify.com
     openai.com
     opengapps.org
+    openlibrary.org
     openrent.co.uk
     openstack.org
     openstreetmap.org
     opentable.com
+    openvim.com
     openweathermap.org
     openweb.com
     openwrt.org
@@ -701,10 +763,12 @@ While these lists block ads, tracking and malware on websites all over the web, 
     outlook.live.com
     overleaf.com
     owm.io
+    oxide.computer
     pa.gov
     pactor.pt
     pages.github.com
     panda.tv
+    patreon.com
     pay.google.com
     paypal.com
     payscale.com
@@ -740,10 +804,12 @@ While these lists block ads, tracking and malware on websites all over the web, 
     portswigger.net
     portugal.gov.pt
     positivessl.com
+    possiblerust.com
     post-gazette.com
     postman.com
     postmarkapp.com
     pplware.sapo.pt
+    practical-go-lessons.com
     premierleague.com
     privacyshield.gov
     privacytools.io
@@ -751,6 +817,8 @@ While these lists block ads, tracking and malware on websites all over the web, 
     privateinternetaccess.com
     probely.com
     producthunt.com
+    profiler.firefox.com
+    projectifi.io
     promotorres.pt
     propublica.org
     protonmail.com
@@ -761,6 +829,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     pt.indeed.com
     pt.m.wikipedia.org
     public.com
+    publiccom
     publico.pt
     pubmed.ncbi.nlm.nih.gov
     qatarairways.com
@@ -772,6 +841,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     raspberrypi.org
     realfavicongenerator.net
     reberhardt.com
+    recurse.com
     reddit.com
     rede-expressos.pt
     redhat.com
@@ -779,19 +849,26 @@ While these lists block ads, tracking and malware on websites all over the web, 
     regex101.com
     remax.pt
     remove.bg
+    replit.com
     researchgate.net
     rethink.org
     reuters.com
+    reviewgeek.com
     revolut.com
+    rfc.fyi
     rightmove.co.uk
     robinhood.com
     rogerebert.com
+    royallondon.com
     royalsociety.org
     royalsocietypublishing.org
     rsaltsjt.com
     rtp.pt
     rust-analyzer.github.io
+    rust-fuzz.github.io
     rust-lang.org
+    rust-unofficial.github.io
+    rust.godbolt.org
     ryanair.com
     s7.ru
     salon.com
@@ -801,6 +878,9 @@ While these lists block ads, tracking and malware on websites all over the web, 
     scholar.google.co.uk
     scholar.google.com
     scholar.google.pt
+    sci-bay.org
+    sci-hub.do
+    science.org
     sciencedirect.com
     sciencemag.org
     scientificamerican.com
@@ -810,9 +890,11 @@ While these lists block ads, tracking and malware on websites all over the web, 
     secure.vanguardinvestor.co.uk
     securityheaders.com
     securitytrails.com
+    securityunlockedpodcast.com
     seekingalpha.com
     seg-social.pt
     self.com
+    send.vis.ee
     sendgrid.com
     shadow.tech
     shellcheck.net
@@ -823,6 +905,8 @@ While these lists block ads, tracking and malware on websites all over the web, 
     siteground.com
     skechers.com
     sketch.com
+    sketchfab.com
+    skiplagged.com
     skype.com
     skyscanner.com
     skyscanner.es
@@ -838,6 +922,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     sling.is
     smbc-comics.com
     smsreceivefree.com
+    snowfl.com
     sns.gov.pt
     snusbase.com
     snyk.io
@@ -847,6 +932,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     sonarcloud.io
     soundcloud.com
     sourceforge.net
+    sourcegraph.com
     southwest.com
     spareroom.co.uk
     speedtest.net
@@ -860,23 +946,32 @@ While these lists block ads, tracking and malware on websites all over the web, 
     ssllabs.com
     stackoverflow.com
     standard.co.uk
+    stanford.edu
     startpage.com
     startribune.com
     store.steampowered.com
     storycreatorapp.com
     stratechery.com
+    streamlit.io
     stripe.com
     stumbleupon.com
     support.google.com
     support.mozilla.org
     support.signal.org
     support.steampowered.com
+    swimlanes.io
+    swtch.com
+    symbolab.com
     symcb.com
     t.co
     tableplus.com
     tailscale.com
     taobao.com
     tarsnap.com
+    tax.service.gov.uk
+    taxscouts.com
+    teachyourselfcs.com
+    teamflowhq.com
     teams.microsoft.com
     techbargains.com
     techcrunch.com
@@ -890,11 +985,14 @@ While these lists block ads, tracking and malware on websites all over the web, 
     termux.org
     tesco.com
     tesla.com
+    testingforall.org
     texthelp.com
     textslashplain.com
+    thameswater.co.uk
     the-eye.eu
     theatlantic.com
     theblaze.com
+    thecyberwire.com
     thedailybeast.com
     thedailywtf.com
     theguardian.com
@@ -903,6 +1001,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     themarker.com
     theoatmeal.com
     theonion.com
+    thepiratebay.org
     theregister.co.uk
     theregister.com
     thesalarycalculator.co.uk
@@ -913,6 +1012,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     theweather.com
     thewirecutter.com
     thinkwithgoogle.com
+    this-week-in-rust.org
     tiempo.com
     tiffosi.com
     tiktok.com
@@ -921,6 +1021,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     time.com
     timeout.com
     timeout.pt
+    tineye.com
     tio.run
     tiqcdn.com
     tldr.ostera.io
@@ -928,11 +1029,15 @@ While these lists block ads, tracking and malware on websites all over the web, 
     tmz.com
     tomsguide.com
     tomshardware.com
+    topjohnwu.github.io
     touchpianist.com
     tour.golang.org
     tourofrust.com
-    transferwise.com
+    trading212.com
+    tranco-list.eu
+    transferwise.jobs
     transifex.com
+    translate.google.com
     travelandleisure.com
     travelocity.com
     traveloka.com
@@ -960,6 +1065,8 @@ While these lists block ads, tracking and malware on websites all over the web, 
     udemy.com
     uevora.pt
     ui.com
+    uk.camelcamelcamel.com
+    uk.indeed.com
     ukmeds.co.uk
     uky.edu
     ulisboa.pt
@@ -973,19 +1080,23 @@ While these lists block ads, tracking and malware on websites all over the web, 
     urbandictionary.com
     urbandictionary.store
     us.etrade.com
+    usa.visa.com
     usanetwork.com
     usatoday.com
     usmagazine.com
     usnews.com
+    uxchecklist.github.io
     vale.com
     vanguard.com
     vanguardinvestor.co.uk
     vanityfair.com
     vectorlogo.zone
     vice.com
+    videoshub.com
     viewdns.info
     vilanova.com
     vim-adventures.com
+    vim.so
     vimeo.com
     virginmedia.com
     virustotal.com
@@ -1020,6 +1131,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     weawow.com
     web.archive.org
     web.facebook.com
+    web.stanford.edu
     web.whatsapp.com
     webaim.org
     webflow.com
@@ -1032,16 +1144,20 @@ While these lists block ads, tracking and malware on websites all over the web, 
     whatismyip.com
     whatismyipaddress.com
     whatsapp.com
+    whatsinthebox.tv
+    which.co.uk
     whitehouse.gov
     whoer.net
     whois.domaintools.com
     wigle.net
+    wiki.alopex.li
     wikibuy.com
     wikihow.com
     wikipedia.org
     windowsupdate.com
     wired.com
     wireguard.com
+    wise.com
     wix.com
     wizardzines.com
     wizzair.com
@@ -1049,6 +1165,7 @@ While these lists block ads, tracking and malware on websites all over the web, 
     wordpress.com
     wordpress.org
     workable.com
+    wormhole.app
     worten.pt
     wsj.com
     wufoo.com
@@ -1060,9 +1177,11 @@ While these lists block ads, tracking and malware on websites all over the web, 
     yandex.ru
     yatra.com
     yoast.com
+    youinvest.co.uk
     youtu.be
     youtube.com
     ytimg.com
+    yves-rocher.be
     yves-rocher.pt
     yvesrocherusa.com
     zara.com
