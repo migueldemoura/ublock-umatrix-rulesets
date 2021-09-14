@@ -1,19 +1,8 @@
-# uBlock & uMatrix Rulesets
+# Hosts and uBlock Rulesets
 
-Personal uBlock & uMatrix rulesets.
+Personal hosts files and uBlock rulesets.
 
 Please note that the uBlock rulesets are very opinionated.
-The uMatrix recipes are built assuming the following default rules:
-
-```
-no-workers: * true
-* * * block
-* 1st-party css allow
-* 1st-party image allow
-* 1st-party frame allow
-```
-
-These are more restrictive than the ones proposed by uMatrix.
 
 ## Highlights
 
