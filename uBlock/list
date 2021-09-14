@@ -53,18 +53,6 @@ feedly.com##.pro
 # Prevent 'is typing' status in Conversations
 ||www.linkedin.com/voyager/api/messaging/conversations?action=typing
 
-||www.linkedin.com/csp/sct
-||www.linkedin.com/fizzy/admin
-||www.linkedin.com/li/track
-||www.linkedin.com/lite/contentsecurity
-||www.linkedin.com/lite/rum-track
-||www.linkedin.com/lite/ua/error
-||www.linkedin.com/mob/tracking
-||www.linkedin.com/psettings/tracking
-||www.linkedin.com/voyager/api/legoWidgetActionEvents
-||www.linkedin.com/voyager/api/legoWidgetImpressionEvents
-||www.linkedin.com/voyager/api/mux
-
 # Home Left Bar - Free Upgrade to Premium
 www.linkedin.com##.premium-upsell-link
 # Home Right Bar - Add to your feed
@@ -79,7 +67,6 @@ www.linkedin.com##.pv-member-badge__premium-upsell
 www.linkedin.com##.feed-identity-module__anchored-widget--premium-upsell
 # Profile Right Bar - Add new skills with these courses
 www.linkedin.com##.pv-course-recommendations
-
 
 #-----------------------------------------------------------
 #------------------------- Youtube -------------------------
