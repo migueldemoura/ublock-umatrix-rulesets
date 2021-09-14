@@ -24,8 +24,6 @@
 ||www.amazon.com/gp/r.html
 ||www.bloomberg.com/*/xhr/api/v1/collector
 ||www.booking.com/js_tracking
-||www.facebook.com/email_open_log_pic.php
-||www.facebook.com/tr?
 ||www.instagram.com/ajax/bz
 observador.pt##.premium-paywall
 
@@ -42,81 +40,6 @@ feedly.com###librarytab
 feedly.com###supporttab
 # Upgrade button
 feedly.com##.pro
-
-
-#-----------------------------------------------------------
-#------------------------ Facebook -------------------------
-#-----------------------------------------------------------
-||www.messenger.com/ajax/bz
-||www.messenger.com/ajax/mercury/unread_threads
-||www.messenger.com/mercury/unseen_thread_ids
-||www.messenger.com/rtc/callability
-
-# Breaks search suggestions
-||www.facebook.com/ajax/typeahead/search/facebar$important
-||www.facebook.com/search/browse/warm/requestargs
-||www.facebook.com/typeahead/search/facebar/query$important
-
-||www.facebook.com/ajax/mercury/change_read_status
-||www.facebook.com/*notif_t=group_$document,subdocument,important
-||www.facebook.com/ajax/bz$important
-||www.facebook.com/ajax/notifications/mark_read$important
-||www.facebook.com/events/*notif_t=plan_user_invited$document,subdocument,important
-||www.facebook.com/ufi/typing
-||www.facebook.com/ajax/messaging/typ
-
-||*-edge-chat.facebook.com/active_ping
-||*-edge-chat.facebook.com/probe
-||*-edge-chat.facebook.com/sub
-||www.facebook.com/ajax/browse/null_state$important
-||www.facebook.com/ajax/haste-response/?modules=XLinkshimLogController
-||www.facebook.com/ajax/litestand/newsfeed_count$important
-||www.facebook.com/ajax/mercury/delivery_receipts
-||www.facebook.com/ajax/mercury/tabs_presence
-||www.facebook.com/ajax/mercury/unread_threads
-||www.facebook.com/ajax/notifications/mark_seen
-||www.facebook.com/ajax/photos/logging$important
-||www.facebook.com/ajax/ssinfeed
-||www.facebook.com/ajax/typeahead/groups/mentions_bootstrap$important
-||www.facebook.com/ajax/typeahead/groups/photo_mentions_bootstrap$important
-||www.facebook.com/ajax/typeahead/record_basic_metrics$important
-||www.facebook.com/data/manifest
-||www.facebook.com/groupcall/nux
-||www.facebook.com/mercury/attachments/video
-||www.facebook.com/mercury/unseen_thread_ids
-||www.facebook.com/p2p
-||www.facebook.com/pages/show_live_insights
-||www.facebook.com/privacy/promotion_triggers
-||www.facebook.com/pymk/funnel_logging/
-||www.facebook.com/react_composer/logging
-||www.facebook.com/tr$document
-||www.facebook.com/typeahead/search/facebar/bootload
-||www.facebook.com/video/autoplay
-
-# New Feed Post
-www.facebook.com###pagelet_composer
-# Home Left Bar - Explore Group
-www.facebook.com###appsNav
-# Home Left Bar - Create Group
-www.facebook.com###createNav
-# Home Left Bar - Show all Shortcuts
-www.facebook.com##.sideNavItem:style(display:block#important)
-www.facebook.com##li:has(a[data-testid="left_nav_section_Shortcuts_seemore"])
-# Home Right Bar - Stories
-www.facebook.com###fb_stories_card_root
-# Home Right Bar - Marketplace
-www.facebook.com###pagelet_marketplace_new_user_top_picks_rhc
-# Home Right Bar - Your Page
-www.facebook.com###homepage_panel_pagelet
-# Home Right Bar - Suggested Groups, People you may know
-www.facebook.com###pagelet_ego_pane
-# Home Right Bar - Language and Footer
-www.facebook.com###pagelet_rhc_footer
-# Events Right Bar - Find events
-www.facebook.com###events_dashboard_find_events
-# Photo Popup - People you may know
-www.facebook.com##.rhcFooter
-
 
 #-----------------------------------------------------------
 #------------------------ Linkedin -------------------------
