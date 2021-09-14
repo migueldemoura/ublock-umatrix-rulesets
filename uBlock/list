@@ -78,8 +78,6 @@ www.linkedin.com##[data-id^="urn:li:lyndaCourse"]
 www.linkedin.com##.pv-member-badge__premium-upsell
 # Profile Right Bar - Add new skills with these courses
 www.linkedin.com##.pv-course-recommendations
-# Home Feed - Shared Updates
-www.linkedin.com##.feed-shared-update-v2:has(.feed-shared-header)
 
 
 #-----------------------------------------------------------
