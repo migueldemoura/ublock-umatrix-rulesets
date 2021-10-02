@@ -10,6 +10,7 @@
 
 100007688.collect.igodigital.com
 100007706.collect.igodigital.com
+100014787.collect.igodigital.com
 100015926.collect.igodigital.com
 100015928.collect.igodigital.com
 10049916.fls.doubleclick.net
@@ -1135,6 +1136,7 @@ analytics.osvaldo.pt
 analytics.prepublish.org
 analytics.pygmalios.com
 analytics.ravebo.nl
+analytics.rctiplus.com
 analytics.rlcdn.com
 analytics.robinhood.com
 analytics.ron.gr
@@ -1240,6 +1242,7 @@ api.mutinyhq.io
 api.myendpoint.io
 api.neuralad.net
 api.nylas.com
+api.official-coupons.com
 api.official-deals.co.uk
 api.omappapi.com
 api.parsely.com
@@ -1457,12 +1460,14 @@ b.t.tailtarget.com
 b.va.us.criteo.com
 b0.yahoo.co.jp
 b0e8.com
+b1-nydc1.zemanta.com
 b12.yahoo.co.jp
 b13.yahoo.co.jp
 b15.yahoo.co.jp
 b16.yahoo.co.jp
 b1h.zemanta.com
 b1sync.zemanta.com
+b1t-nydc1.zemanta.com
 b2c.com
 b3.mookie1.com
 b6227.xyz
@@ -1577,6 +1582,7 @@ bf57477xkp.bf.dynatrace.com
 bf74062onh.bf.dynatrace.com
 bf74432kky.bf.dynatrace.com
 bf81760wsn.bf.dynatrace.com
+bff.latam.com
 bfmio.com
 bfp.capitalone.com
 bh.contextweb.com
@@ -1683,6 +1689,7 @@ browsiprod.com
 bruisebaseball.com
 bs.nakanohito.jp
 bs.serving-sys.com
+bs.yandex.ru
 bsd.frontend.weborama.fr
 bskyb.demdex.net
 bsrv-qa.bidsxchange.com
@@ -1819,6 +1826,7 @@ catschickens.com
 causecherry.com
 cautiouscrate.com
 cautiouscredit.com
+cbcca.demdex.net
 cbdp.contobox.com
 cbe.capturehighered.net
 cbsi-d.openx.net
@@ -1835,6 +1843,8 @@ cd.connatix.com
 cd.ladsp.com
 cdata.carambo.la
 cdata.mpio.io
+cdc.112.2o7.net
+cdc.demdex.net
 cdg-v4.pops.fastly-insights.com
 cdiscount.demdex.net
 cdm.cursecdn.com
@@ -1928,6 +1938,7 @@ cdn.fuseplatform.net
 cdn.getsmartcontent.com
 cdn.glassboxcdn.com
 cdn.gotraffic.net
+cdn.granify.com
 cdn.gumgum.com
 cdn.heapanalytics.com
 cdn.holdonstranger.com
@@ -2085,6 +2096,7 @@ ce.lijit.com
 ce6v.xyz
 ced-ns.sascdn.com
 ced.sascdn.com
+cedarssinai.demdex.net
 cedexis-radar.net
 cedexis-test.akamaized.net
 cedexis-test.com
@@ -2093,6 +2105,7 @@ celtra.com
 cendantchg.demdex.net
 centrocdn.kiosk.tm
 centroclick.kiosk.tm
+centurylinkresidential.mpeasylink.com
 cerebro.edna.yahoo.net
 certify-js.alexametrics.com
 certify.alexametrics.com
@@ -2449,6 +2462,7 @@ csm.cxpublic.com
 csm.eu.criteo.net
 csm.fr.eu.criteo.net
 csm.nl.eu.criteo.net
+csp.global.ssl.fastly.net
 csp.withgoogle.com
 csp.yahoo.com
 cstatic.weborama.fr
@@ -2706,9 +2720,12 @@ demandbase.com
 demdex.net
 den-v4.pops.fastly-insights.com
 deployads.com
+desa.fkapi.net
+desb.fkapi.net
 desertedbreath.com
 desertedrat.com
 desiredirt.com
+desr.fkapi.net
 detailedglue.com
 detailedgovernment.com
 detailedkitten.com
@@ -2742,6 +2759,8 @@ digitru.st
 diplomahawaii.com
 direct-events-collector.spot.im
 dis.criteo.com
+discover.tt.omtrdc.net
+discoverfinancialservices.demdex.net
 discoveryplus.popin.cc
 discreetfield.com
 disney.demdex.net
@@ -3059,6 +3078,8 @@ experience-ap.piano.io
 experienceeggs.com
 expo9.exponential.com
 exponea.com
+expressllc.demdex.net
+expressllc.tt.omtrdc.net
 ext.nile.works
 extend.tv
 exuberantsoda.com
@@ -3154,6 +3175,7 @@ flashtalking.com
 flavordecision.com
 flimsycircle.com
 flimsythought.com
+flipkart.d1.sc.omtrdc.net
 floodprincipal.com
 flow.1passwordservices.com
 flow.api.drift.com
@@ -3175,6 +3197,7 @@ fo-api.omnitagjs.com
 fo-ssp.omnitagjs.com
 fo-static.omnitagjs.com
 foamybox.com
+for-v4.pops.fastly-insights.com
 fordeu.demdex.net
 forecasttiger.com
 foregoingfowl.com
@@ -3218,6 +3241,8 @@ frontend.id-visitors.com
 frontend.weborama.com
 frontend.weborama.fr
 frontierairlinesflyfrontiercom.mpeasylink.com
+frontiercomm.demdex.net
+frontiercomm.tt.omtrdc.net
 fsm1019.global.ssl.fastly.net
 ftjcfx.com
 ftl.goatcounter.com
@@ -3421,6 +3446,7 @@ gurgle.speedtest.net
 gurgle.techbargains.com
 gurgle.zdbb.net
 gurltransfer.com
+gvt2.com
 gw-dv.net
 gw.oribi.io
 gwallet.com
@@ -3451,6 +3477,7 @@ harborcub.com
 hardtofindmilk.com
 hargreaveslansdown.demdex.net
 hargreaveslansdownpl.tt.omtrdc.net
+harleydavidson.demdex.net
 hawkeye4.semetricmedia.com
 hb-api.omnitagjs.com
 hb-dot-valuad.appspot.com
@@ -3650,6 +3677,7 @@ impactcdn.com
 impactradius-event.com
 impactradius-tag.com
 imperfectinstrument.com
+impes.tradedoubler.com
 importedincrease.com
 importedpolice.com
 importlocate.com
@@ -4046,6 +4074,7 @@ lr-ingest.io
 lreprx-server.anyclip.com
 ls.hit.gemius.pl
 ls.skimresources.com
+luckyorange.net
 lululemonathleticacanadainc.demdex.net
 lumberamount.com
 lumpyleaf.com
@@ -4149,6 +4178,7 @@ match.sharethrough.com
 match.taboola.com
 matchcows.com
 matchid.adfox.yandex.ru
+matching.granify.com
 matching.ivitrack.com
 matching.kubient.net
 materialisticfan.com
@@ -11341,6 +11371,7 @@ oclasrv.com
 odb.outbrain.com
 odr.mookie1.com
 offerscdn.net
+official-coupons.com
 ojrq.net
 okkytnaadhsqnb.com
 okt.to
@@ -11546,6 +11577,7 @@ ping.hashnode.com
 ping.pdst.fm
 ping.ublock.org
 pingback.giphy.com
+pingback.issuu.com
 pingfore.qq.com
 pingjs.qq.com
 pingtas.qq.com
@@ -11860,6 +11892,7 @@ pkracv.com
 placed.com
 plainplayground.com
 plainrequest.com
+planeteers.globo.com
 plantdigestion.com
 plantpotato.com
 platform-api.sharethis.com
@@ -11932,6 +11965,7 @@ prebid-a.rubiconproject.com
 prebid-eu.creativecdn.com
 prebid-server-production.herokuapp.com
 prebid-server.rubiconproject.com
+prebid-stag.setupad.net
 prebid-us.creativecdn.com
 prebid.a-mo.net
 prebid.adnxs.com
@@ -11946,6 +11980,8 @@ preciouseffect.com
 preciousyoke.com
 prefixpatriot.com
 prefmgr-cookie.truste-svc.net
+premierfarnell.112.2o7.net
+premierfarnell.demdex.net
 presence.api.drift.com
 presentation-ams1.turn.com
 presetrabbits.com
@@ -11961,6 +11997,7 @@ prism.app-us1.com
 privacy-banner.shopifycloud.com
 privacy-mgmt.com
 privacy-policy.truste.com
+privacy.commander1.com
 privacy.crwdcntrl.net
 privacy.trustcommander.net
 privacyportal-br.onetrust.com
@@ -12233,6 +12270,7 @@ reporting.powerad.ai
 reports.booking.com
 reports.crashlytics.com
 reports.sdiapi.com
+res.media.net
 res.rbl.ms
 resolutekey.com
 reson8.com
@@ -12598,6 +12636,7 @@ sentry-videoplatform-00.rambler-co.ru
 sentry.ctgroup.io
 sentry.getadmiral.com
 sentry.indeed.com
+sentry.issuu.com
 sentry.matrix.org
 sentry.postmanlabs.com
 sentry.prod.atl-paas.net
@@ -12633,8 +12672,11 @@ sessioncam.com
 sessions.bugsnag.com
 settings-win.data.microsoft.com
 settings.crashlytics.com
+settings.luckyorange.net
 settings.service.exitbee.com
+setupad-d.openx.net
 setupad.com
+setupad.net
 sext.spxl.socy.es
 sf19-scmcdn-va.ibytedtos.com
 sg-pl.vizury.com
@@ -13100,6 +13142,8 @@ st.dynamicyield.com
 st.fullcircleinsights.com
 st.pba.xl.pt
 st.sp.aviasales.ru
+st1.dialogtech.com
+st2.dialogtech.com
 stack-sonar.com
 stackadapt.com
 stackpath-map3.cedexis-test.com
@@ -13119,6 +13163,7 @@ standingsack.com
 standtrouble.com
 startappservice.com
 startribune.zeustechnology.com
+stas.outbrain.com
 stat-track.com
 stat.appmifile.com
 stat.eagleplatform.com
@@ -13201,6 +13246,7 @@ statsa.nativeroll.tv
 statsb.nativeroll.tv
 statse.webtrendslive.com
 statuesquebrush.com
+stcdproducer.dialogtech.com
 steadfastsound.com
 steadfastsystem.com
 steamsecretary.com
@@ -13681,6 +13727,7 @@ tracker.remp.impresa.pt
 tracker.rossmedco.com
 tracker.samplicio.us
 tracker.torrentcity.net
+tracker.unbxdapi.com
 tracker.uniotaku.com
 tracking.adalyser.com
 tracking.admarketplace.net
@@ -13760,6 +13807,7 @@ tritetongue.com
 trk-sp.sele.co
 trk.clinch.co
 trk.kissmetrics.io
+trk.mail.ru
 trk.ometria.com
 trk.techtarget.com
 trkapi.impact.com
@@ -14037,6 +14085,7 @@ vt.myvisualiq.net
 vueling-app.quantummetric.com
 vungle.com
 vuukle.com
+vwonwkaqvq-a.global.ssl.fastly.net
 vy95e.xyz
 vz-cdn.trafficjunky.net
 w.sharethis.com
@@ -14170,6 +14219,7 @@ ws.sessioncam.com
 ws.zoominfo.com
 ws10.hotjar.com
 ws11.hotjar.com
+ws13.hotjar.com
 ws19.hotjar.com
 ws20.hotjar.com
 ws21.hotjar.com
@@ -14212,6 +14262,7 @@ www.bizographics.com
 www.bncpm.com
 www.bnhtml.com
 www.bnserving.com
+www.bugherd.com
 www.camsoda1.com
 www.civicscience.com
 www.clarity.ms
@@ -14259,6 +14310,7 @@ www.kqzyfj.com
 www.lbaybxwiklnfe.com
 www.linkmink.com
 www.linksynergy.com
+www.luckyorange.net
 www.marketo.com
 www.mcaybfrnrqpmv.com
 www.mczbf.com
