@@ -1242,6 +1242,7 @@ api.demandbase.com
 api.dmp.y-track.com
 api.drift.com
 api.early-birds.fr
+api.exponea.com
 api.flocktory.com
 api.flyertown.ca
 api.found.ee
@@ -1270,6 +1271,7 @@ api.nylas.com
 api.official-coupons.com
 api.official-deals.co.uk
 api.omappapi.com
+api.openreplay.com
 api.parsely.com
 api.partnerize.com
 api.permutive.com
@@ -1474,6 +1476,7 @@ axiomaticalley.com
 ay.delivery
 ayads.co
 az416426.vo.msecnd.net
+azmatch.adsrvr.org
 azullinhasaereas.tt.omtrdc.net
 b-code.liadm.com
 b.6sc.co
@@ -2039,6 +2042,7 @@ cdn.optimizely.com
 cdn.oribi.io
 cdn.otstatic.com
 cdn.p-n.io
+cdn.pagesense.io
 cdn.parsely.com
 cdn.pbgrd.com
 cdn.pbstck.com
@@ -2542,6 +2546,7 @@ csm.eu.criteo.net
 csm.fr.eu.criteo.net
 csm.nl.eu.criteo.net
 csp.global.ssl.fastly.net
+csp.walmart.com
 csp.withgoogle.com
 csp.yahoo.com
 cstatic.weborama.fr
@@ -2867,6 +2872,7 @@ divehope.com
 djtflbt20bdde.cloudfront.net
 djv99sxoqpv11.cloudfront.net
 dk4ywix.com
+dl.cws.xfinity.com
 dlt-beacon.dynatrace-managed.com
 dlx.addthis.com
 dm-eu.hybrid.ai
@@ -2945,6 +2951,7 @@ dsp.io
 dsp.logly.co.jp
 dsp.nrich.ai
 dsp.v.fwmrm.net
+dss-dl-prod.aws-origin.xfinity.com
 dstillery.com
 dsum-sec.casalemedia.com
 dsum.casalemedia.com
@@ -2968,6 +2975,7 @@ dw7nrwnn2bkh1.cloudfront.net
 dwin1.com
 dwin2.com
 dx.frontend.weborama.com
+dx.mountain.com
 dx.steelhousemedia.com
 dynamic.criteo.com
 dynamicyield.com
@@ -3547,6 +3555,7 @@ grow.clearbitjs.com
 grsm.io
 gru-v4.pops.fastly-insights.com
 grupoportoeditora.emsecure.net
+gs.mountain.com
 gscontxt.net
 gscounters.eu1.gigya.com
 gslbeacon.lijit.com
@@ -3627,6 +3636,7 @@ headyhook.com
 healthengine.demdex.net
 heapanalytics.com
 heartbeat.flickr.com
+heatmap-quota.abtasty.com
 heatmap.com
 heatmap.it
 heavenlybike.com
@@ -11397,6 +11407,8 @@ ms-apps.haaretz.com
 ms-apps.themarker.com
 ms-trackingapi.phenompeople.com
 ms.feedly.com
+mscom.demdex.net
+msftenterprise.sc.omtrdc.net
 msg-005ede784cfbd965e.insurads.com
 msg-006abf8a278def76b.insurads.com
 msg-05200849b372b879e.insurads.com
@@ -11617,6 +11629,7 @@ orbit.tm-awx.com
 ord-v4.pops.fastly-insights.com
 origin.acuityplatform.com
 orreports.report-uri.com
+ort.wellsfargo.com
 osano.com
 osimg.nbcuni.com
 osl-v4.pops.fastly-insights.com
@@ -11680,6 +11693,8 @@ pagead46.l.doubleclick.net
 pages-stats.rbl.ms
 pages03.net
 pages04.net
+pagesense-collect.zoho.com
+pagesense.io
 pagne4cham4hrobl.com
 paht.tech
 paleleaf.com
@@ -12332,6 +12347,7 @@ px.liftcertain.com
 px.marchex.io
 px.moatads.com
 px.more-data.ru
+px.mountain.com
 px.owneriq.net
 px.powerlinks.com
 px.spiceworks.com
@@ -12589,6 +12605,7 @@ rta2.newzit.com
 rtax.criteo.com
 rtb-csync.smartadserver.com
 rtb-eu.mfadsrvr.com
+rtb-usw.mfadsrvr.com
 rtb.4finance.com
 rtb.adentifi.com
 rtb.fr.eu.criteo.com
@@ -12790,6 +12807,7 @@ scrubsky.com
 scrubswim.com
 sd.iperceptions.com
 sd.turn.com
+sdata.wiley.com
 sddan.com
 sddan.mgr.consensu.org
 sdhfbvd.com
@@ -13784,6 +13802,7 @@ tapestry.tapad.com
 tapfiliate.com
 tapi.optimizely.com
 tapjoy.com
+target.microsoft.com
 target.mixi.media
 target.nejm.org
 target.smi2.ru
@@ -14356,6 +14375,8 @@ vodafonein.demdex.net
 vodafoneindia.tt.omtrdc.net
 vodafonept.demdex.net
 vodafonept.sc.omtrdc.net
+vodafoneuk.demdex.net
+vodafoneuk.tt.omtrdc.net
 vofzpwh.com
 voicefive.com
 voicevegetable.com
@@ -14404,6 +14425,7 @@ washingtontimes-d.openx.net
 wateryvan.com
 watson.telemetry.microsoft.com
 waust.at
+wbg.tt.omtrdc.net
 wbtrk.net
 wc.yahoodns.net
 wcs.naver.com
@@ -14414,6 +14436,7 @@ wdgnewfivethirtyeight.112.2o7.net
 we2.byside.com
 wearywater.com
 web-analytics.engagio.com
+web-t.9gag.com
 web.adblade.com
 web.frontapp.com
 web.hb.ad.cpe.dotomi.com
@@ -14470,6 +14493,7 @@ widget.privy.com
 widget.secure.ownlocal.com
 widget.sellwild.com
 widget.us.criteo.com
+widgets.abtasty.com
 widgets.amung.us
 widgets.getsitecontrol.com
 widgets.legalmonster.com
@@ -14478,6 +14502,8 @@ widgets.webengage.com
 wigglygeese.com
 wildbit.sinter-collect.com
 wildernesscamera.com
+wileypublishing.demdex.net
+wileypublishing.sc.omtrdc.net
 windofaeolus.com
 wirecomic.com
 wisepops.com
@@ -14805,6 +14831,7 @@ zippyfrog.co
 zlp6s.pw
 zn6fetw4rxykndjoz-southwest.siteintercept.qualtrics.com
 znabfhlf0lpalyxnz-edreamsodigeo.siteintercept.qualtrics.com
+zohotagmanager.cdn.pagesense.io
 zoominfo.com
 zqtk.net
 zukxd6fkxqn.com
