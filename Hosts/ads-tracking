@@ -180,14 +180,17 @@ a.wp-e.net
 a.xfreeservice.com
 a1.adform.net
 a1.dnbizcdn.com
+a1172.casalemedia.com
 a11952281403.cdn.optimizely.com
 a1854.casalemedia.com
 a1859010085.cdn.optimizely.com
 a1861.casalemedia.com
 a2.adform.net
+a2232.casalemedia.com
 a248.e.akamai.net
 a2dfp.net
 a4.smi2.ru
+a4484.casalemedia.com
 a4528.casalemedia.com
 a4543.casalemedia.com
 a4621041136.cdn.optimizely.com
@@ -1220,6 +1223,7 @@ anxiousapples.com
 any-v4.pops.fastly-insights.com
 aorta.clickagy.com
 ap.lijit.com
+apac.vesta.io
 apathetictheory.com
 apex.go.sonobi.com
 api-54-202-255-168.b2c.com
@@ -1257,9 +1261,11 @@ api.dmp.y-track.com
 api.drift.com
 api.early-birds.fr
 api.exponea.com
+api.feedad.com
 api.flocktory.com
 api.flyertown.ca
 api.found.ee
+api.fpjs.io
 api.froged.com
 api.getdrip.com
 api.growingio.com
@@ -1643,6 +1649,7 @@ bf19952pmx.bf.dynatrace.com
 bf33dfdd.de.ioam.de
 bf40164ces.bf.dynatrace.com
 bf57477xkp.bf.dynatrace.com
+bf58341inw.bf.dynatrace.com
 bf74062onh.bf.dynatrace.com
 bf74432kky.bf.dynatrace.com
 bf81760wsn.bf.dynatrace.com
@@ -2415,6 +2422,7 @@ collector.tonaton.com
 collector.unsplash.com
 collector.wassenaar.org
 collector.xhamster.com
+collectorsvc.apac.vesta.io
 colorfulafterthought.com
 colossalchance.com
 colossusssp.com
@@ -2792,6 +2800,7 @@ data.ad-score.com
 data.adserver.ai
 data.adsrvr.org
 data.adxcel-ec2.com
+data.bilibili.com
 data.cdnbasket.net
 data.coremetrics.com
 data.flurry.com
@@ -3029,6 +3038,7 @@ dw.impact-ad.jp
 dw7nrwnn2bkh1.cloudfront.net
 dwin1.com
 dwin2.com
+dx.frontend-preprod.weborama.com
 dx.frontend.weborama.com
 dx.mountain.com
 dx.steelhousemedia.com
@@ -3405,6 +3415,7 @@ foxnews.demdex.net
 foxypp.com
 fpa-cdn.arstechnica.com
 fpa-events.arstechnica.com
+fpjs.io
 fqtag.com
 fra-01.braze.eu
 fra-col.eum-appdynamics.com
@@ -3929,6 +3940,7 @@ includemodal.global.ssl.fastly.net
 incoming.telemetry.mozilla.org
 incrediblesugar.com
 independent.demdex.net
+index-winners-eu-west-1-rtb.adroll.com
 indexww.com
 indigoaviation.demdex.net
 indigoaviation.sc.omtrdc.net
@@ -3998,6 +4010,7 @@ invitejs.trustpilot.com
 inviterabbits.com
 invitesugar.com
 io.innertrends.com
+ioadx.com
 ioam.de
 iociley.com
 ionnmjdsf.com
@@ -12294,6 +12307,7 @@ prebid.a-mo.net
 prebid.adnxs.com
 prebid.bidstreamserver.com
 prebid.digitru.st
+prebid.ioadx.com
 prebid.media.net
 prebid.org
 prebid.s-onetag.com
