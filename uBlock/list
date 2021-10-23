@@ -26,6 +26,11 @@
 ||www.bloomberg.com/*/xhr/api/v1/collector
 ||www.booking.com/js_tracking
 ||www.instagram.com/ajax/bz
+||api.academia.edu/v0/pv
+||www.booking.com/c360/v1/track
+||www.booking.com/js_tracking
+||www.booking.com/navigation_times
+||www.booking.com/sendlayoutevents
 observador.pt##.premium-paywall
 
 #-----------------------------------------------------------
