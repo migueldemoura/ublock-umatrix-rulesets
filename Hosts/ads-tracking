@@ -508,6 +508,7 @@ ads.yahoo.com
 ads.yap.yahoo.com
 ads.yieldmo.com
 ads.yurhost.tk
+ads01.groovinads.com
 ads1.knxs.net
 ads3.admatic.com.tr
 ads3.mthsense.com
@@ -526,6 +527,7 @@ adserver.adtech.advertising.com
 adserver.adtech.de
 adserver.adtechus.com
 adserver.ai
+adserver.gnetproject.com
 adserver.juicyads.com
 adserver.pm
 adserver.pressboard.ca
@@ -777,6 +779,7 @@ advertising-cdn.dpgmedia.cloud
 advertising.com
 adview.cn
 advividnetwork.com
+adwmg.com
 adx.adform.net
 adx.c.appier.net
 adx.dable.io
@@ -1318,6 +1321,7 @@ api.pubgenius.io
 api.pushnami.com
 api.raygun.io
 api.repixel.co
+api.retargetly.com
 api.rlcdn.com
 api.rollbar.com
 api.rudderlabs.com
@@ -1334,6 +1338,7 @@ api.tenmges.vice.com
 api.trackuity.com
 api.trafficguard.ai
 api.useinsider.com
+api.useproof.com
 api.vidora.com
 api.viglink.com
 api.vuukle.com
@@ -1371,6 +1376,7 @@ app.matheranalytics.com
 app.outreach.io
 app.pendo.io
 app.relateiq.com
+app.retargetly.com
 app.returnpath.net
 app.yesware.com
 appboycdn.com
@@ -1428,6 +1434,7 @@ assets.bounceexchange.com
 assets.freshsales.io
 assets.growingio.com
 assets.jivox.com
+assets.moat.com
 assets.pixlee.com
 assets.quantcount.com
 assets.revcontent.com
@@ -1484,6 +1491,7 @@ auditude.com
 aufp.io
 augur.io
 aunica.d1.sc.omtrdc.net
+auth.goadopt.io
 autodesk.demdex.net
 autodesk.tt.omtrdc.net
 autolinkmaker.itunes.apple.com
@@ -1741,6 +1749,7 @@ boneregret.com
 bongacams.com
 boomtrain.com
 boostads.site
+boostbox-banner.s3.amazonaws.com
 boot.pbstck.com
 bootstrap.api.drift.com
 bootsuk.tt.omtrdc.net
@@ -2180,6 +2189,7 @@ cdn.undertone.com
 cdn.unid.go.com
 cdn.uplift-platform.com
 cdn.usefathom.com
+cdn.useproof.com
 cdn.valuad.cloud
 cdn.viglink.com
 cdn.vizury.com
@@ -2312,6 +2322,7 @@ clearchannel.demdex.net
 clearcomb.com
 cleverlinux.com
 clevernt.com
+cleverwebserver.com
 click.abctrack.bid
 click.email-calzedonia.com
 click.email-intimissimi.com
@@ -2957,6 +2968,7 @@ digitru.st
 diplomahawaii.com
 direct-events-collector.spot.im
 dis.criteo.com
+disclaimer-api.goadopt.io
 discover.tt.omtrdc.net
 discoverfinancialservices.demdex.net
 discoveryplus.popin.cc
@@ -3677,6 +3689,7 @@ greyinstrument.com
 grid-data.bidswitch.net
 grid.bidswitch.net
 grmtech.net
+groovinads.com
 grow.clearbitjs.com
 grsm.io
 gru-v4.pops.fastly-insights.com
@@ -4029,6 +4042,7 @@ insight.adsrvr.org
 insight.fonecta.fi
 insight.sitefinity.com
 insightexpressai.com
+insights-collector.newrelic.com
 insights.bizrate.com
 insitez.blob.core.windows.net
 inskinad.com
@@ -4311,6 +4325,7 @@ listrakbi.com
 literatelight.com
 litix.io
 live-detector.svc.transifex.net
+live-visitor-counts.herokuapp.com
 live.rezync.com
 live.sekindo.com
 liveintent.com
@@ -4649,6 +4664,8 @@ mindlessmark.com
 minormeeting.com
 mir-s3-cdn-cf.behance.net
 miscreantmine.com
+misumi.d2.sc.omtrdc.net
+misumi.demdex.net
 mixedreading.com
 mixpanel.com
 mjca-yijws.global.ssl.fastly.net
@@ -11513,6 +11530,7 @@ mmsngaa.sc.omtrdc.net
 mmstat.com
 mng-ads.com
 mnl-v4.pops.fastly-insights.com
+moat.com
 moatads.com
 moatpixel.com
 mobile-collector.newrelic.com
@@ -11587,6 +11605,7 @@ mundanepollution.com
 murkymeeting.com
 musthird.com
 mutinyhq.io
+mv.outbrain.com
 mwzeom.zeotap.com
 mx-gmtdmp.mookie1.com
 mxp-v4.pops.fastly-insights.com
@@ -12503,6 +12522,7 @@ pulsar.ebay.com
 pulsar.ebay.de
 pulse.delta.com
 pulse360.com
+pulselb.relap.info
 pultegroup.demdex.net
 pultegroup.tt.omtrdc.net
 pumaeu18791z.btttag.com
@@ -12828,6 +12848,7 @@ rum-static.pingdom.net
 rum.conde.io
 rum.optimizely.com
 rumiview.com
+rumtest-aka.ts.mtvnservices.com
 run.adrizer.com
 rundsp.com
 ruptly-d.openx.net
@@ -12852,6 +12873,7 @@ s.adroll.com
 s.ads.smartadserver.com
 s.adtelligent.com
 s.amazon-adsystem.com
+s.apprl.com
 s.arclk.net
 s.beop.io
 s.btstatic.com
@@ -12999,6 +13021,7 @@ script.hotjar.com
 script.ioam.de
 script.tapfiliate.com
 scripts.attributionapp.com
+scripts.cleverwebserver.com
 scripts.demandbase.com
 scripts.kissmetrics.com
 scripts.simpleanalyticscdn.com
@@ -13097,6 +13120,7 @@ sellwild.com
 selo.confio.pt
 semasio.net
 send.microad.jp
+sender.clevernt.com
 sentry-cdn.com
 sentry-videoplatform-00.rambler-co.ru
 sentry.csdn.net
@@ -14425,6 +14449,7 @@ ue.flipboard.com
 ugdturner.com
 uhf.microsoft.com
 ui.clevernt.com
+ui.cleverwebserver.com
 ui.staples-sparx.com
 uib.ff.avast.com
 uid.mavencoalition.io
@@ -14579,6 +14604,7 @@ vars.hotjar.com
 vast.adsafeprotected.com
 vast.emxdgt.com
 vast.sunmedia.tv
+vastb.adwmg.com
 vastcpm.com
 vc.hotjar.io
 vdms-ssl.cedexis-test.com
@@ -14661,6 +14687,7 @@ vpaid.pubmatic.com
 vpaid.springserve.com
 vq1qi.pw
 vra.outbrain.com
+vsvippi01.rightnowtech.com
 vt.myvisualiq.net
 vueling-app.quantummetric.com
 vungle.com
