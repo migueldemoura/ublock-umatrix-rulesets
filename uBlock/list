@@ -12,6 +12,7 @@
 #------------------ General Ads & Tracking -----------------
 #-----------------------------------------------------------
 ||accounts.google.com/_/common/diagnostics
+||api.academia.edu/v0/pv
 ||beacons*.gvt*.com/domainreliability
 ||cloud.digitalocean.com/frontend-metrics/
 ||cnet.com/g00/
@@ -24,13 +25,13 @@
 ||www.amazon.com/ah/ajax/record-impressions
 ||www.amazon.com/gp/r.html
 ||www.bloomberg.com/*/xhr/api/v1/collector
-||www.booking.com/js_tracking
-||www.instagram.com/ajax/bz
-||api.academia.edu/v0/pv
 ||www.booking.com/c360/v1/track
+||www.booking.com/js_tracking
 ||www.booking.com/js_tracking
 ||www.booking.com/navigation_times
 ||www.booking.com/sendlayoutevents
+||www.instagram.com/ajax/bz
+||www.squarespace.com/api/track/
 observador.pt##.premium-paywall
 
 #-----------------------------------------------------------
