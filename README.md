@@ -1,8 +1,6 @@
 # Hosts and uBlock Rulesets
 
-Personal hosts files and uBlock rulesets.
-
-Please note that the uBlock rulesets are very opinionated.
+Personal hosts files and uBlock ruleset.
 
 ## Highlights
 
