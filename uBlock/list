@@ -27,66 +27,7 @@
 ||www.bloomberg.com/*/xhr/api/v1/collector
 ||www.booking.com/c360/v1/track
 ||www.booking.com/js_tracking
-||www.booking.com/js_tracking
 ||www.booking.com/navigation_times
 ||www.booking.com/sendlayoutevents
 ||www.instagram.com/ajax/bz
 ||www.squarespace.com/api/track/
-observador.pt##.premium-paywall
-
-#-----------------------------------------------------------
-#------------------------- Feedly --------------------------
-#-----------------------------------------------------------
-# Left, Top Bar - Filters
-feedly.com###filtertab_header
-# Left, Bottom Bar - Integrations
-feedly.com###integrationstab_header
-# Left, Bottom Bar - Share collections
-feedly.com###librarytab
-# Left, Bottom Bar - Support
-feedly.com###supporttab
-# Upgrade button
-feedly.com##.pro
-
-#-----------------------------------------------------------
-#------------------------ Linkedin -------------------------
-#-----------------------------------------------------------
-# Prevent 'seen' status in Conversations
-||www.linkedin.com/voyager/api/messaging/badge?action=markAllItemsAsSeen
-||www.linkedin.com/voyager/api/messaging/conversations/
-@@||www.linkedin.com/voyager/api/messaging/conversations/*/events
-
-# Prevent 'is typing' status in Conversations
-||www.linkedin.com/voyager/api/messaging/conversations?action=typing
-
-# Home Left Bar - Free Upgrade to Premium
-www.linkedin.com##.premium-upsell-link
-# Home Right Bar - Add to your feed
-www.linkedin.com##.feed-follows-module
-# Home - Jobs recommended for you
-www.linkedin.com##[data-id^="urn:li:jobPosting"]
-www.linkedin.com##[data-id^="urn:li:aggregate:(urn:li:jobPosting"]
-# Home - Improve your * skills
-www.linkedin.com##[data-id^="urn:li:lyndaCourse"]
-# Profile Badge - Premium Upsell
-www.linkedin.com##.pv-member-badge__premium-upsell
-www.linkedin.com##.feed-identity-module__anchored-widget--premium-upsell
-# Profile Right Bar - Add new skills with these courses
-www.linkedin.com##.pv-course-recommendations
-
-#-----------------------------------------------------------
-#------------------------- Youtube -------------------------
-#-----------------------------------------------------------
-||googlevideo.com/videogoodput
-||www.youtube.com/get_endscreen
-||www.youtube.com/get_midroll_info
-||www.youtube.com/service_ajax
-
-www.youtube.com##.ytd-popup-container
-www.youtube.com###end
-www.youtube.com###guide-button
-www.youtube.com###related
-www.youtube.com##ytd-browse[page-subtype="home"]
-www.youtube.com##ytd-guide-section-renderer
-www.youtube.com##ytd-guide-signin-promo-renderer
-www.youtube.com##ytd-mini-guide-renderer
