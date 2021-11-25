@@ -10,6 +10,7 @@
 
 100007688.collect.igodigital.com
 100007706.collect.igodigital.com
+100008436.collect.igodigital.com
 100014787.collect.igodigital.com
 100015926.collect.igodigital.com
 100015928.collect.igodigital.com
@@ -24,7 +25,10 @@
 1049445407.privacysandbox.googleadservices.com
 1059866827.privacysandbox.googleadservices.com
 1060694.collect.igodigital.com
+1069770364.privacysandbox.googleadservices.com
+1071783566.privacysandbox.googleadservices.com
 10799913506.privacysandbox.googleadservices.com
+10964290.collect.igodigital.com
 110006539.collect.igodigital.com
 111.91.190.35.bc.googleusercontent.com
 112.2o7.net
@@ -82,6 +86,7 @@
 33across.com
 353676082.privacysandbox.googleadservices.com
 360yield.com
+362577901.privacysandbox.googleadservices.com
 36a5b7eb2808.com
 396-lrb-524.mktoresp.com
 39a97f69.de.ioam.de
@@ -96,6 +101,8 @@
 4235225.fls.doubleclick.net
 4312274.fls.doubleclick.net
 4340-40.chat.api.drift.com
+439673399.privacysandbox.googleadservices.com
+448658307.privacysandbox.googleadservices.com
 45123878-prod.rfksrv.com
 45123879-prod.rfksrv.com
 475666642.privacysandbox.googleadservices.com
@@ -132,6 +139,7 @@
 7336.engine.mobileapptracking.com
 741b2a0bd043.cdn4.forter.com
 742593fe.de.ioam.de
+768703989.privacysandbox.googleadservices.com
 788832623.privacysandbox.googleadservices.com
 792807980.privacysandbox.googleadservices.com
 79423.analytics.edgekey.net
@@ -143,15 +151,20 @@
 7qtrjwymmnqu.dontexist.net
 8005607.fls.doubleclick.net
 807474066.privacysandbox.googleadservices.com
+812940769.privacysandbox.googleadservices.com
 816561735.privacysandbox.googleadservices.com
 8168974.fls.doubleclick.net
+818004073.privacysandbox.googleadservices.com
 8209809.fls.doubleclick.net
 82o9v830.com
+831901313.privacysandbox.googleadservices.com
 832239217.privacysandbox.googleadservices.com
 8391443.fls.doubleclick.net
 84.249.186.35.bc.googleusercontent.com
 853484978.privacysandbox.googleadservices.com
+856734384.privacysandbox.googleadservices.com
 858cee78.de.ioam.de
+863905599.privacysandbox.googleadservices.com
 866535424.privacysandbox.googleadservices.com
 867030291.privacysandbox.googleadservices.com
 8705590.fls.doubleclick.net
@@ -164,7 +177,9 @@
 938675917.privacysandbox.googleadservices.com
 9509628.fls.doubleclick.net
 958674130.privacysandbox.googleadservices.com
+972240864.privacysandbox.googleadservices.com
 973687484.privacysandbox.googleadservices.com
+981830880.privacysandbox.googleadservices.com
 981843084.privacysandbox.googleadservices.com
 982743647.privacysandbox.googleadservices.com
 9876505.fls.doubleclick.net
@@ -2588,6 +2603,7 @@ collector-1564.tvsquared.com
 collector-3309.tvsquared.com
 collector-3549.tvsquared.com
 collector-3564.tvsquared.com
+collector-6825.tvsquared.com
 collector-7264.tvsquared.com
 collector-7376.tvsquared.com
 collector-8132.tvsquared.com
@@ -2987,6 +3003,7 @@ d35u1vg1q28b3w.cloudfront.net
 d35vb5cccm4xzp.cloudfront.net
 d36kespjlw4605.cloudfront.net
 d3821qbxooayyy.cloudfront.net
+d3aiy6aqoa3ykz.cloudfront.net
 d3al52d8cojds7.cloudfront.net
 d3c3cq33003psk.cloudfront.net
 d3c8j8snkzfr1n.cloudfront.net
@@ -4608,6 +4625,9 @@ leonodikeu9sj10.com
 lettucecopper.com
 lettucelimit.com
 levelbehavior.com
+levis.demdex.net
+levis.tt.omtrdc.net
+leviseu2012.d2.sc.omtrdc.net
 lewdwind.com
 lfeeder.com
 lfztr7k7mrsbwx5p62wa-pqdkd6-322746a5e-clientnsv4-s.akamaihd.net
@@ -14453,6 +14473,7 @@ sync2.resetdigital.co
 sync3.adsniper.ru
 sync3.sniperlog.ru
 synce.user-red.com
+synchrobox.adswizz.com
 synchroscript.deliveryengine.adswizz.com
 syndication.exoclick.com
 syndication.exosrv.com
@@ -14843,6 +14864,7 @@ tracker-api.my.com
 tracker.adreadyclick.com
 tracker.ads.sportradar.com
 tracker.affirm.com
+tracker.ampush.io
 tracker.anunzzio.com
 tracker.brlnr.de
 tracker.bt.uol.com.br
