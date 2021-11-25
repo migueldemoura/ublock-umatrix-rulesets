@@ -143,6 +143,7 @@
 7qtrjwymmnqu.dontexist.net
 8005607.fls.doubleclick.net
 807474066.privacysandbox.googleadservices.com
+816561735.privacysandbox.googleadservices.com
 8168974.fls.doubleclick.net
 8209809.fls.doubleclick.net
 82o9v830.com
@@ -164,11 +165,13 @@
 9509628.fls.doubleclick.net
 958674130.privacysandbox.googleadservices.com
 973687484.privacysandbox.googleadservices.com
+981843084.privacysandbox.googleadservices.com
 982743647.privacysandbox.googleadservices.com
 9876505.fls.doubleclick.net
 9876748.fls.doubleclick.net
 988382855.privacysandbox.googleadservices.com
 9963925.fls.doubleclick.net
+998942650.privacysandbox.googleadservices.com
 9qefnm.tdum.alibaba.com
 a-ads.com
 a-ams.1rx.io
@@ -548,6 +551,7 @@ ads.suburbview.net
 ads.supplyframe.com
 ads.surftown.dk
 ads.teleculinaria.pt
+ads.the-sun.com
 ads.themoneytizer.com
 ads.thesun.co.uk
 ads.thetimes.co.uk
@@ -1592,6 +1596,7 @@ autodesk.demdex.net
 autodesk.tt.omtrdc.net
 autolinkmaker.itunes.apple.com
 automaticflock.com
+autonomous-analytics-qffztaoryq-uc.a.run.app
 autopilothq.com
 aux.fqtag.com
 avads.net
@@ -2002,6 +2007,7 @@ c.sharethis.mgr.consensu.org
 c.shpg.org
 c.singular.net
 c.statcounter.com
+c.strava.com
 c.t.tailtarget.com
 c.trello.com
 c.tvpixel.com
@@ -2533,18 +2539,22 @@ cm.tns-counter.ru
 cmail1.com
 cmh-v4.pops.fastly-insights.com
 cmp-consent-tool.privacymanager.io
+cmp.cdn.the-sun.com
 cmp.cio.com
 cmp.dmgmediaprivacy.co.uk
 cmp.faktor.mgr.consensu.org
 cmp.impresa.pt
 cmp.osano.com
 cmp.tech426.com
+cmp.techhive.com
 cmp.uniconsent.com
 cmpv2.sp-stage.net
+cmpv2.techhive.com
 cmr5fk.tdum.alibaba.com
 cms.analytics.yahoo.com
 cms.quantserve.com
 cnn.sdk.beemray.com
+cnnx.link
 cnt.fout.jp
 cnt.my
 cnt.xhamster.com
@@ -3081,6 +3091,7 @@ de.ioam.de
 de.tynt.com
 de1-bid.adsrvr.org
 de17a.com
+de2-bid.adsrvr.org
 deadpantruck.com
 deafeningdock.com
 debonairdust.com
@@ -3109,6 +3120,7 @@ delivery.adrecover.com
 delivery.ambient-platform.com
 delivery.pbgrd.com
 delivery.pubgenius.io
+delivery.r2b2.io
 deliveryengine.adswizz.com
 delta.demdex.net
 deltaairlines.tt.omtrdc.net
@@ -3302,6 +3314,7 @@ dx.frontend-preprod.weborama.com
 dx.frontend.weborama.com
 dx.mountain.com
 dx.steelhousemedia.com
+dy9z4910shqac.cloudfront.net
 dynamic.criteo.com
 dynamicyield.com
 dynatrace.att.com
@@ -3512,6 +3525,7 @@ events.launchdarkly.com
 events.mapbox.com
 events.redditmedia.com
 events.release.narrativ.com
+events.servenobids.com
 events.squarespace.com
 events.uber.com
 everestjs.net
@@ -3895,6 +3909,7 @@ go.skimlinks.com
 go.skimresources.com
 go.sonobi.com
 go.strpjmp.com
+go.taylorandfrancis.com
 go.theregister.com
 go.toutapp.com
 go1.aniview.com
@@ -4442,6 +4457,7 @@ js.appboycdn.com
 js.bizographics.com
 js.bronto.com
 js.callrail.com
+js.cnnx.link
 js.cookieless-data.com
 js.createsend1.com
 js.datadome.co
@@ -4887,6 +4903,7 @@ mb.moatads.com
 mbid.marfeelrev.com
 mboxedge.tt.omtrdc.net
 mboxedge31.tt.omtrdc.net
+mboxedge34.tt.omtrdc.net
 mboxedge37.tt.omtrdc.net
 mc.tritondigital.com
 mc.webvisor.org
@@ -12086,6 +12103,7 @@ o449295.ingest.sentry.io
 o478484.ingest.sentry.io
 o51786.ingest.sentry.io
 o55869.ingest.sentry.io
+o76154.ingest.sentry.io
 o828979.ingest.sentry.io
 o857990.ingest.sentry.io
 o918693.ingest.sentry.io
@@ -12218,6 +12236,7 @@ p41683.cedexis-test.com
 p42939.cedexis-test.com
 p7hwvdb4p.com
 pa.rxthdr.com
+pac.the-sun.com
 pac.thesun.co.uk
 pac.thetimes.co.uk
 paddleangle.com
@@ -12823,6 +12842,7 @@ proc.ad.cpe.dotomi.com
 prod-east-alweb-mt.rfksrv.com
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 prod-js.aws.y-track.com
+prod-m-node-3113.ssp.advertising.com
 prod-origin.truendo.com
 prod.adspsp.com
 prod.bidr.io
@@ -13548,6 +13568,7 @@ semasio.net
 send.microad.jp
 sender.clevernt.com
 sentry-cdn.com
+sentry-frankfurt.kitchenstories.io
 sentry-videoplatform-00.rambler-co.ru
 sentry.csdn.net
 sentry.ctgroup.io
@@ -13576,6 +13597,7 @@ servedby.revive-adserver.net
 servedbyadbutler.com
 servedbyopenx.com
 servenobid.com
+servenobids.com
 server.ethicalads.io
 server.fuse.analytics-engine.com
 server.seadform.net
@@ -13973,6 +13995,7 @@ sombersquirrel.com
 somberstructure.com
 sombersurprise.com
 sombrero.yahoo.net
+sommelier.futurehybrid.tech
 somni.alaskaair.com
 somnistats.jetblue.com
 somniture.scotiabank.com
@@ -14505,6 +14528,7 @@ tag-dyn.omnitagjs.com
 tag-manager.kiwi.com
 tag.1rx.io
 tag.adaraanalytics.com
+tag.adkernel.com
 tag.aticdn.net
 tag.bounceexchange.com
 tag.cartrawler.com
