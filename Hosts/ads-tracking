@@ -8,6 +8,7 @@
 # License: https://github.com/migueldemoura/ublock-umatrix-rulesets/blob/master/LICENSE.md
 #
 
+0818480808.privacysandbox.googleadservices.com
 100007688.collect.igodigital.com
 100007706.collect.igodigital.com
 100008436.collect.igodigital.com
@@ -331,6 +332,8 @@ ac.realvu.net
 acc-v4.pops.fastly-insights.com
 accengage.com
 accenture.com.ssl.sc.omtrdc.net
+accenture.demdex.net
+accenture.tt.omtrdc.net
 accountinsight.cloud
 accounts.doubleclick.net
 acdn.adnxs-simple.com
@@ -340,6 +343,7 @@ acjs.aliyun.com
 acofrnsr44es3954b.com
 acousticairplane.com
 acousticsapparel.com
+acq-3pas.admatrix.jp
 acquireattention.com
 acridtwist.com
 acsbap.com
@@ -435,6 +439,7 @@ ademails.com
 adengine.snigelweb.com
 adentifi.com
 adeventtracker.spotify.com
+adfarm.mediaplex.com
 adfarm1.adition.com
 adform.net
 adfox.ru
@@ -462,6 +467,7 @@ admarketplace.net
 admaster.com
 admaster.com.cn
 admatic.com.tr
+admatrix.jp
 admedo.com
 admixer.net
 admo.tv
@@ -538,6 +544,7 @@ ads.fmca.com
 ads.gaming1.com
 ads.goodreads.com
 ads.google.com
+ads.grid.id
 ads.gridtechno.com
 ads.gumgum.com
 ads.hometalk.com
@@ -1358,6 +1365,7 @@ annoyingacoustics.com
 anon-stats.eff.org
 anonymous-net.com
 anrdoezrs.net
+ans.mlb.com
 ansysinc.demdex.net
 antenna.ayads.co
 anthill.instapage.com
@@ -1561,6 +1569,7 @@ as.casalemedia.com
 as.ebz.io
 as.innity.com
 as.jivox.com
+asadcdn.com
 ascpqnj-oam.global.ssl.fastly.net
 ase.clmbtech.com
 asgclickpop.com
@@ -1617,6 +1626,7 @@ atm.impresa.pt
 atom-log.3.cn
 atresmedia.d1.sc.omtrdc.net
 atresmedia.demdex.net
+ats-wrapper.privacymanager.io
 ats.rlcdn.com
 att-app.quantummetric.com
 att-sync.quantummetric.com
@@ -1669,6 +1679,7 @@ awakebird.com
 awaps.yandex.net
 awaps.yandex.ru
 awarealley.com
+awesome.section.io
 awesomeagreement.com
 aweucn1.advanced-web-analytics.com
 awin1.com
@@ -1781,6 +1792,7 @@ bdg-analytics.appspot.com
 be.durationmedia.net
 bea4.v.fwmrm.net
 beacon-ams3.rubiconproject.com
+beacon-fra2.rubiconproject.com
 beacon-sjc2.rubiconproject.com
 beacon-v2.helpscout.net
 beacon.cdnma.com
@@ -1846,6 +1858,7 @@ bf.dynatrace.com
 bf03979hmm.bf.dynatrace.com
 bf04820crc.bf.dynatrace.com
 bf19952pmx.bf.dynatrace.com
+bf20090htd.bf.dynatrace.com
 bf33dfdd.de.ioam.de
 bf40164ces.bf.dynatrace.com
 bf57477xkp.bf.dynatrace.com
@@ -2257,6 +2270,7 @@ cdn.conversant.mgr.consensu.org
 cdn.convertbox.com
 cdn.convertcart.com
 cdn.cookielaw.org
+cdn.cooladata.com
 cdn.cquotient.com
 cdn.curalate.com
 cdn.cxense.com
@@ -2527,6 +2541,7 @@ citiau.tt.omtrdc.net
 cj.com
 ck-ie.com
 ck.page
+ckies.net
 cksync.yahoo.co.jp
 cl.canva.com
 cl.qualaroo.com
@@ -2764,6 +2779,7 @@ consent-st.trustarc.com
 consent.cookiebot.com
 consent.dc-storm.com
 consent.jrs5.com
+consent.ladbible.com
 consent.linksynergy.com
 consent.mediaforge.com
 consent.nxtck.com
@@ -3390,6 +3406,7 @@ dustywave.com
 duwrigndkjp.com
 dvagh3p3rk8xj.cloudfront.net
 dvqigh9b7wa32.cloudfront.net
+dvr.impactify.io
 dw.impact-ad.jp
 dw7nrwnn2bkh1.cloudfront.net
 dwin1.com
@@ -3669,6 +3686,7 @@ f.clarity.ms
 f.convertkit.com
 f.monetate.net
 f15.adventori.com
+f4714e97.de.ioam.de
 facilitategrandfather.com
 fadedprofit.com
 fadedsnow.com
@@ -3976,6 +3994,7 @@ gimp.zeronaught.com
 giraffepiano.com
 gitlab-requests.my.onetrust.com
 gj.mmstat.com
+gklfs-x8k98.ads.tremorhub.com
 glassboxdigital.io
 glassmoni.researchgate.net
 gleam.io
@@ -4166,6 +4185,7 @@ hbr.sc.omtrdc.net
 hbs.ph.affinity.com
 hbx.media.net
 hd.pe.fr
+hdfcbank.demdex.net
 hdrbd.ivstracker.net
 headyhook.com
 healthengine.demdex.net
@@ -4387,6 +4407,7 @@ imgs.signifyd.com
 immensehoney.com
 imp.ad-plus.cn
 imp.optaim.com
+imp3.nowinteract.com
 impact-ad.jp
 impactcdn.com
 impactradius-event.com
@@ -4745,6 +4766,7 @@ lg3.media.net
 lga-v4.pops.fastly-insights.com
 lhr-v4.pops.fastly-insights.com
 liadm.com
+lib-3pas.admatrix.jp
 lib-eu-1.brilliantcollector.com
 libedgolart.com
 liberapay.report-uri.com
@@ -4828,6 +4850,7 @@ log.spotify.com
 log.strm.yandex.ru
 log.tokopedia.net
 log3.bumlam.com
+logcollector.noteope.com
 logg.kiwi.com
 logger.adthrive.com
 logger.unsplash.com
@@ -5075,6 +5098,7 @@ media.trafficjunky.net
 media6degrees.com
 mediaforge.com
 mediaiqdigital.com
+mediaplex.com
 mediascale.de
 mediatrackr.com
 mediavine.com
@@ -12231,6 +12255,7 @@ o1064249.ingest.sentry.io
 o1089883.ingest.sentry.io
 o109687.ingest.sentry.io
 o115706.ingest.sentry.io
+o127091.ingest.sentry.io
 o130950.ingest.sentry.io
 o13855.ingest.sentry.io
 o211375.ingest.sentry.io
@@ -12248,6 +12273,7 @@ o449295.ingest.sentry.io
 o473027.ingest.sentry.io
 o478484.ingest.sentry.io
 o51786.ingest.sentry.io
+o552333.ingest.sentry.io
 o55869.ingest.sentry.io
 o76154.ingest.sentry.io
 o828979.ingest.sentry.io
@@ -12490,6 +12516,7 @@ pfizer.demdex.net
 pfizer.sc.omtrdc.net
 pflc.media.net
 pg-prebid-server.rubiconproject.com
+pg.impactify.io
 pgdt.gtimg.cn
 pghbl1.pubgalaxy.com
 pghub.io
@@ -14009,6 +14036,7 @@ smetrics.gettyimages.com
 smetrics.goindigo.in
 smetrics.harley-davidson.com
 smetrics.hbr.org
+smetrics.hdfcbank.com
 smetrics.healthengine.com.au
 smetrics.home.kpmg
 smetrics.hoovers.com
@@ -14178,6 +14206,7 @@ somberstructure.com
 sombersurprise.com
 sombrero.yahoo.net
 sommelier.futurehybrid.tech
+somni.accenture.com
 somni.alaskaair.com
 somnistats.jetblue.com
 somniture.scotiabank.com
@@ -14320,6 +14349,7 @@ ssl.widgets.webengage.com
 ssljscdn.airbrake.io
 sslwidget.criteo.com
 ssm.codes
+ssp-sync.criteo.com
 ssp-sync.i-mobile.co.jp
 ssp.adriver.ru
 ssp.behave.com
@@ -14575,6 +14605,7 @@ swid.switchads.com
 swimslope.com
 switchads.com
 swordgoose.com
+swrap.tradedoubler.com
 sxp.smartclip.net
 syd-col.eum-appdynamics.com
 syd-v4.pops.fastly-insights.com
@@ -14714,6 +14745,7 @@ t5.taboola.com
 t6.taboola.com
 t7.taboola.com
 t8.taboola.com
+taboola-d.openx.net
 taboola-supply-partners.tremorhub.com
 taboola.com
 tacoda.at.atwola.com
@@ -14760,6 +14792,7 @@ tagman.britishairways.com
 tags-cdn.deployads.com
 tags.affiliatefuture.com
 tags.aljazeera.com
+tags.asics.com
 tags.barrons.com
 tags.bkrtx.com
 tags.bluekai.com
@@ -14942,6 +14975,7 @@ tm-awx.com
 tm.ads.sportradar.com
 tm.jsuol.com.br
 tm.uol.com.br
+tmetrics.hdfcbank.com
 tmetrics.webex.com
 tmg.demdex.net
 tmgtmgescenicprod.112.2o7.net
@@ -14968,6 +15002,7 @@ topichawaii.com
 torpidtongue.com
 torpidtoothpaste.com
 toweringrun.com
+townhallmedia-d.openx.net
 toyota.demdex.net
 tp88trk.com
 tpc.googlesyndication.com
@@ -15102,6 +15137,7 @@ tracking.tunad.io
 tracking.v2.yieldlove-ad-serving.net
 tracking1.firstimpression.io
 trackingapi.trendemon.com
+trackingmms.accenture.com
 trackjs.com
 trackme.newsroom.works
 trackonomics.net
@@ -15208,6 +15244,7 @@ u.ipw.metadsp.co.uk
 u.openx.net
 u7351105.ct.sendgrid.net
 uads.infomo.net
+uat5-a.investingchannel.com
 uat5-b.investingchannel.com
 ubiquitousyard.com
 ubiquity.cedexis.us-east-1.prod.endpoints.ubiquity.aws.a2z.com
@@ -15567,6 +15604,7 @@ wellmadefrog.com
 wellsfargobankna.demdex.net
 westernunion.evergage.com
 wf.frontend.weborama.fr
+wf.taboola.com
 wfpscripts.webspectator.com
 wgo.mmstat.com
 whalepp.com
@@ -15691,6 +15729,7 @@ www.anrdoezrs.net
 www.apmebf.com
 www.appier.com
 www.artfut.com
+www.asadcdn.com
 www.assoc-amazon.com
 www.auditude.com
 www.avantlink.com
