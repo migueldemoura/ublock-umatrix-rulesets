@@ -345,6 +345,7 @@ accounts.doubleclick.net
 acdn.adnxs-simple.com
 acdn.adnxs.com
 acidpigs.com
+acint.net
 acjs.aliyun.com
 acofrnsr44es3954b.com
 acousticairplane.com
@@ -2506,6 +2507,7 @@ cedexis.pc.cdn.bitgravity.com
 celtra.com
 cendantchg.demdex.net
 cengine.contextads.live
+census-web.scorecardresearch.com
 centauruspopyou.com
 centrocdn.kiosk.tm
 centroclick.kiosk.tm
@@ -2869,6 +2871,7 @@ costplusmanagementservicesinc.demdex.net
 cotads.adscale.de
 count-server.sharethis.com
 count.ly
+count.sibbo.net
 count.taobao.com
 counter.rambler.ru
 counter.scribblelive.com
@@ -3223,6 +3226,7 @@ debonairway.com
 decibelinsight.net
 decide.mixpanel.com
 decidedrum.com
+decision-api.flagship.io
 decisivebase.com
 decisivedrawer.com
 decisiveducks.com
@@ -3506,6 +3510,9 @@ edge.quantserve.com
 edge.uniconsent.com
 edgecast-vod.yahoo.net
 edgescape.abc.net.au
+edgetrksvc.ebay.co.uk
+edgetrksvc.ebay.com
+edgetrksvc.ebay.de
 edreamsodigeo.commander1.com
 eds.browserstack.com
 educatedeggnog.com
@@ -3781,6 +3788,7 @@ feedad.com
 feedback.adrecover.com
 feedbackws.icloud.com
 fei.pro-market.net
+fel-api.prod.browse.bestbuy.com
 felix.data.tm-awx.com
 festusthedrag.com
 ffbtas.com
@@ -4166,6 +4174,7 @@ gxltd.demdex.net
 gyycgkchjtimu.com
 h-bid.com
 h.cedatoplayer.com
+h.clarity.ms
 h.online-metrix.net
 h.trace.qq.com
 h250p-nj545.ads.tremorhub.com
@@ -4262,6 +4271,7 @@ historicalrequest.com
 hit.8digits.com
 hit.api.useinsider.com
 hit.gemius.pl
+hits.antena3.com
 hits.ondacero.es
 hkg-v4.pops.fastly-insights.com
 hm.baidu.com
@@ -5118,6 +5128,7 @@ mcc.godaddy.com
 mcdonaldscorporation.tt.omtrdc.net
 mcdp-chidc2.outbrain.com
 mci-v4.pops.fastly-insights.com
+mcs.tobsnssdk.com
 mczbf.com
 mdw-v4.pops.fastly-insights.com
 me-ssl.effectivemeasure.net
@@ -12068,6 +12079,8 @@ mkt9986.com
 mkt9997.com
 mkt9998.com
 mkt9999.com
+mktdplp102cdn.azureedge.net
+mktdplt102cdn.azureedge.net
 mktoresp.com
 ml-attr.com
 ml314.com
@@ -13777,6 +13790,7 @@ secretturtle.com
 secure-assets.rubiconproject.com
 secure-au.imrworldwide.com
 secure-cdn.adespresso.com
+secure-cdn.mplxtms.com
 secure-dcr.imrworldwide.com
 secure-ds.serving-sys.com
 secure-gl.imrworldwide.com
@@ -13866,6 +13880,7 @@ servenobid.com
 servenobids.com
 server.ethicalads.io
 server.fuse.analytics-engine.com
+server.recotap.com
 server.seadform.net
 serverbid-sync.nyc3.cdn.digitaloceanspaces.com
 serverbid.com
@@ -13880,6 +13895,7 @@ services.serving-sys.com
 services.xg4ken.com
 serving-sys.com
 serving.ads.sportradar.com
+session-replay.browser-intake-datadoghq.com
 session.sitelabweb.com
 sessionapi.veinteractive.com
 sessioncam.com
@@ -14655,6 +14671,7 @@ surveystats.hotjar.io
 suspendseed.com
 sv.rkdms.com
 svastx.moatads.com
+svc.dynamics.com
 svcs.ebay.com
 svt.d3.sc.omtrdc.net
 sw88.go.com
@@ -15060,6 +15077,7 @@ tms.hft.hellofresh.com
 tms.oracle.com
 tn.alphonso.tv
 tns-counter.ru
+toblog.tobsnssdk.com
 toecircle.com
 toedrawer.com
 token.rubiconproject.com
@@ -15421,6 +15439,7 @@ us-central1-adaptive-growth.cloudfunctions.net
 us-central1-amp-error-reporting.cloudfunctions.net
 us-central1-callpower-repair-1548316784218.cloudfunctions.net
 us-central1-signal-data-science.cloudfunctions.net
+us-east-1-decisionapi.lift.acquia.com
 us-gmtdmp.mookie1.com
 us-pl.vizury.com
 us-u.openx.net
@@ -15785,6 +15804,7 @@ ws21.hotjar.com
 ws22.hotjar.com
 ws23.hotjar.com
 ws25.hotjar.com
+ws27.hotjar.com
 ws3.hotjar.com
 ws32.hotjar.com
 ws4.hotjar.com
