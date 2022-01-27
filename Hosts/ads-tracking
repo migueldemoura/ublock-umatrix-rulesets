@@ -151,6 +151,7 @@
 779953998.privacysandbox.googleadservices.com
 779968204.privacysandbox.googleadservices.com
 779968402.privacysandbox.googleadservices.com
+786429470.privacysandbox.googleadservices.com
 788832623.privacysandbox.googleadservices.com
 792807980.privacysandbox.googleadservices.com
 79423.analytics.edgekey.net
@@ -898,6 +899,7 @@ advividnetwork.com
 adwmg.com
 adx.adform.net
 adx.c.appier.net
+adx.com.ru
 adx.dable.io
 adx.opera.com
 adxcel-ec2.com
@@ -981,6 +983,7 @@ alweb.prod-euc1.rfksrv.com
 am-match.taboola.com
 am-trc-events.taboola.com
 am-vid-events.taboola.com
+am-wf.taboola.com
 am.freshrelevance.com
 amadeus.d3.sc.omtrdc.net
 amadeus.tt.omtrdc.net
@@ -1206,6 +1209,7 @@ ampconfig.sc.omtrdc.net
 amplify.outbrain.com
 amplifypixel.outbrain.com
 amplitude.com
+ams-12.ams-rtb1.rfihub.net
 ams-pageview-public.s3.amazonaws.com
 ams-v4.pops.fastly-insights.com
 ams.creativecdn.com
@@ -1395,6 +1399,7 @@ api-34-216-146-142.b2c.com
 api-34-220-164-122.b2c.com
 api-34-220-17-139.b2c.com
 api-52-43-191-116.b2c.com
+api-54-189-172-55.b2c.com
 api-54-202-255-168.b2c.com
 api-54-213-146-176.b2c.com
 api-ap-southeast-2-production.boxever.com
@@ -1468,6 +1473,7 @@ api.mixpanel.com
 api.mutinyhq.io
 api.myendpoint.io
 api.neuralad.net
+api.nuage01.scaleway.com
 api.nylas.com
 api.official-coupons.com
 api.official-deals.co.uk
@@ -1475,6 +1481,7 @@ api.omappapi.com
 api.openreplay.com
 api.parsely.com
 api.partnerize.com
+api.perfalytics.com
 api.permutive.com
 api.pn.vg
 api.porting-team.ru
@@ -1652,6 +1659,7 @@ att.mpeasylink.com
 attr.ml-api.io
 attractiveafternoon.com
 attractivecap.com
+attribution.adswizz.com
 attributionapp.com
 attservicesinc.tt.omtrdc.net
 au-gmtdmp.mookie1.com
@@ -1742,6 +1750,7 @@ b12.yahoo.co.jp
 b13.yahoo.co.jp
 b15.yahoo.co.jp
 b16.yahoo.co.jp
+b1h-euc1.zemanta.com
 b1h.zemanta.com
 b1sync.zemanta.com
 b1t-eudc1.zemanta.com
@@ -2133,6 +2142,7 @@ cache.boston.com
 cache.sellwild.com
 cache.vindicosuite.com
 cache07.stormap.sapo.pt
+cadreonus-9-adswizz.attribution.adswizz.com
 calameo-beacon.global.ssl.fastly.net
 calculatingcircle.com
 calculatingtoothbrush.com
@@ -2446,6 +2456,7 @@ cdn.vizury.com
 cdn.vuukle.com
 cdn.w55c.net
 cdn.walkme.com
+cdn.wbtrk.net
 cdn.webspectator.com
 cdn.wootric.com
 cdn.ywxi.net
@@ -2699,6 +2710,7 @@ collect.nature.com
 collect.tealiumiq.com
 collection.decibelinsight.net
 collector-11893.tvsquared.com
+collector-12891.tvsquared.com
 collector-1564.tvsquared.com
 collector-3309.tvsquared.com
 collector-3549.tvsquared.com
@@ -2946,6 +2958,7 @@ csm.eu.criteo.net
 csm.fr.eu.criteo.net
 csm.nl.eu.criteo.net
 csm.us.criteo.net
+csp-central.appspot.com
 csp.global.ssl.fastly.net
 csp.walmart.com
 csp.withgoogle.com
@@ -3341,6 +3354,7 @@ dmp.adform.net
 dmp.brand-display.com
 dmp.datawrkz.com
 dmp.doubleclick.net
+dmp.redllama.ru
 dmp.s7target.ru
 dmp.t.tailtarget.com
 dmp.truoptik.com
@@ -3666,6 +3680,7 @@ events.data.msn.com
 events.jotform.com
 events.launchdarkly.com
 events.mapbox.com
+events.newsroom.bi
 events.redditmedia.com
 events.release.narrativ.com
 events.servenobids.com
@@ -3696,6 +3711,7 @@ exchange.postrelease.com
 exclusivebrass.com
 exct.net
 excuseearthquake.com
+execution-ci360.flypgs.com
 exelator.com
 exitbee.com
 exoclick.com
@@ -3964,6 +3980,7 @@ g2.gumgum.com
 g6bxnc.tdum.alibaba.com
 g792337340.co
 g792337342.co
+g990421676.co
 g99d08.tdum.alibaba.com
 ga87z2o.com
 gads.pubmatic.com
@@ -4026,6 +4043,7 @@ gfp.veta.naver.com
 gfyaw1603386.ec.whrq.net
 gh-static-resources.s3.amazonaws.com
 ghb.adtelligent.com
+ghb.yieldlift.io
 gi8151.tdum.alibaba.com
 gias.jd.com
 giddycoat.com
@@ -4608,6 +4626,7 @@ iyfnzgb.com
 j.6sc.co
 j.adlooxtracking.com
 j.amoad.com
+j.clarity.ms
 j.mrpdata.net
 j.ophan.co.uk
 j93557g.com
@@ -4839,6 +4858,7 @@ lilureem.com
 lim-v4.pops.fastly-insights.com
 limelight-ssl.cedexis-test.com
 limpingline.com
+lin-v4.pops.fastly-insights.com
 linkmink.com
 links.maritzcx-emea-t.mkt5558.com
 links.services.disqus.com
@@ -4958,6 +4978,7 @@ lsdstgcv.com
 luckyorange.net
 lukomol.com
 lululemonathleticacanadainc.demdex.net
+lululemonusa.tt.omtrdc.net
 lumberamount.com
 lumpyleaf.com
 lumpylumber.com
@@ -5080,6 +5101,7 @@ matchid.adfox.yandex.ru
 matching.granify.com
 matching.ivitrack.com
 matching.kubient.net
+matching.truffle.bid
 materialexample.com
 materialisticfan.com
 materialisticmark.com
@@ -12179,7 +12201,9 @@ mutinyhq.io
 mv.outbrain.com
 mwzeom.zeotap.com
 mx-gmtdmp.mookie1.com
+mx.technolutions.net
 mxp-v4.pops.fastly-insights.com
+mxpl.9gag.com
 mxpnl.com
 mxptint.net
 my.hellobar.com
@@ -12295,6 +12319,7 @@ nt-p.alcmpn.com
 ntv.io
 ntvaim-a.akamaized.net
 ntvcld-a.akamaihd.net
+nuage01.scaleway.com
 nuggad.net
 nuid.imrworldwide.com
 nulldiscussion.com
@@ -12416,6 +12441,7 @@ ord-v4.pops.fastly-insights.com
 origin.acuityplatform.com
 orreports.report-uri.com
 ort.wellsfargo.com
+os4m-d.openx.net
 osano.com
 osimg.nbcuni.com
 osl-v4.pops.fastly-insights.com
@@ -12561,6 +12587,7 @@ perceuslok071.com
 perf-events.cloud.unity3d.com
 perf-serving.com
 perf.hsforms.com
+perfalytics.com
 perfectaudience.com
 performance-data.gcpdata.telegraph.co.uk
 perimeterx.net
@@ -12953,10 +12980,12 @@ player-telemetry.vimeo.com
 player.adtcdn.com
 player.adtelligent.com
 player.aniview.com
+player.yieldlift.io
 playercdn.jivox.com
 playerserver.walkme.com
 pleasantpump.com
 plesk.containers.piwik.pro
+plesk.matomo.cloud
 plesk.piwik.pro
 plista.com
 plotparent.com
@@ -13152,6 +13181,7 @@ pubgw.yahoo.com
 public-prod-dspcookiematching.dmxleo.com
 public-trace-http-intake.logs.datadoghq.com
 public-ubiservices.ubi.com
+public.advarkads.com
 public.profitwell.com
 public.servenobid.com
 publicidees.com
@@ -13900,6 +13930,7 @@ session.sitelabweb.com
 sessionapi.veinteractive.com
 sessioncam.com
 sessions.bugsnag.com
+setana.setn.com
 settings-win.data.microsoft.com
 settings.crashlytics.com
 settings.luckyorange.net
@@ -14696,6 +14727,7 @@ symbolizebeast.com
 sync-amz.ads.yieldmo.com
 sync-criteo.ads.yieldmo.com
 sync-dmp.aura-dsp.com
+sync-eu.connectad.io
 sync-t1.taboola.com
 sync-tm.everesttech.net
 sync.1dmp.io
@@ -15292,6 +15324,7 @@ troubledtail.com
 tru.am
 truckstomatoes.com
 trueleadid.com
+truffle.bid
 trugaze.io
 truoptik.com
 trustarc.mgr.consensu.org
@@ -15309,6 +15342,7 @@ tt-10162-1.seg.t.tailtarget.com
 tt-10759-0.seg.t.tailtarget.com
 tt-10969-0.seg.t.tailtarget.com
 tt-11749-8.seg.t.tailtarget.com
+tt-12765-5.seg.t.tailtarget.com
 tt-12842-2.seg.t.tailtarget.com
 tt.natwest.com
 tt.omtrdc.net
@@ -15513,6 +15547,7 @@ v4-api-34-220-17-139.b2c.com
 v4-api-34-220-172-162.b2c.com
 v4-api-52-43-191-116.b2c.com
 v4-api-54-149-139-76.b2c.com
+v4-api-54-189-172-55.b2c.com
 v4-api-54-202-255-168.b2c.com
 v4-api-54-218-58-227.b2c.com
 va.us.criteo.com
@@ -15580,6 +15615,7 @@ visitanalytics.userreport.com
 visitor-analytics.net
 visitor-scoring.marketlinc.com
 visitor-service-ap-southeast-2.tealiumiq.com
+visitor-service-eu-central-1.tealiumiq.com
 visitor-service-eu-west-1.tealiumiq.com
 visitor-service.tealiumiq.com
 visitor-services.boldchat.com
@@ -15595,6 +15631,7 @@ vlogoflife.com
 vmg-useast.gscontxt.net
 vmmphpamtigpbi.com
 vmp.boldchat.com
+vms-eu.boldchat.com
 vms.boldchat.com
 vmss.boldchat.com
 vntsm.com
@@ -15755,6 +15792,7 @@ wishjus.com
 wistfulflight.com
 wix-worker.visitor-analytics.net
 wizardmarndl.com
+wkbrs1.tingyun.com
 wkxppshj-qx.global.ssl.fastly.net
 wl.jd.com
 wl96h214rb.execute-api.us-east-1.amazonaws.com
@@ -16054,6 +16092,7 @@ yccdyncut.bid
 yceml.net
 yeas.yahoo.co.jp
 yebadu.com
+yeet.revcontent.com
 yellowblue.io
 yhb.p.otm-r.com
 yield-manager.browsiprod.com
