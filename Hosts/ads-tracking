@@ -944,6 +944,7 @@ aircanada.demdex.net
 airlytics-web.airlock.twcmobile.weather.com
 ajaralarm.com
 ajaxgeo.cartrawler.com
+ak-ads-ns.prisasd.com
 ak-ns.sascdn.com
 ak.sail-horizon.com
 ak0gsh40.com
@@ -1275,6 +1276,7 @@ analytics.callbell.eu
 analytics.carambo.la
 analytics.cert.pl
 analytics.chase.com
+analytics.chegg.com
 analytics.cincopa.com
 analytics.codigo.se
 analytics.convertlanguage.com
@@ -1308,6 +1310,7 @@ analytics.google.com
 analytics.gorilla-records.de
 analytics.ietf.org
 analytics.jd-powered.net
+analytics.kaltura.com
 analytics.lagoondivers.be
 analytics.landolsi.de
 analytics.languagetoolplus.com
@@ -1470,6 +1473,7 @@ api.kickfire.com
 api.leadinfo.com
 api.leanplum.com
 api.lytics.io
+api.mediaad.org
 api.mixpanel.com
 api.mutinyhq.io
 api.myendpoint.io
@@ -1541,6 +1545,7 @@ app.gitbook.com
 app.holdonstranger.com
 app.hubspot.com
 app.interactiveads.ai
+app.jubnaadserve.com
 app.leadsrx.com
 app.legalmonster.com
 app.link
@@ -1905,6 +1910,7 @@ bhcumsc.com
 bi.pst.tech
 bid.contextweb.com
 bid.g.doubleclick.net
+bid.underdog.media
 bidbarrel.cbsnews.com
 bidder.criteo.com
 bidder.rtk.io
@@ -2162,6 +2168,9 @@ calmfoot.com
 campaign.aliexpress.com
 campaign.remp.impresa.pt
 camsoda1.com
+canada.demdex.net
+canada.sc.omtrdc.net
+canada.tt.omtrdc.net
 cancer.gov.ssl.sc.omtrdc.net
 cannonjudo.com
 cannontwin.com
@@ -2262,6 +2271,7 @@ cdn-v3.conductrics.com
 cdn.254a.com
 cdn.8digits.com
 cdn.abrankings.com
+cdn.ad.plus
 cdn.adapex.io
 cdn.adjust.com
 cdn.adligature.com
@@ -2821,12 +2831,16 @@ consent-pref.trustarc.com
 consent-st.trustarc.com
 consent.cookiebot.com
 consent.dc-storm.com
+consent.intuit.com
+consent.intuit.quickbooksconnect.com
+consent.intuit.tsheets.com
 consent.jrs5.com
 consent.ladbible.com
 consent.linksynergy.com
 consent.mediaforge.com
 consent.nxtck.com
 consent.trustarc.com
+consent.www.firmofthefuture.com
 consent.yahoo.com
 consent.zoocdn.com
 consentag.eu
@@ -3460,6 +3474,7 @@ duwrigndkjp.com
 dvagh3p3rk8xj.cloudfront.net
 dvqigh9b7wa32.cloudfront.net
 dvr.impactify.io
+dw-d.openx.net
 dw.impact-ad.jp
 dw7nrwnn2bkh1.cloudfront.net
 dwin1.com
@@ -3478,6 +3493,7 @@ dz.mmstat.com
 dz9qn8fh4jznm.cloudfront.net
 e-10398.adzerk.net
 e-10457.adzerk.net
+e-10663.adzerk.net
 e-4669.adzerk.net
 e-goi.com
 e-planning.net
@@ -3622,6 +3638,7 @@ errors.client.optimizely.com
 errors.figma.com
 errors.hackerone.net
 errortablet.com
+es-config-preproduction.sensic.net
 es1-s2s.sensic.net
 et.nytimes.com
 etahub.com
@@ -3679,6 +3696,7 @@ event.syndigo.cloud
 events.apester.com
 events.api.boomtrain.com
 events.api.godaddy.com
+events.api.secureserver.net
 events.appsflyer.com
 events.bouncex.net
 events.brightline.tv
@@ -4597,6 +4615,7 @@ intergi.com
 intergient.com
 internalsink.com
 intljs.rmtag.com
+intuitvisitorid.api.intuit.com
 inv-nets.admixer.net
 invaluable.evergage.com
 invaluable.us-1.evergage.com
@@ -4728,6 +4747,7 @@ jssdks.mparticle.com
 jstag.space
 jstracer.yandex.ru
 jsv3.recruitics.com
+jubnaadserve.com
 juicyads.com
 jukebox.pathfactory.com
 jumbo.zomato.com
@@ -4911,6 +4931,7 @@ localytics.com
 location.api.useinsider.com
 location.bloomberg.com
 locationapi.cdn.pagesense.io
+log-api.aplus.emas-poc.com
 log-config.samsungacr.com
 log.adtraction.fail
 log.api.useinsider.com
@@ -12611,6 +12632,7 @@ perk0mean.com
 permutive.com
 permutive.mawdoo3.com
 perpetualpail.com
+perr.h-cdn.com
 perr.hola.org
 perso.aws.arc.pub
 personalization.bloomberg.com
@@ -13111,6 +13133,8 @@ prg.smartadserver.com
 prg8.smartadserver.com
 pricklyplastic.com
 printerplasma.com
+prisacom.demdex.net
+prisasd.com
 prism.app-us1.com
 privacy-api.9gag.com
 privacy-banner.shopifycloud.com
@@ -13471,6 +13495,7 @@ rev.cbsi.com
 revbigo.com
 revcontent.com
 reveal.clearbit.com
+revenueflex.com
 reverseads.matomo.cloud
 revive-adserver.net
 rfihub.com
@@ -13588,6 +13613,7 @@ rum-collector-2.pingdom.net
 rum-http-intake.logs.datadoghq.com
 rum-http-intake.logs.datadoghq.eu
 rum-static.pingdom.net
+rum.api.intuit.com
 rum.conde.io
 rum.optimizely.com
 rumcdn.geoedge.be
@@ -13708,6 +13734,7 @@ sailsuit.com
 sak.userreport.com
 salesloft.com
 samestretch.com
+sams.spiegel.de
 samsungacr.com
 samsungads.com
 samsungcloudsolution.com
@@ -13759,6 +13786,7 @@ scatteredstream.com
 scdn.cxense.com
 sce-app.quantummetric.com
 schjmp.com
+sci.intuit.com
 scientificshirt.com
 scientificsneeze.com
 scillathemons.com
@@ -13943,6 +13971,7 @@ services.serving-sys.com
 services.xg4ken.com
 serving-sys.com
 serving.ads.sportradar.com
+serving.stat-rock.com
 session-replay.browser-intake-datadoghq.com
 session.sitelabweb.com
 sessionapi.veinteractive.com
@@ -14036,6 +14065,7 @@ sinfo.dtcidev.co
 singular.net
 sinter-collect.com
 site-assets.salemove.com
+site24x7rum.eu
 siteimproveanalytics.com
 siteimproveanalytics.io
 siteintercept.qualtrics.com
@@ -14147,6 +14177,7 @@ smetrics.dnb.com
 smetrics.dunkindonuts.com
 smetrics.edc.ca
 smetrics.ee.co.uk
+smetrics.elpais.com
 smetrics.elsevier.com
 smetrics.eu.playstation.com
 smetrics.express.com
@@ -14533,6 +14564,7 @@ starget.intel.com
 startappservice.com
 startribune.zeustechnology.com
 stas.outbrain.com
+stat-rock.com
 stat-track.com
 stat.appmifile.com
 stat.eagleplatform.com
@@ -14554,6 +14586,7 @@ static.ads-twitter.com
 static.adsafeprotected.com
 static.adserver.pm
 static.adsnative.com
+static.adzerk.net
 static.ambient-platform.com
 static.analytics.artirix.com
 static.apester.com
@@ -14582,6 +14615,7 @@ static.parsely.com
 static.quantcast.mgr.consensu.org
 static.s7target.ru
 static.simonsignal.com
+static.site24x7rum.eu
 static.smi2.net
 static.smilewanted.com
 static.target2sell.com
@@ -15229,6 +15263,7 @@ tracker.brlnr.de
 tracker.bt.uol.com.br
 tracker.c3voc.de
 tracker.cic-totalcare.com
+tracker.datanoticias.prisasd.com
 tracker.extreme-idea.com
 tracker.fapfapfap.xyz
 tracker.fitech.uk
@@ -15371,6 +15406,7 @@ tubemogul.com
 tumblebirds.com
 tunein-d.openx.net
 turboadv.com
+turbotax.demdex.net
 turn.com
 turnto.com
 tutorthing.com
@@ -15445,6 +15481,7 @@ unbecominghall.com
 unblockia.com
 uncoveredcircle.com
 uncoveredexpert.com
+underdog.media
 undertone.com
 unequalbrake.com
 unevenstring.com
