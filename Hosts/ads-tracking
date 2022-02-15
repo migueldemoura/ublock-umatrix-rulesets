@@ -387,6 +387,7 @@ ad.adsrvr.org
 ad.afy11.net
 ad.as.amanad.adtdp.com
 ad.atdmt.com
+ad.audiencemanager.de
 ad.bench.utorrent.com
 ad.cafe24.com
 ad.caprofitx.adtdp.com
@@ -1014,6 +1015,7 @@ amoad.com
 amobee-partners.tremorhub.com
 amp-api-prd.bostonglobe.com
 amp.casalemedia.com
+amp.services
 ampcid.google.ac
 ampcid.google.ad
 ampcid.google.ae
@@ -1607,6 +1609,7 @@ artfut.com
 artirix.com
 as-sec.casalemedia.com
 as.casalemedia.com
+as.ck-ie.com
 as.ebz.io
 as.innity.com
 as.jivox.com
@@ -2030,6 +2033,7 @@ briefbears.com
 briefstem.com
 brightcombid.marphezis.com
 brilliantcollector.com
+brisa.demdex.net
 briskeagle.io
 britishairways.d3.sc.omtrdc.net
 britishskybroadcasti.tt.omtrdc.net
@@ -2556,6 +2560,7 @@ certify.alexametrics.com
 cf-particle-html.eip.telegraph.co.uk
 cf.eip.telegraph.co.uk
 cf.iadsdk.apple.com
+cgd-portal.my.onetrust.com
 cgh-v4.pops.fastly-insights.com
 chairscrack.com
 championat.stat.eagleplatform.com
@@ -2917,8 +2922,10 @@ costplusmanagementservicesinc.demdex.net
 cotads.adscale.de
 count-server.sharethis.com
 count.ly
+count.personyze.com
 count.sibbo.net
 count.taobao.com
+counter.personyze.com
 counter.rambler.ru
 counter.scribblelive.com
 counter.snackly.co
@@ -2938,6 +2945,8 @@ cpt-v4.pops.fastly-insights.com
 cpx.to
 cquotient.com
 cr-p10060.ladsp.com
+cr-p31.ladsp.jp
+cr-pall.ladsp.com
 cr.frontend.weborama.fr
 crabbychin.com
 crafthenry.com
@@ -4414,6 +4423,7 @@ i.ctnsnet.com
 i.gdt.qq.com
 i.geistm.com
 i.gridsumdissector.com
+i.jads.co
 i.k-analytix.com
 i.kissmetrics.com
 i.konduto.com
@@ -5019,6 +5029,7 @@ lowescompaniesinc.demdex.net
 lowlocket.com
 loxodo-ct.ext.nile.works
 lp.adnear.net
+lp.cleverwebserver.com
 lp3tdqle.com
 lp4.io
 lptag.liveperson.net
@@ -12360,6 +12371,8 @@ notifier-configs.airbrake.io
 notify.bugsnag.com
 notrack.adviva.net
 nova.collect.igodigital.com
+novobanco.demdex.net
+novobanco.tt.omtrdc.net
 npttech.com
 nr-data.net
 nr-events.taboola.com
@@ -12599,6 +12612,7 @@ parthanonstatue.com
 partly-divine-monitor.edgecompute.app
 partner.googleadservices.com
 partner.mediawallahscript.com
+partner.shareaholic.com
 partners.hostgator.com
 partners.tremorhub.com
 partplanes.com
@@ -13611,6 +13625,7 @@ rtb-eu.mfadsrvr.com
 rtb-usw.mfadsrvr.com
 rtb.4finance.com
 rtb.adentifi.com
+rtb.adpone.com
 rtb.adxpremium.services
 rtb.fr.eu.criteo.com
 rtb.gamoshi.io
@@ -14521,6 +14536,7 @@ srv.buysellads.com
 srv.carbonads.net
 srv.de.ebayrtm.com
 srv.main.ebayrtm.com
+srv.novobanco.pt
 srv.stackadapt.com
 srv.uk.ebayrtm.com
 srvmath.com
@@ -14614,6 +14630,7 @@ static-src.terratraf.io
 static-ssl.exoclick.com
 static-staging.cloudflareinsights.com
 static-tagr.gd1.mookie1.com
+static-tracking.klaviyo.com
 static.a-ads.com
 static.addtoany.com
 static.ads-twitter.com
@@ -14622,6 +14639,7 @@ static.adserver.pm
 static.adsnative.com
 static.adzerk.net
 static.ambient-platform.com
+static.amp.services
 static.analytics.artirix.com
 static.apester.com
 static.asayer.io
@@ -14924,6 +14942,7 @@ t.myvisualiq.net
 t.o-s.io
 t.paypal.com
 t.pepperjamnetwork.com
+t.poki.io
 t.pswec.com
 t.pubmatic.com
 t.quisma.com
@@ -14931,6 +14950,7 @@ t.seedtag.com
 t.sf14g.com
 t.sharethis.com
 t.skimresources.com
+t.smile.eu
 t.svtrd.com
 t.tailtarget.com
 t.teads.tv
@@ -15946,6 +15966,7 @@ ws25.hotjar.com
 ws27.hotjar.com
 ws3.hotjar.com
 ws32.hotjar.com
+ws33.hotjar.com
 ws4.hotjar.com
 ws5.hotjar.com
 ws9.hotjar.com
@@ -16252,6 +16273,7 @@ zn6mwgpzuyxmdnf5j-moodys.siteintercept.qualtrics.com
 znabfhlf0lpalyxnz-edreamsodigeo.siteintercept.qualtrics.com
 zohotagmanager.cdn.pagesense.io
 zoominfo.com
+zootopia-tracking.prod.zooplus.net
 zqtk.net
 zukxd6fkxqn.com
 zumzumar.com
