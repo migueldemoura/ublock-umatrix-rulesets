@@ -8,6 +8,7 @@
 # License: https://github.com/migueldemoura/ublock-umatrix-rulesets/blob/master/LICENSE.md
 #
 
+
 0818480808.privacysandbox.googleadservices.com
 0cf.io
 100007688.collect.igodigital.com
@@ -540,6 +541,7 @@ ads.adventive.com
 ads.altitude-arena.com
 ads.andserve.net
 ads.appota.com
+ads.aralego.com
 ads.avads.net
 ads.avct.cloud
 ads.avocet.io
@@ -1322,6 +1324,7 @@ analytics.google.com
 analytics.gorilla-records.de
 analytics.ietf.org
 analytics.jd-powered.net
+analytics.justica.gov.pt
 analytics.kaltura.com
 analytics.lagoondivers.be
 analytics.landolsi.de
@@ -1454,6 +1457,7 @@ api.company-target.com
 api.conversant.mgr.consensu.org
 api.cooladata.com
 api.cxense.com
+api.databreakers.com
 api.datasteam.io
 api.demandbase.com
 api.dmp.y-track.com
@@ -1485,6 +1489,7 @@ api.keen.io
 api.kickfire.com
 api.leadinfo.com
 api.leanplum.com
+api.lunamedia.io
 api.lytics.io
 api.mediaad.org
 api.mixpanel.com
@@ -1930,6 +1935,7 @@ bidbarrel.cbsnews.com
 bidder.criteo.com
 bidder.rtk.io
 biddr.brealtime.com
+bidmyadz.com
 bidr.io
 bids.concert.io
 bids.proper.io
@@ -2894,6 +2900,7 @@ convertexperiments.com
 convertro.com
 cookie-cdn.cookiepro.com
 cookie-matching.mediarithmics.com
+cookie-sync.bidmyadz.com
 cookiebot.com
 cookiee1.veinteractive.com
 cookielaw.org
@@ -3004,12 +3011,15 @@ csm.fr.eu.criteo.net
 csm.nl.eu.criteo.net
 csm.us.criteo.net
 csp-central.appspot.com
+csp-reporting.cloudflare.com
 csp.global.ssl.fastly.net
 csp.walmart.com
 csp.withgoogle.com
 csp.yahoo.com
 cssrvsync.com
 cstatic.weborama.fr
+csync-eu.smartadserver.com
+csync-global.smartadserver.com
 csync.loopme.me
 csync.smartadserver.com
 csync.smilewanted.com
@@ -3302,6 +3312,7 @@ del-v4.pops.fastly-insights.com
 delegatediscussion.com
 delightdriving.com
 delightfulhour.com
+deliverimp.com
 delivery-cdn-cf.adswizz.com
 delivery.adnuntius.com
 delivery.adrecover.com
@@ -3419,6 +3430,7 @@ dnn506yrbagrg.cloudfront.net
 dntcl.qualaroo.com
 do-analytics.net
 dockdigestion.com
+docker.creative-serving.com
 docksalmon.com
 dogsshoes.com
 dojx47ab4dyxi.cloudfront.net
@@ -3579,9 +3591,11 @@ edgescape.abc.net.au
 edgetrksvc.ebay.co.uk
 edgetrksvc.ebay.com
 edgetrksvc.ebay.de
+edgrmtracking.com
 edreamsodigeo.commander1.com
 eds.browserstack.com
 educatedeggnog.com
+edw-1.egoiapp.com
 eecouk.demdex.net
 eerrm1603385.ca.whrq.net
 effectivemeasure.net
@@ -4030,6 +4044,7 @@ g.doubleclick.net
 g.ezoic.net
 g.jwpsrv.com
 g.pcmag.com
+g.themoneytizer.net
 g00.cnet.com
 g2.gumgum.com
 g6bxnc.tdum.alibaba.com
@@ -4539,6 +4554,7 @@ imp.optaim.com
 imp3.nowinteract.com
 impact-ad.jp
 impactcdn.com
+impactify.media
 impactradius-event.com
 impactradius-tag.com
 imperfectinstrument.com
@@ -5013,9 +5029,11 @@ logs.datadoghq.eu
 logs.juspay.in
 logs.loggly.com
 logs.psm.wmcdp.io
+logs.viadata.store
 logs.which.co.uk
 logs1187.xiti.com
 logs1242.xiti.com
+logsene-receiver.eu.sematext.com
 logws1320.ati-host.net
 logx.optimizely.com
 lon-v4.pops.fastly-insights.com
@@ -5184,6 +5202,7 @@ matomo.boys.de
 matomo.breizhcode.com
 matomo.cf
 matomo.cloud
+matomo.emfa.pt
 matomo.familie-roose.de
 matomo.firmapp.org
 matomo.forevercbeauty.com
@@ -5226,6 +5245,7 @@ me-ssl.effectivemeasure.net
 me.effectivemeasure.net
 measure.analysis.fi
 measurecaption.com
+measurements-api.wonderpush.com
 meatydime.com
 media-akam.licdn.com
 media-cdn.ipredictive.com
@@ -5323,6 +5343,7 @@ misumi.demdex.net
 mixedreading.com
 mixpanel.com
 mjca-yijws.global.ssl.fastly.net
+mkt.claranet.pt
 mkt.publico.pt
 mkt.tiffosi.com
 mkt033.com
@@ -12196,6 +12217,7 @@ mobile-crash.newrelic.com
 mobile-service.segment.com
 mobile.measurelib.com
 mobileadexchange.net
+mobileadtrading.com
 mobileapptracking.com
 mobilecrm.accengage.com
 mobilegen.vodafone.pt
@@ -12420,6 +12442,7 @@ o211375.ingest.sentry.io
 o217888.ingest.sentry.io
 o242099.ingest.sentry.io
 o248881.ingest.sentry.io
+o249743.ingest.sentry.io
 o282632.ingest.sentry.io
 o28796.ingest.sentry.io
 o298168.ingest.sentry.io
@@ -12496,6 +12519,7 @@ opinionsurprise.com
 opmnstr.com
 oppositeoperation.com
 ops.beeline.ru
+optad360.mgr.consensu.org
 optanon.blob.core.windows.net
 optchk.ayads.co
 optimallimit.com
@@ -12933,6 +12957,7 @@ piwik.tourist-information-rheinsberg.de
 piwik.travelandtastetheworld.com
 piwik.travellingtheworld.de
 piwik.uolonline.cn
+piwik.up.pt
 piwik.urumqi.fr
 piwik.vecodesk.com
 piwik.vernom.fr
@@ -13117,6 +13142,7 @@ pososrhwu2jf8jf09.com
 possessivebucket.com
 possibleboats.com
 post.iperceptions.com
+post.spmailtechno.com
 postaffiliatepro.com
 postback.zeroredirect1.com
 posthog.appointmentthing.com
@@ -13270,13 +13296,17 @@ public-ubiservices.ubi.com
 public.advarkads.com
 public.profitwell.com
 public.servenobid.com
+publicapi.databreakers.com
+publicidade.regiaodeleiria.pt
 publicidees.com
 publift-com.videoplayerhub.com
 publir-d.openx.net
 publish.vuukle.com
+publisher-east.mobileadtrading.com
 publisherdesk-d.openx.net
 publisherdesk.servedbyopenx.com
 publishers.tremorhub.com
+publy.net
 publyads.jstag.space
 pubmaner5.com
 pubmatic-match.dotomi.com
@@ -13480,6 +13510,7 @@ recordedfuture.matomo.cloud
 recorder.sessionstack.com
 recruitics.com
 recs.coremetrics.com
+recs.engageya.com
 recs.richrelevance.com
 redintelligence.net
 redir.adap.tv
@@ -13633,6 +13664,7 @@ rtb.fr.eu.criteo.com
 rtb.gamoshi.io
 rtb.gumgum.com
 rtb.mfadsrvr.com
+rtb.ninthdecimal.com
 rtb.nl.eu.criteo.com
 rtb.openx.net
 rtb2-useast.assemblyexchange.com
@@ -13767,6 +13799,7 @@ s7.addthis.com
 s7airlines.solution.weborama.fr
 s7target.ru
 s8t.teads.tv
+sa-cs.deliverimp.com
 sa.bbc.co.uk
 sa.bbc.com
 sa.scorecardresearch.com
@@ -13865,6 +13898,7 @@ scripts.cleverwebserver.com
 scripts.demandbase.com
 scripts.jixie.io
 scripts.kissmetrics.com
+scripts.publy.net
 scripts.simpleanalyticscdn.com
 scripts.webcontentassessor.com
 scrollservice.com
@@ -14372,6 +14406,7 @@ smilingwaves.com
 smodus.nike.com
 smoggysnakes.com
 smon.loc.gov
+smrtb.com
 smtc.jetstar.com
 smugmugincflickrprodudction.112.2o7.net
 sn1.clicktripz.com
@@ -14424,6 +14459,7 @@ somniture.scotiabank.com
 sonar.semantiqo.com
 sonata-notifications.taptapnetworks.com
 songssmoke.com
+sonic.impactify.media
 sonobi.com
 sony-privacyportal.my.onetrust.com
 sonyglobal.d1.sc.omtrdc.net
@@ -14555,6 +14591,7 @@ ssc.hl.co.uk
 ssc.independent.co.uk
 ssc.standard.co.uk
 sshowads.pubmatic.com
+ssl-market-east-6.smrtb.com
 ssl.connextra.com
 ssl.google-analytics.com
 ssl.o.webmd.com
@@ -14707,24 +14744,32 @@ stats.fixweb.com
 stats.fon.com
 stats.g.doubleclick.net
 stats.ghost.org
+stats.juponline.pt
 stats.levels.fyi
 stats.mainroll.com
 stats.mealime.com
 stats.merriam-webster.com
 stats.mos.ru
+stats.motioncreator.net
+stats.omnisinal.pt
 stats.openvpn.net
 stats.paypal.com
 stats.postaffiliatepro.com
 stats.pusher.com
 stats.qosinus.com
 stats.seedr.com
+stats.sender.net
 stats.symptoma.com
 stats.videodelivery.net
 stats.vk-portal.net
+stats.vsports.pt
 stats.wp.com
+stats.wpmucdn.com
+stats1.wpmudev.com
 statsa.nativeroll.tv
 statsb.nativeroll.tv
 statse.webtrendslive.com
+statsforads.com
 statuesquebrush.com
 stcdproducer.dialogtech.com
 steadfastseat.com
@@ -14878,6 +14923,7 @@ sync.outbrain.com
 sync.quantumdex.io
 sync.rambler.ru
 sync.republer.com
+sync.resetdigital.co
 sync.richaudience.com
 sync.rtk.io
 sync.search.spotxchange.com
@@ -14929,6 +14975,7 @@ t.eloqua.com
 t.emma-sleep.co.uk
 t.firstpromoter.com
 t.flickr.com
+t.freelancer.com
 t.getletterpress.com
 t.imgur.com
 t.indeed.co.uk
@@ -15150,6 +15197,7 @@ thebrighttag.com
 thechronicleofhighereducation.demdex.net
 thechronicleofhighereducation.sc.omtrdc.net
 themoneytizer.com
+themoneytizer.net
 thepointyspritesclub.com
 therapeuticcars.com
 thevanguardgroup.tt.omtrdc.net
@@ -15430,10 +15478,13 @@ tritetongue.com
 trk-sp.sele.co
 trk.amen.pt
 trk.clinch.co
+trk.dominios.pt
+trk.funiber.org
 trk.kissmetrics.io
 trk.mail.ru
 trk.ometria.com
 trk.sensic.net
+trk.teamblue.services
 trk.techtarget.com
 trkapi.impact.com
 trkn.us
@@ -15592,6 +15643,7 @@ us-1.evergage.com
 us-4.evergage.com
 us-central1-adaptive-growth.cloudfunctions.net
 us-central1-amp-error-reporting.cloudfunctions.net
+us-central1-bndlyr.cloudfunctions.net
 us-central1-callpower-repair-1548316784218.cloudfunctions.net
 us-central1-signal-data-science.cloudfunctions.net
 us-east-1-decisionapi.lift.acquia.com
@@ -16026,6 +16078,7 @@ www.clicktripz.com
 www.commission-junction.com
 www.criteo.com
 www.cualbr.com
+www.databreakers.com
 www.datadoghq-browser-agent.com
 www.dianomi.com
 www.dpbolvw.net
@@ -16096,6 +16149,7 @@ www.pkracv.com
 www.profitwell.com
 www.pswec.com
 www.ptxqjyqhscs.com
+www.publab.pt
 www.pushup.wtf
 www.qksrv.net
 www.qksz.net
@@ -16115,6 +16169,7 @@ www.sjwoe.com
 www.snapengage.com
 www.stack-sonar.com
 www.statcounter.com
+www.statsforads.com
 www.storygize.net
 www.summerhamster.com
 www.t2ualmnw.com
@@ -16129,6 +16184,7 @@ www.tqlkg.com
 www.tqlkg.net
 www.trackonomics.net
 www.tribpub.com
+www.tricubo.com
 www.trvl-px.com
 www.turnto.com
 www.uat.wtf
