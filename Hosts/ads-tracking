@@ -968,6 +968,7 @@ ak0gsh40.com
 ak1s.abmr.net
 akamai.demdex.net
 akl-v4.pops.fastly-insights.com
+akn.analytics.autodesk.com
 akstat.io
 aktrack.pubmatic.com
 al102.xyz
@@ -975,6 +976,7 @@ alaskaair-app.quantummetric.com
 alaskaair-sync.quantummetric.com
 alb.reddit.com
 albacross.com
+aldinord.tt.omtrdc.net
 aldisaldiukprod.112.2o7.net
 aldisued.d3.sc.omtrdc.net
 aldisued.demdex.net
@@ -1285,6 +1287,7 @@ analytics.archive.org
 analytics.arrivalguides.com
 analytics.artirix.com
 analytics.audioeye.com
+analytics.autodesk.com
 analytics.beltzak.com
 analytics.bmj.com
 analytics.bojandevic.com
@@ -1625,6 +1628,7 @@ arizonapuzzle.com
 aromamirror.com
 artfut.com
 artirix.com
+arxivcu.containers.piwik.pro
 as-sec.casalemedia.com
 as.casalemedia.com
 as.ck-ie.com
@@ -1933,6 +1937,7 @@ bf58341inw.bf.dynatrace.com
 bf74062onh.bf.dynatrace.com
 bf74432kky.bf.dynatrace.com
 bf81760wsn.bf.dynatrace.com
+bf94800rbt.bf.dynatrace.com
 bf97725pbp.bf.dynatrace.com
 bf99193vvl.bf.dynatrace.com
 bff.latam.com
@@ -2567,6 +2572,7 @@ cedexis-radar.net
 cedexis-test.akamaized.net
 cedexis-test.com
 cedexis.pc.cdn.bitgravity.com
+cel9collection.auone.jp
 celtra.com
 cendantchg.demdex.net
 cengine.contextads.live
@@ -2811,12 +2817,14 @@ collector.brandmetrics.com
 collector.cint.com
 collector.effectivemeasure.net
 collector.fiverr.com
+collector.github.com
 collector.githubapp.com
 collector.leadinfo.net
 collector.prod.expedia.com
 collector.snplow.net
 collector.sophi.io
 collector.tealeaf.ibmcloud.com
+collector.test.expedia.com
 collector.tonaton.com
 collector.unsplash.com
 collector.wassenaar.org
@@ -2931,6 +2939,7 @@ cookiebot.com
 cookiee1.veinteractive.com
 cookielaw.org
 cookieless-data.com
+cookies-data.onetrust.io
 cookies.giphy.com
 cookies.kiwi.com
 cookies.onetrust.mgr.consensu.org
@@ -3355,6 +3364,7 @@ delivery.r2b2.io
 deliveryengine.adswizz.com
 delta.demdex.net
 deltaairlines.tt.omtrdc.net
+demand.supply
 demand.trafficroots.com
 demandbase.com
 demdex.net
@@ -3966,6 +3976,7 @@ flask.nextdoor.com
 flask.uk.nextdoor.com
 flavordecision.com
 flaxseedssoenrh4372ojd.com
+fledge-usa.creativecdn.com
 flimsycircle.com
 flimsythought.com
 flipkart.d1.sc.omtrdc.net
@@ -4156,6 +4167,7 @@ getclicky.com
 getpdaiddaily.com
 getrockerbox.com
 getsocial.io
+gfbd8494-tc3e-mcf3.asos.com
 gfp.veta.naver.com
 gfyaw1603386.ec.whrq.net
 gh-static-resources.s3.amazonaws.com
@@ -4792,6 +4804,8 @@ jrs5.com
 js-agent.newrelic.com
 js-cdn.dynatrace.com
 js-eu1.hs-analytics.net
+js-eu1.hs-scripts.com
+js-eu1.hsadspixel.net
 js-na1.hs-scripts.com
 js-sec.indexww.com
 js.ad-score.com
@@ -5011,6 +5025,7 @@ litix.io
 little-flower-d8af.torrentfreak.workers.dev
 live-detector.svc.transifex.net
 live-visitor-counts.herokuapp.com
+live.demand.supply
 live.rezync.com
 live.sekindo.com
 livecrm.co.uk
@@ -5033,6 +5048,7 @@ loadeu.exelator.com
 loadm.exelator.com
 loadus.exelator.com
 localads.maps.me
+locale.cmp.osano.com
 localhost.sensic.net
 localytics.com
 location.api.useinsider.com
@@ -12416,10 +12432,12 @@ nep.advangelists.com
 nervoussummer.com
 netmng.com
 netscope.marktest.pt
+network-eu.bazaarvoice.com
 neural28.cdnwebcloud.com
 neural31.cdnwebcloud.com
 neuralad.net
 new-collect.albacross.com
+new-sentry.digikala.com
 newjobs.d1.sc.omtrdc.net
 newrelic.com
 newscgp.com
@@ -13288,6 +13306,7 @@ prg8.smartadserver.com
 pricklyplastic.com
 printerplasma.com
 prisacom.demdex.net
+prisacom.tt.omtrdc.net
 prisasd.com
 prism.app-us1.com
 privacy-api.9gag.com
@@ -13334,6 +13353,7 @@ production-cmp.isgprivacy.cbsi.com
 production-ps.lvp.llnw.net
 productivepear.com
 profile.ewr53-c1.cloudfront.net
+profile.gru3-c2.cloudfront.net
 profile.ssp.rambler.ru
 profitrumour.com
 profitwell.com
@@ -14584,6 +14604,7 @@ southernx.nuggad.net
 southwestairlines.mpeasylink.com
 sowlettuce.com
 sp-collector.cdp.frontiersin.io
+sp-live-collector.cdp.frontiersin.io
 sp-prod.net
 sp-stage.net
 sp.analytics.yahoo.com
@@ -15415,6 +15436,7 @@ trace.onb.workers.dev
 trace.qq.com
 tracedesire.com
 tracert.alipay.com
+track-eu1.hubspot.com
 track-v2.funnelytics.io
 track.accountinsight.cloud
 track.activemetering.com
@@ -15653,6 +15675,7 @@ uat5-b.investingchannel.com
 ubiquitousyard.com
 ubiquity.cedexis.us-east-1.prod.endpoints.ubiquity.aws.a2z.com
 uconnect.tealiumiq.com
+uct.service.usercentrics.eu
 udc-neb.kampyle.com
 udc.yahoo.com
 udmserve.net
