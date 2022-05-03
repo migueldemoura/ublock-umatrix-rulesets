@@ -1364,6 +1364,7 @@ analytics.proofapi.com
 analytics.pygmalios.com
 analytics.ravebo.nl
 analytics.rctiplus.com
+analytics.regex101.com
 analytics.reil.co
 analytics.rlcdn.com
 analytics.robinhood.com
@@ -2117,6 +2118,7 @@ buy-ap.piano.io
 buysellads-d.openx.net
 buysellads.com
 buysellads.net
+bw-prod.plrsrvcs.com
 bw94.xyz
 bwi-v4.pops.fastly-insights.com
 bwtsl.xyz
@@ -2311,6 +2313,7 @@ cdn-static.egoiapp2.com
 cdn-te.e-goi.com
 cdn-ukwest.onetrust.com
 cdn-v3.conductrics.com
+cdn-v3.conductrics.net
 cdn.254a.com
 cdn.8digits.com
 cdn.abrankings.com
@@ -2685,9 +2688,11 @@ clickstream-killswitch.hd-personalization-prod.gcp.homedepot.com
 clicktale.net
 clicktime.symantec.com
 clicktripz.com
+clickup.marketlinc.com
 client-analytics.braintreegateway.com
 client-event-reporter-darklaunch.twitch.tv
 client-event-reporter.twitch.tv
+client-logger.salemove.com
 client-registry.mutinycdn.com
 client.mutinycdn.com
 client.optimizely.com
@@ -2865,6 +2870,7 @@ condenast.demdex.net
 condenastus-d.openx.net
 conditioncrush.com
 conductrics.com
+conductrics.net
 conf.lngtd.com
 confesschairs.com
 confiant-integrations.global.ssl.fastly.net
@@ -3116,6 +3122,7 @@ d.go-mpulse.net
 d.impactradius-event.com
 d.joinhoney.com
 d.lemonpi.io
+d.oracleinfinity.io
 d.post-gazette.com
 d.pub.network
 d.shpg.org
@@ -3555,6 +3562,7 @@ dumbpop.com
 dunbradstreetinc.demdex.net
 dustyrabbits.com
 dustywave.com
+duuytoqss3gu4.cloudfront.net
 duwrigndkjp.com
 dvagh3p3rk8xj.cloudfront.net
 dvqigh9b7wa32.cloudfront.net
@@ -3829,6 +3837,7 @@ exceptions.singular.net
 exch.quantserve.com
 exchange.adstanding.com
 exchange.buzzoola.com
+exchange.consumabletv.com
 exchange.mediavine.com
 exchange.postrelease.com
 exclusivebrass.com
@@ -4416,6 +4425,7 @@ highfalutinbox.com
 highfalutinhoney.com
 highfalutinroom.com
 hilariouszinc.com
+hilton.cdn-v3.conductrics.net
 hilton.demdex.net
 himediads.com
 histats.com
@@ -12542,6 +12552,7 @@ o375540.ingest.sentry.io
 o433621.ingest.sentry.io
 o435357.ingest.sentry.io
 o43548.ingest.sentry.io
+o436836.ingest.sentry.io
 o449295.ingest.sentry.io
 o473027.ingest.sentry.io
 o478484.ingest.sentry.io
@@ -12624,6 +12635,7 @@ optnmstr.com
 opvanillishan.com
 opxad.dsp.io
 oracle.112.2o7.net
+oracleinfinity.io
 orange.indeed.com
 orangeoperation.com
 orbit.tm-awx.com
@@ -13090,6 +13102,7 @@ pixanalytics2.pixnet.net
 pixel-a.basis.net
 pixel-a.sitescout.com
 pixel-c2s.sitescout.com
+pixel-eu.onaudience.com
 pixel-eu.rubiconproject.com
 pixel-geo.prfct.co
 pixel-rmk.blueknow.com
@@ -13802,7 +13815,9 @@ rum-http-intake.logs.datadoghq.com
 rum-http-intake.logs.datadoghq.eu
 rum-static.pingdom.net
 rum.api.intuit.com
+rum.browser-intake-datadoghq.com
 rum.conde.io
+rum.condenastdigital.com
 rum.optimizely.com
 rumcdn.geoedge.be
 rumiview.com
@@ -13925,6 +13940,7 @@ sail-personalize.com
 sail-track.com
 sailsuit.com
 sak.userreport.com
+salemove.com
 salesloft.com
 samestretch.com
 sams.spiegel.de
@@ -14781,6 +14797,7 @@ stat.appmifile.com
 stat.eagleplatform.com
 stat.media
 stat.thestartmagazine.com
+stat.tiara.kakaocorp.com
 stat.tiara.tistory.com
 statcounter.com
 statementsweater.com
@@ -15063,6 +15080,7 @@ sync.targeting.unrulymedia.com
 sync.teads.tv
 sync.technoratimedia.com
 sync.tidaltv.com
+sync.transcend.io
 sync.upravel.com
 sync.v5prebid.datablocks.net
 sync.zebestof.com
@@ -15941,6 +15959,7 @@ vmmphpamtigpbi.com
 vmp.boldchat.com
 vms-eu.boldchat.com
 vms.boldchat.com
+vmss-eu.boldchat.com
 vmss.boldchat.com
 vntsm.com
 vocento.demdex.net
@@ -16363,6 +16382,7 @@ x.cnt.my
 x.dlx.addthis.com
 x.fidelity-media.com
 x.innovid.com
+x.serverbid.com
 x.skimresources.com
 x.videobyte.com
 x.yieldlift.com
