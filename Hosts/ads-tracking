@@ -2079,6 +2079,7 @@ bronto.com
 brothersbucket.com
 browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
+browser-intake-datadoghq.eu
 browser.events.data.microsoft.com
 browser.events.data.msn.com
 browser.pipe.aria.microsoft.com
@@ -3271,6 +3272,7 @@ d9jj3mjthpub.cloudfront.net
 dable.io
 dac.contextads.live
 dal-v4.pops.fastly-insights.com
+damassets.autodesk.com
 damdoor.com
 dampdock.com
 dancemistake.com
@@ -4154,6 +4156,7 @@ gdpr-web-dau-prod.privacymanager.io
 gdpr-wrapper.privacymanager.io
 gdpr.api-web.shadow.tech
 gdpr.privacymanager.io
+gdpr.studybreakmedia.com
 geid.wbtrk.net
 gemius.pl
 gemorul.com
@@ -5079,6 +5082,7 @@ location.api.useinsider.com
 location.bloomberg.com
 locationapi.cdn.pagesense.io
 log-api.aplus.emas-poc.com
+log-api.newrelic.com
 log-config.samsungacr.com
 log.adtraction.fail
 log.api.useinsider.com
@@ -12564,6 +12568,7 @@ o28796.ingest.sentry.io
 o298168.ingest.sentry.io
 o326333.ingest.sentry.io
 o348491.ingest.sentry.io
+o370914.ingest.sentry.io
 o375540.ingest.sentry.io
 o433621.ingest.sentry.io
 o435357.ingest.sentry.io
@@ -13838,6 +13843,7 @@ rum-http-intake.logs.datadoghq.eu
 rum-static.pingdom.net
 rum.api.intuit.com
 rum.browser-intake-datadoghq.com
+rum.browser-intake-datadoghq.eu
 rum.conde.io
 rum.condenastdigital.com
 rum.optimizely.com
@@ -14210,6 +14216,7 @@ serving-sys.com
 serving.ads.sportradar.com
 serving.stat-rock.com
 session-replay.browser-intake-datadoghq.com
+session-replay.browser-intake-datadoghq.eu
 session.sitelabweb.com
 sessionapi.veinteractive.com
 sessioncam.com
