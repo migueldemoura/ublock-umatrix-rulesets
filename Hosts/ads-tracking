@@ -230,6 +230,7 @@ a.dpmsrv.com
 a.et.nytimes.com
 a.fiksu.com
 a.giraff.io
+a.hcaptcha.com
 a.idio.co
 a.impactradius-tag.com
 a.intentmedia.net
@@ -250,6 +251,7 @@ a.publir.com
 a.quora.com
 a.rfihub.com
 a.sportradarserving.com
+a.svtrd.com
 a.teads.tv
 a.tribalfusion.com
 a.twiago.com
@@ -1359,6 +1361,7 @@ analytics.mystats.pro
 analytics.newscred.com
 analytics.nike.com
 analytics.nullsweep.com
+analytics.nyltx.com
 analytics.ooyala.com
 analytics.openaire.eu
 analytics.openlog.in
@@ -1450,6 +1453,7 @@ api-eu.piano.io
 api-js.datadome.co
 api-js.mixpanel.com
 api-v2.mutinyhq.io
+api-v51029.bd4travel.com
 api-visitor-analytics.intercom.com
 api.adjust.com
 api.advarkads.com
@@ -1565,6 +1569,7 @@ api2.branch.io
 api9026.d41.co
 apiservices.krxd.net
 apiv2.popupsmart.com
+aplogger.adpushup.com
 apm.ux.archive.org
 apmebf.com
 apn.c.appier.net
@@ -1721,6 +1726,7 @@ audience.contextads.live
 audience.newscgp.com
 audio.thisisdax.com
 audioarctic.com
+audit-tcfv2.cmp.quantcast.com
 audit-tcfv2.quantcast.mgr.consensu.org
 audit.quantcast.mgr.consensu.org
 auditude.com
@@ -2751,6 +2757,7 @@ cmp.dmgmediaprivacy.co.uk
 cmp.faktor.mgr.consensu.org
 cmp.impresa.pt
 cmp.osano.com
+cmp.quantcast.com
 cmp.tech426.com
 cmp.techhive.com
 cmp.uniconsent.com
@@ -2790,6 +2797,7 @@ collect.igodigital.com
 collect.liputan6.id
 collect.lngtd.com
 collect.nature.com
+collect.riskid.security
 collect.tealiumiq.com
 collection.decibelinsight.net
 collector-11893.tvsquared.com
@@ -2808,6 +2816,7 @@ collector-9040.us.tvsquared.com
 collector-905.tvsquared.com
 collector-9140.us.tvsquared.com
 collector-9758.us.tvsquared.com
+collector-gikzvs7cfa-ew.a.run.app
 collector-grpc.lightstep.com
 collector-medium.lightstep.com
 collector-px8fcgygk4.perimeterx.net
@@ -2824,6 +2833,7 @@ collector-pxrw7m6iav.px-client.net
 collector-pxss13u803.px-client.net
 collector-pxty0ejule.perimeterx.net
 collector-pxty0ejule.px-cloud.net
+collector-pxu6b0qd2s.px-client.net
 collector.abc.net.au
 collector.archimedes.dowjones.io
 collector.bikroy.com
@@ -2905,6 +2915,7 @@ consciousdirt.com
 consent-pref.trustarc.com
 consent-st.trustarc.com
 consent.cookiebot.com
+consent.cookiebot.eu
 consent.dc-storm.com
 consent.intuit.com
 consent.intuit.quickbooksconnect.com
@@ -2920,6 +2931,7 @@ consent.yahoo.com
 consent.zoocdn.com
 consentag.eu
 consentcdn.cookiebot.com
+consentcdn.cookiebot.eu
 consentmanager.mgr.consensu.org
 consistpotato.com
 console.adtarget.com.tr
@@ -2952,6 +2964,7 @@ cookie-matching.mediarithmics.com
 cookie-sync.bidmyadz.com
 cookiebot.com
 cookiee1.veinteractive.com
+cookiehub.net
 cookielaw.org
 cookieless-data.com
 cookies-data.onetrust.io
@@ -3300,6 +3313,7 @@ data.coremetrics.com
 data.flurry.com
 data.giraff.io
 data.gosquared.com
+data.guide.photobucket.com
 data.hasura.io
 data.msn.com
 data.pendo.io
@@ -3314,6 +3328,7 @@ datablocks.net
 datacloud.tealiumiq.com
 datadoghq-browser-agent.com
 datadome.co
+datadome.patreon.com
 datalog.bancsabadell.com
 dataproviders.neodatagroup.com
 datasteam.io
@@ -3530,6 +3545,7 @@ dramaticdirection.com
 drawermice.com
 drawservant.com
 dressexpansion.com
+drfdisvc.walmart.com
 dripappliance.com
 driv-analytics.com
 driverequest.com
@@ -3575,11 +3591,13 @@ dustyrabbits.com
 dustywave.com
 duuytoqss3gu4.cloudfront.net
 duwrigndkjp.com
+dux.shopify.com
 dvagh3p3rk8xj.cloudfront.net
 dvqigh9b7wa32.cloudfront.net
 dvr.impactify.io
 dw-d.openx.net
 dw.impact-ad.jp
+dw.wmt.co
 dw7nrwnn2bkh1.cloudfront.net
 dwin1.com
 dwin2.com
@@ -3646,6 +3664,7 @@ ecsv2.roblox.com
 edaa.eu
 edg.quantserve.com
 edge.addthis.com
+edge.akacdn.co
 edge.curalate.com
 edge.fullstory.com
 edge.quantserve.com
@@ -3753,6 +3772,7 @@ etarget-emea.adnxs.com
 ethicalads.io
 etracker.de
 etrade.d2.sc.omtrdc.net
+eu-api-tracker.kameleoon.eu
 eu-cdn.inside-graph.com
 eu-gmtdmp.gd1.mookie1.com
 eu-google-rtb.quantserve.com
@@ -3988,8 +4008,11 @@ firehose.us-east-1.amazonaws.com
 firehose.us-east-2.amazonaws.com
 firehose.us-west-1.amazonaws.com
 firehose.us-west-2.amazonaws.com
+fireworkanalytics.com
 firstfrogs.com
+firstimpression-d.openx.net
 firstimpression.io
+fisheyemagazine.matomo.cloud
 fjr-v4.pops.fastly-insights.com
 fkrkkmxsqeb5bj9r.s3.amazonaws.com
 fksnk.com
@@ -4125,6 +4148,7 @@ g.doubleclick.net
 g.ezoic.net
 g.jwpsrv.com
 g.pcmag.com
+g.sst.secureserver.net
 g.themoneytizer.net
 g00.cnet.com
 g2.gumgum.com
@@ -4492,6 +4516,7 @@ hsadspixel.net
 hsleadflows.net
 ht-cdn2.adtng.com
 ht-cdn2.trafficjunky.net
+htlb-test.casalemedia.com
 htlb.casalemedia.com
 htlbid.com
 http300.edge.ru4.com
@@ -4592,6 +4617,7 @@ ids.cdnwidget.com
 idsync.analytics.yahoo.com
 idsync.frontend.weborama.fr
 idsync.rlcdn.com
+idx.lat
 idx.liadm.com
 iesnare.com
 ih.adscale.de
@@ -4929,6 +4955,7 @@ kissmetrics.com
 kissmetrics.io
 kitesquirrel.com
 kixer.com
+kiybdhzql-g.global.ssl.fastly.net
 kjyo-v4.pops.fastly-insights.com
 knifeoctopus.com
 knorex.com
@@ -5323,6 +5350,7 @@ matomo.tazzmania.nl
 matomo.thaiyogajena.de
 matomo.ultratrash.com
 matomo.vivancos.eu
+matomo.zerodha.net
 matterlytics.com
 maven.blueconic.net
 maw.bronto.com
@@ -12450,6 +12478,7 @@ nc-nypost-tagan.adlightning.com
 ncaudienceexchange.com
 nd.demdex.net
 nd.staples.com
+ndtv-d.openx.net
 nebadu.com
 necessarywax.com
 nectarine.indeed.com
@@ -12556,6 +12585,7 @@ o115706.ingest.sentry.io
 o127091.ingest.sentry.io
 o130950.ingest.sentry.io
 o13855.ingest.sentry.io
+o150405.ingest.sentry.io
 o211375.ingest.sentry.io
 o217888.ingest.sentry.io
 o22381.ingest.sentry.io
@@ -12580,6 +12610,7 @@ o478484.ingest.sentry.io
 o51786.ingest.sentry.io
 o552333.ingest.sentry.io
 o55869.ingest.sentry.io
+o55978.ingest.sentry.io
 o76154.ingest.sentry.io
 o828979.ingest.sentry.io
 o857990.ingest.sentry.io
@@ -12680,6 +12711,7 @@ otisephie.com
 otm-r.com
 otsuka.demdex.net
 out.joinhoney.com
+outbid.firstimpression.io
 outbrain.com
 outrch.com
 outstandingincome.com
@@ -13669,6 +13701,7 @@ referrer.disqus.com
 refersion.com
 reflectivereward.com
 region1.analytics.google.com
+region1.google-analytics.com
 regions.demdex.net
 regionsbank.mpeasylink.com
 regularplants.com
@@ -13688,6 +13721,7 @@ report-uri.robinhood.com
 report.bex.glassboxdigital.io
 report.marriott.glassboxdigital.io
 report2.hb.brainlyads.com
+reporting.cdndex.io
 reporting.powerad.ai
 reports.booking.com
 reports.crashlytics.com
@@ -13780,6 +13814,7 @@ rs.mail.ru
 rsaltsjt.com
 rscdn.storetail.net
 rt.ad-score.com
+rt.idx.lat
 rt.udmserve.net
 rt3012.infolinks.com
 rt3013.infolinks.com
@@ -13984,6 +14019,7 @@ samsungotn.net
 samsungrum.beusable.net
 samsungscript.beusable.net
 sanalytics.box.com
+sanalytics.verizon.com
 sand.ostrichesica.com
 sandbox.ssp.rambler.ru
 sapo-ams.gscontxt.net
@@ -13992,6 +14028,7 @@ sasinator.realestate.com.au
 satisfycork.com
 satisfyingshow.com
 satisfyingspark.com
+sats.spiegel.de
 savoryorange.com
 savorystructure.com
 saxp.zedo.com
@@ -14078,6 +14115,7 @@ sdk.iad-01.braze.com
 sdk.iad-02.braze.com
 sdk.iad-03.braze.com
 sdk.iad-04.braze.com
+sdk.iad-05.braze.com
 sdk.iad-06.braze.com
 sdk.loyaltylion.net
 sdk.privacy-center.org
@@ -15221,6 +15259,7 @@ tag.escalated.io
 tag.getdrip.com
 tag.goadopt.io
 tag.goldenbees.fr
+tag.guestline.net
 tag.idsync.analytics.yahoo.com
 tag.leadplace.fr
 tag.mtrcs.samba.tv
@@ -15356,6 +15395,7 @@ terribleturkey.com
 terrificgoose.com
 terrifictooth.com
 teschenite.com
+test.cmp.quantcast.com
 test.contentsquare.com
 test.fastly-insights.com
 test.quantcast.mgr.consensu.org
@@ -15425,6 +15465,7 @@ tk.storetail.io
 tkbo.com
 tkqlhce.com
 tl.r7ls.net
+tls-ech-experiment.cloudflareresearch.com
 tls-eun1.fpapi.io
 tls-use1.fpapi.io
 tls.telemetry.swe.quicinc.com
@@ -15941,6 +15982,8 @@ veplextrack.pw
 vercel-analytics.com
 vercel-insights.com
 verifyvegetable.com
+verizon.demdex.net
+verizonenterprise.demdex.net
 verizontelecom.tt.omtrdc.net
 verseballs.com
 veta.naver.com
@@ -16212,11 +16255,14 @@ ws22.hotjar.com
 ws23.hotjar.com
 ws25.hotjar.com
 ws27.hotjar.com
+ws28.hotjar.com
 ws3.hotjar.com
 ws32.hotjar.com
 ws33.hotjar.com
+ws37.hotjar.com
 ws4.hotjar.com
 ws5.hotjar.com
+ws7.hotjar.com
 ws9.hotjar.com
 wsa1.byside.com
 wsdk-files.webengage.com
