@@ -296,6 +296,7 @@ aa.online-metrix.net
 aa.trkn.us
 aaas.demdex.net
 aax-cpm.amazon-adsystem.com
+aax-dtb-cf.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-eu.amazon.co.uk
 aax-eu.amazon.de
@@ -2700,6 +2701,7 @@ click.email-intimissimi.com
 click.icptrack.com
 click.linksynergy.com
 click.oneplus.com
+click.prod.mplat-ppcprotect.com
 click.retargeter.com.br
 click.revolut.com
 click.udimg.com
@@ -4459,6 +4461,7 @@ hb.aralego.com
 hb.brainlyads.com
 hb.emxdgt.com
 hb.gammaplatform.com
+hb.jixie.io
 hb.undertone.com
 hb.vhsrv.com
 hb.vntsm.com
@@ -4710,6 +4713,7 @@ imp.ad-plus.cn
 imp.optaim.com
 imp3.nowinteract.com
 impact-ad.jp
+impact-log-api.frontiersin.org
 impactcdn.com
 impactify.media
 impactradius-event.com
@@ -4780,6 +4784,7 @@ innocentwax.com
 innocraft.cloud
 innovid.com
 inqlnfvog763mmf771rou737u.litix.io
+inquirer.blueconic.net
 inquisitiveinvention.com
 inrecsys.popin.cc
 ins.connatix.com
@@ -12816,6 +12821,7 @@ p36.cedexis-test.com
 p3a.brave.com
 p41683.cedexis-test.com
 p42939.cedexis-test.com
+p543.inquirer.com
 p7hwvdb4p.com
 pa.rxthdr.com
 pac.talksport.com
@@ -13711,6 +13717,7 @@ raspberry.indeed.com
 raygun.io
 rb.adnxs.com
 rbp.mxptint.net
+rc-animation-feature.js.driftt.com
 rc-follow-me.js.driftt.com
 rc.rlcdn.com
 rcom.dynamicyield.com
@@ -14022,6 +14029,7 @@ s.pixsrvcs.com
 s.po.st
 s.publico.pt
 s.pubmine.com
+s.pwt.soundcloud.com
 s.qhupdate.com
 s.richaudience.com
 s.rtyche.com
@@ -14915,6 +14923,7 @@ st.dynamicyield.com
 st.fullcircleinsights.com
 st.ifla.org
 st.pba.xl.pt
+st.pubmatic.com
 st.sp.aviasales.ru
 st1.dialogtech.com
 st2.dialogtech.com
@@ -15706,6 +15715,7 @@ tracking.cdiscount.com
 tracking.cirrusinsight.com
 tracking.crazyegg.com
 tracking.cruisehost.net
+tracking.digitalocean.com
 tracking.emerse.com
 tracking.epicgames.com
 tracking.filstalwelle.com
@@ -16076,6 +16086,7 @@ verizonenterprise.demdex.net
 verizontelecom.tt.omtrdc.net
 verseballs.com
 veta.naver.com
+vi.ml314.com
 vice-useast.gscontxt.net
 vid-io-cle.springserve.com
 vid-io-dub.springserve.com
@@ -16213,6 +16224,7 @@ web.adblade.com
 web.frontapp.com
 web.hb.ad.cpe.dotomi.com
 web.ssp.yahoo.com
+web.vortex-extended.data.microsoft.com
 web.vortex.data.microsoft.com
 web.vortex.data.msn.com
 webanalytics.europa.eu
@@ -16229,6 +16241,7 @@ webgains.io
 webhook.logentries.com
 webid.ad.daum.net
 webinsight.s3.amazonaws.com
+webmdcom.tt.omtrdc.net
 weborama.com
 weborama.fr
 webranking-cookie-policy.s3.eu-central-1.amazonaws.com
@@ -16350,10 +16363,12 @@ ws25.hotjar.com
 ws27.hotjar.com
 ws28.hotjar.com
 ws3.hotjar.com
+ws30.hotjar.com
 ws32.hotjar.com
 ws33.hotjar.com
 ws37.hotjar.com
 ws4.hotjar.com
+ws40.hotjar.com
 ws5.hotjar.com
 ws7.hotjar.com
 ws9.hotjar.com
